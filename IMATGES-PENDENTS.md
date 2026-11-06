@@ -5,19 +5,6 @@ a `src/img/fotos/` amb el nom de la primera columna i torna a generar la web (`p
 
 | Fitxer | On surt | A la web antiga |
 |---|---|---|
-| `02-psicoterapia.jpg` | /, /psicoterapia-per-a-adults-a-vic-i-on-line/ |  |
-| `03-parella.jpg` | /, /terapia-de-parella-a-vic-osona-i-on-line/ |  |
-| `04-mentoria.jpg` | /, /mentoria-en-mindfulness/ |  |
-| `05-trencant-patrons.jpg` | /, /trencant-patrons-de-pensament-mindfulness-a-vic/ |  |
-| `06-soroll-mental.jpg` | /, /gestiona-el-soroll-mental-mindfulness-a-vic/ |  |
-| `07-desprograma.jpg` | /, /desprograma-la-teva-ment-mindfulness-a-vic/ |  |
-| `08-moviment-autentic.jpg` | /, /moviment-autentic-i-el-treball-que-reconnecta/ |  |
-| `09-ioga-regulacio.jpg` | /, /ioga-per-a-la-regulacio-emocional/ |  |
-| `10-espiral-tqr.jpg` | /, /lespiral-del-treball-que-reconnecta-i-el-moviment-autentic/ |  |
-| `11-curs-por.jpg` | /, /por-ansietat-i-atencio-plena-mindfulness/ |  |
-| `12-curs-creences.jpg` | /, /deslliurar-se-de-creences-i-patrons-de-pensament-negatius/ |  |
-| `13-curs-patiment.jpg` | /, /transformar-el-patiment/ |  |
-| `14-sobre-nosaltres.jpg` | /sobre-nosaltres/ |  |
 | `15-contacte.jpg` | /contacte-2/ |  |
 | `16-telegram.jpg` | /, /canal-de-telegram/ |  |
 | `17-youtube.jpg` | /, /canal-de-youtube/ |  |
