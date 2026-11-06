@@ -42,7 +42,7 @@
   "maps": {
     "reviews": "Llegeix als nostres perfils de Google Maps les opinions de desenes de pacients i alumnes.",
     "places": [
-      {"title": "L'Espiral d'Osona", "text": "Ronda de Francesc Camprodon, 25, 1r 1a, Vic (Osona)", "map": "Ronda de Francesc Camprodon 25, 08500 Vic", "zoom": 16},
+      {"title": "L'Espiral d'Osona", "text": "Ronda de Francesc Camprodon, 25, 1r 1a, Vic (Osona)", "map": "L'Espiral d'Osona - Centre de Psicoteràpia - Carrer d'Ignasi Iglesias, 14"},
       {"title": "L'Espiral del Prat", "map": "L'espiral, psicolegs i terapeutes, Jaume Casanovas, 177, el prat de llobregat"},
       {"title": "L'Espiral de Barcelona", "map": "Gestalt Mindfulness - L'Espiral - Psicoteràpia i Mindfulness Avinguda del Paral·lel 139 Escala B 1er 4a, 08004 Barcelona"}
     ]
