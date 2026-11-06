@@ -1,0 +1,125 @@
+{
+ "seo_title": "Trencant patrons de pensament – Mindfulness a Vic",
+ "kicker": "Mindfulness a Vic i OnLine",
+ "title": "Trencant patrons de pensament",
+ "lead": "Mindfulness per assaborir la llibertat que és possible quan deixes anar creences i pensaments.",
+ "image": "2024/07/ansiedad-2-psicologo-en-el-prat-1.jpg",
+ "buttons": [
+  {
+   "text": "Formulari d'inscripció",
+   "href": "https://forms.gle/8NvAebo2uQLQgSyp7"
+  },
+  {
+   "text": "Sobre nosaltres",
+   "href": "sobre-nosaltres"
+  }
+ ],
+ "description": "Taller pràctic de Mindfulness a Vic per identificar i desafiar les creences que actuen com una presó i aprendre a mirar els pensaments amb curiositat.",
+ "sections": [
+  {
+   "type": "help",
+   "band": "soft"
+  },
+  {
+   "type": "text",
+   "title": "Trencant patrons de pensament",
+   "image": "2024/07/woman-model-sunset-5561498.jpg",
+   "paragraphs": [
+    "T'has sentit mai atrapat/da en un patró familiar de pensaments que et fa jutjar-te i et manté en tensió?",
+    "Sovint vivim sumits en allò que anomenem «el tràngol», una sensació de fons impulsada per la creença de ser un «jo separat» i que, en essència, ens fa sentir que «alguna cosa està malament amb mi».",
+    "Anem pel món mirant la realitat a través d'unes ulleres interpretatives, creant mapes mentals dualistes (bo/dolent, correcte/incorrecte) per intentar sentir-nos segurs.",
+    "Però, com diu la tradició contemplativa, «un món interpretat no és una llar».",
+    "Aferrar-nos a aquestes creences ens aliena, ens separa dels altres i ens desconnecta del nostre veritable ésser."
+   ]
+  },
+  {
+   "type": "text",
+   "band": "soft",
+   "title": "En què consisteix aquest curs?",
+   "image": "2024/07/mindfulness-el-prat.jpg",
+   "reverse": true,
+   "paragraphs": [
+    "Aquest taller pràctic és una invitació a identificar i desafiar les creences que actuen com una presó.",
+    "A través de la pràctica de l'Atenció Plena, explorarem com els nostres pensaments dualistes creen la il·lusió de separació i patiment.",
+    "No lluitarem contra els pensaments, sinó que aprendrem a apropar-nos-hi amb la «curiositat de l'artesà».",
+    "Treballarem el principi fonamental que els teus pensaments i emocions «són reals, però no són veritat», per començar a diferenciar el mapa mental del territori real."
+   ]
+  },
+  {
+   "type": "text",
+   "title": "A qui va dirigit?",
+   "image": "2024/07/mindfulness-psicoterapia-el-prat.jpg",
+   "paragraphs": [
+    "Aquest taller és per a tu si:"
+   ],
+   "list": [
+    "Et sents atrapat/da en creences de no ser prou bo/na o que «alguna cosa falla» en tu.",
+    "Notes que els teus mapes mentals (com haurien de ser les coses) et generen distància i conflicte en les relacions.",
+    "Et parles amb un diàleg intern dur i autocrític.",
+    "Vols aprendre a mirar les teves emocions i pensaments dolorosos amb curiositat i no amb rebuig."
+   ]
+  },
+  {
+   "type": "text",
+   "band": "soft",
+   "title": "Què t'emportaràs d'aquest taller? (Els beneficis)",
+   "image": "2024/07/curso-miedo-ansiedad-mindfulness-1.jpg",
+   "reverse": true,
+   "list": [
+    "**Desidentificació:** aprendràs la distinció clau entre sentir una emoció real i no creure't la història absoluta (el mapa mental) que la genera.",
+    "**Connexió autèntica:** descobriràs com afluixar els judicis cap a tu i els altres et permet retrobar un sentit de pertinença i intimitat.",
+    "**Canvi de reacció:** substituiràs la necessitat de defensar-te o culpar per una curiositat amable que desfà els nusos relacionals i mentals.",
+    "**Més llibertat:** experimentaràs com és començar a sortir del petit «jo separat» per habitar un espai de més obertura i presència."
+   ],
+   "buttons": [
+    {
+     "text": "Formulari d'inscripció",
+     "href": "https://forms.gle/8NvAebo2uQLQgSyp7"
+    },
+    {
+     "text": "Sobre nosaltres",
+     "href": "sobre-nosaltres"
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "cols": 2,
+   "items": [
+    {
+     "icon": "calendar-dots",
+     "title": "Detalls pràctics",
+     "list": [
+      "**Durada:** 3 hores d'immersió teoricopràctica.",
+      "**Data:** divendres 16 d'octubre",
+      "**Horari:** de 18 h a 21 h",
+      "**On?** Ronda de Francesc Camprodon, 25, 1r 1a. 08500 Vic",
+      "**Preu:** el preu del taller és de **35 euros** i inclou l'accés a material gravat per a poder continuar practicant després del taller.",
+      "**Idioma del curs:** català"
+     ]
+    },
+    {
+     "icon": "users",
+     "title": "Impartit per",
+     "lead": "Aleix Boronat",
+     "text": "Director i cofundador de L'Espiral. Terapeuta Gestalt, Mentor en Mindfulness i Membre adherent de l'AETG. Formació en Psicoteràpia Integrativa (programa SAT). Format en tècniques psicocorporals (Shiatsu i Moviment, Seitai, Ioga, Bioenergètica)."
+    }
+   ],
+   "buttons": [
+    {
+     "text": "Formulari d'inscripció",
+     "href": "https://forms.gle/8NvAebo2uQLQgSyp7"
+    },
+    {
+     "text": "Sobre nosaltres",
+     "href": "sobre-nosaltres"
+    }
+   ]
+  },
+  {
+   "type": "maps",
+   "band": "stone",
+   "id": "on-som"
+  }
+ ]
+}

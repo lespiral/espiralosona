@@ -1,0 +1,367 @@
+{
+ "seo_title": "L'Espiral del Treball que Reconnecta i el Moviment Autèntic",
+ "kicker": "Taller presencial a Vic",
+ "title": "L'Espiral del Treball que Reconnecta i Moviment Autèntic",
+ "lead": "Un recorregut de 8 sessions per explorar, a través del cos, la relació amb nosaltres mateixos, els altres i el món.",
+ "image": "2026/08/moviment-autentic-vic-osona-lespiral-05.jpg",
+ "buttons": [
+  {
+   "text": "Demanar més informació",
+   "href": "contacte-2"
+  },
+  {
+   "text": "Sobre nosaltres",
+   "href": "sobre-nosaltres"
+  }
+ ],
+ "description": "Recorregut presencial de 8 sessions a Vic que travessa amb el cos les grans preguntes del Treball que Reconnecta, a través del Moviment Autèntic.",
+ "sections": [
+  {
+   "type": "help",
+   "band": "soft"
+  },
+  {
+   "type": "text",
+   "title": "Del cos individual als cossos en el món",
+   "image": "2026/08/moviment-autentic-vic-osona-lespiral-10.jpg",
+   "lead": false,
+   "paragraphs": [
+    "Vivim bona part de la nostra experiència intentant comprendre què ens passa a través del pensament.",
+    "Ens preguntem què sentim, què volem, què ens preocupa, què hauríem de canviar o què hauríem de fer.",
+    "Però **no tota l'experiència comença amb una resposta verbal**.",
+    "El cos percep, reacciona, s'orienta, s'apropa, s'allunya, s'atura i es mou abans que moltes vegades puguem explicar què està passant.",
+    "Aquest recorregut proposa explorar algunes de les grans preguntes del **Treball que Reconnecta** deixant que també siguin travessades pel cos.",
+    "No buscarem que el moviment respongui les preguntes.",
+    "Les utilitzarem com a portes.",
+    "I després escoltarem."
+   ]
+  },
+  {
+   "type": "text",
+   "band": "soft",
+   "title": "Un recorregut de reconnexió",
+   "image": "2026/08/moviment-autentic-vic-osona-lespiral-02.jpg",
+   "reverse": true,
+   "lead": false,
+   "paragraphs": [
+    "El Treball que Reconnecta descriu un procés en forma d'espiral que ens convida a partir d'allò que estimem i agraïm, reconèixer allò que ens preocupa, ampliar la nostra mirada i descobrir com volem participar en el món.",
+    "En aquest cicle recorrerem aquesta Espiral a través de **set preguntes**:"
+   ],
+   "list": [
+    "**Què estimo? Què m'encanta?**",
+    "**A què vull donar les gràcies?**",
+    "**Què em preocupa?**",
+    "**Què m'inspira?**",
+    "**Què espero profundament?**",
+    "**Quin paper m'agradaria tenir?**",
+    "**Quin és el següent pas?**"
+   ],
+   "after": [
+    "Però no intentarem respondre-les només pensant.",
+    "Explorarem què succeeix quan aquestes preguntes entren en contacte amb **sensacions, impulsos, moviment, quietud, relació i testimoniatge.**"
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Del «jo» al «nosaltres»",
+   "image": "2026/08/moviment-autentic-vic-osona-lespiral-06.jpg",
+   "lead": false,
+   "paragraphs": [
+    "El recorregut no només avançarà a través de les set preguntes.",
+    "També evolucionarà la nostra manera de moure'ns i de relacionar-nos.",
+    "Al començament explorarem principalment **el propi cos i l'impuls individual**.",
+    "Progressivament introduirem la figura del **testimoni**: una altra persona que és present davant la nostra experiència sense dirigir-la ni interpretar-la.",
+    "Més endavant entrarem en el **cercle**.",
+    "El moviment individual començarà a existir dins d'un camp més ampli de presències, moviments, silencis i relacions.",
+    "El recorregut serà, per tant:",
+    "**Jo → Tu → Nosaltres → Jo dins del nosaltres → Nosaltres dins del món**"
+   ]
+  },
+  {
+   "type": "steps",
+   "band": "soft",
+   "title": "Les 8 sessions",
+   "items": [
+    {
+     "n": 0,
+     "title": "Entrar en l'experiència",
+     "lead": "Aprendre a escoltar",
+     "paragraphs": [
+      "Introduirem els principis del treball, la consciència de l'impuls, el moviment i la quietud, i les funcions de la persona que es mou i de la persona que testimonia."
+     ]
+    },
+    {
+     "n": 1,
+     "title": "M'estimo · M'encanta",
+     "lead": "Allò que em dona vida",
+     "paragraphs": [
+      "Començarem l'Espiral entrant en contacte amb allò que estimem, valorem o ens fa sentir vius.",
+      "El moviment serà principalment individual, sostingut per la presència del facilitador com a testimoni del grup."
+     ]
+    },
+    {
+     "n": 2,
+     "title": "Gràcies",
+     "lead": "Reconèixer allò que ens sosté",
+     "paragraphs": [
+      "Introduirem el treball en díades.",
+      "Experimentarem successivament els llocs de qui es mou i de qui testimonia, explorant com la nostra experiència individual existeix també en relació amb altres presències."
+     ]
+    },
+    {
+     "n": 3,
+     "title": "Em preocupa",
+     "lead": "Donar espai a allò que ens toca",
+     "paragraphs": [
+      "Ens aproximarem a alguna cosa significativa que ens preocupa sense necessitat de solucionar-la immediatament.",
+      "Continuarem treballant en díades, explorant la possibilitat d'apropar-nos a experiències difícils sense haver de fer-ho completament sols."
+     ]
+    },
+    {
+     "n": 4,
+     "title": "M'inspira",
+     "lead": "Descobrir el camp",
+     "paragraphs": [
+      "Amb aquesta sessió entrarem en la fase de Veure amb nous ulls del Treball que Reconnecta.",
+      "Introduirem progressivament el treball en cercle i explorarem què succeeix quan el moviment propi existeix dins d'un camp compartit."
+     ]
+    },
+    {
+     "n": 5,
+     "title": "Espero",
+     "lead": "Sentir cap a on ens orientem",
+     "paragraphs": [
+      "L'esperança no serà entesa simplement com pensar que les coses aniran bé.",
+      "Explorarem corporalment orientació, possibilitat i direcció:",
+      "Cap a què tendeixo quan no necessito saber exactament com arribar-hi?"
+     ]
+    },
+    {
+     "n": 6,
+     "title": "El meu paper",
+     "lead": "Descobrir la pròpia manera de participar",
+     "paragraphs": [
+      "Dins del cercle, explorarem la relació entre singularitat i pertinença.",
+      "Què passa quan formo part d'un conjunt sense deixar de ser jo?",
+      "Quina és la meva manera de participar?",
+      "No buscarem assignar significats als moviments, sinó observar l'experiència que emergeix quan ens movem dins d'un camp compartit."
+     ]
+    },
+    {
+     "n": 7,
+     "title": "El següent pas",
+     "lead": "Del moviment a l'acció",
+     "paragraphs": [
+      "L'última sessió tornarà a connectar l'experiència amb la vida quotidiana.",
+      "Després d'haver recorregut l'Espiral, explorarem què continua movent-se en nosaltres i quina forma concreta pot prendre fora de la sala.",
+      "El recorregut acabarà amb una pregunta: **Quin és un següent pas possible?**"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Una pràctica que evoluciona amb el grup",
+   "image": "2026/08/moviment-autentic-vic-osona-lespiral-01.jpg",
+   "reverse": true,
+   "lead": false,
+   "paragraphs": [
+    "Cada sessió tindrà una durada de **3 hores** i combinarà quatre dimensions:"
+   ],
+   "blocks": [
+    {
+     "h": "Comprendre",
+     "paragraphs": [
+      "Introduirem la pregunta i el moment de l'Espiral que treballarem aquell dia."
+     ]
+    },
+    {
+     "h": "Preparar el cos",
+     "paragraphs": [
+      "Mitjançant consciència corporal, moviment i atenció prepararem les condicions necessàries per escoltar l'experiència."
+     ]
+    },
+    {
+     "h": "Moure i testimoniar",
+     "paragraphs": [
+      "La pràctica de Moviment Autèntic constituirà el centre experiencial de cada trobada.",
+      "La forma evolucionarà progressivament des del moviment individual cap a les díades i, finalment, cap al cercle."
+     ]
+    },
+    {
+     "h": "Integrar",
+     "paragraphs": [
+      "Acabarem amb un espai de silenci, integració i cercle de paraula perquè l'experiència pugui anar trobant també la seva expressió verbal."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "band": "soft",
+   "title": "A qui va dirigit?",
+   "image": "2026/08/moviment-autentic-vic-osona-lespiral-09.jpg",
+   "lead": false,
+   "paragraphs": [
+    "Aquest recorregut pot interessar-te si:"
+   ],
+   "list": [
+    "Vols aprofundir en la consciència corporal i l'autoconeixement.",
+    "T'interessa explorar la relació entre cos, emoció, moviment i consciència.",
+    "Busques un espai on poder escoltar la pròpia experiència sense necessitat d'interpretar-la immediatament.",
+    "T'interessa el Moviment Autèntic.",
+    "Coneixes el Mindfulness, el ioga, la Gestalt, la dansa o altres pràctiques corporals i vols aprofundir en l'escolta de l'impuls intern.",
+    "T'interessen el Treball que Reconnecta i l'Esperança Activa.",
+    "Et preguntes com relacionar-te amb allò que t'importa i et preocupa sense quedar atrapat/da únicament en la impotència o el desbordament.",
+    "Vols explorar la relació entre experiència individual, relació amb els altres i pertinença a una realitat més àmplia."
+   ],
+   "after": [
+    "**No cal saber ballar ni tenir experiència prèvia en Moviment Autèntic.**"
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Què et pot aportar aquest recorregut?",
+   "image": "2026/08/moviment-autentic-vic-osona-lespiral-04.jpg",
+   "reverse": true,
+   "lead": false,
+   "blocks": [
+    {
+     "h": "Escoltar amb més profunditat el cos",
+     "paragraphs": [
+      "Desenvolupar una major sensibilitat envers sensacions, impulsos, moviment i quietud."
+     ]
+    },
+    {
+     "h": "Aprendre a habitar el no-saber",
+     "paragraphs": [
+      "Experimentar que no sempre necessitem trobar immediatament una explicació o una resposta."
+     ]
+    },
+    {
+     "h": "Moure't i ser testimoniat",
+     "paragraphs": [
+      "Explorar què succeeix quan podem viure la nostra experiència en presència d'una altra persona sense que aquesta hagi de dirigir-la o interpretar-la."
+     ]
+    },
+    {
+     "h": "Aprendre a testimoniar",
+     "paragraphs": [
+      "Practicar una presència davant de l'altre que inclogui també consciència de les pròpies reaccions, judicis i interpretacions."
+     ]
+    },
+    {
+     "h": "Experimentar la interdependència",
+     "paragraphs": [
+      "Passar progressivament del moviment individual a l'experiència de formar part d'un camp compartit."
+     ]
+    },
+    {
+     "h": "Reconnectar amb allò que t'importa",
+     "paragraphs": [
+      "Explorar corporalment allò que estimes, agraeixes, et preocupa, t'inspira i esperes."
+     ]
+    },
+    {
+     "h": "Descobrir formes possibles de participació",
+     "paragraphs": [
+      "Connectar l'experiència interior amb la pregunta sobre quin lloc volem ocupar i quin pot ser el nostre següent pas."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "html": true,
+   "title": "Què és el Treball que Reconnecta?",
+   "image": "2026/09/ESS-06.jpg",
+   "lead": false,
+   "paragraphs": [
+    "El <strong>Treball que Reconnecta</strong>, creat per <a href=\"https://www.joannamacy.net/main\" rel=\"noopener\"><strong>Joanna Macy</strong></a>, filòsofa, autora i activista reconeguda internacionalment pel seu treball en ecologia profunda, budisme compromès i transformació social, és una proposta vivencial per afrontar el malestar davant les crisis personals, socials i ecològiques sense quedar-nos atrapats en la impotència. La seva Espiral ens convida a passar de la connexió amb allò que ens importa a una resposta més conscient i compromesa."
+   ],
+   "list": [
+    "<strong>Consciència.</strong> Comencem reconnectant amb allò que estimem, el que ens sosté i també el que ens preocupa. Donar espai a aquestes emocions ens ajuda a entendre què és important per a nosaltres i què volem cuidar.",
+    "<strong>Comunitat.</strong> Ampliem la mirada i recordem que no estem sols. Formem part de xarxes de relacions, comunitats i sistemes vius. Compartir el que ens preocupa pot transformar l'aïllament en suport, perspectiva i sentit de pertinença.",
+    "<strong>Acció.</strong> Finalment, ens preguntem quin paper podem assumir i quin és el següent pas possible. No cal que sigui una gran acció: l'important és que sigui concreta, realista i connectada amb els nostres valors i amb allò que volem contribuir a cuidar."
+   ],
+   "band": "soft"
+  },
+  {
+   "type": "text",
+   "band": "white",
+   "title": "Esperança Activa",
+   "image": "2026/09/AC-10.jpg",
+   "reverse": true,
+   "lead": false,
+   "paragraphs": [
+    "Tot aquest procés busca cultivar l'**Esperança Activa.**",
+    "L'**Esperança Activa** no consisteix a confiar passivament que tot anirà bé, sinó a reconèixer què és important per a nosaltres i **participar activament en allò que volem cuidar o transformar**, encara que no puguem controlar-ne el resultat."
+   ]
+  },
+  {
+   "type": "text",
+   "html": true,
+   "title": "Vols fer un tastet d'Esperança Activa?",
+   "image": "2026/09/Elara-Social.png",
+   "lead": false,
+   "paragraphs": [
+    "Si vols conèixer el <strong>Treball que Reconnecta</strong> d'una manera senzilla i guiada, pots començar amb <a href=\"https://elarasocial.com/7-passes-cap-a-lesperanca-activa/\" rel=\"noopener\"><strong>7 passes cap a l'Esperança Activa</strong></a>: uns recorreguts <strong>breus, online i gratuïts</strong> per reconnectar amb allò que t'importa, donar espai al que et preocupa i explorar quin pot ser el teu següent pas possible.",
+    "Hi trobaràs propostes vinculades al <strong>malestar personal, la salut mental comunitària, l'acció climàtica i els reptes socials</strong>.",
+    "Aquesta proposta ha estat creada conjuntament amb <strong>Elara Social</strong>, el projecte amb què desenvolupem iniciatives orientades a la <strong>consciència, la comunitat i l'acció</strong>.",
+    "<strong>Descobreix els recorreguts de 7 passes cap a l'Esperança Activa a la web d'<a href=\"https://elarasocial.com/7-passes-cap-a-lesperanca-activa/\" rel=\"noopener\">Elara Social</a>.</strong>"
+   ],
+   "buttons": [
+    {
+     "text": "Explora l'Esperança Activa",
+     "href": "https://elarasocial.com/7-passes-cap-a-lesperanca-activa/"
+    }
+   ],
+   "band": "soft"
+  },
+  {
+   "type": "cards",
+   "kicker": "Taller presencial a Vic",
+   "title": "L'Espiral del Treball que Reconnecta i Moviment Autèntic",
+   "cols": 2,
+   "items": [
+    {
+     "icon": "calendar-dots",
+     "title": "Detalls pràctics",
+     "list": [
+      "**Durada:** 8 sessions de 3 h",
+      "**Format:** taller presencial",
+      "**Grup:** places limitades",
+      "**Experiència prèvia:** no és necessària",
+      "**Roba:** còmoda i que permeti moure't lliurement",
+      "**Lloc:** Ronda de Francesc Camprodon, 25, 1r 1a. 08500 Vic"
+     ]
+    },
+    {
+     "icon": "users",
+     "title": "Impartit per",
+     "lead": "Aleix Boronat",
+     "paragraphs": [
+      "Terapeuta Gestalt, professor de Ioga i Mindfulness, facilitador del Treball que Reconnecta i practicant de la Disciplina del Moviment Autèntic amb la Betina Waissman.",
+      "La proposta integra l'experiència en treball corporal, Mindfulness i Gestalt amb el Treball que Reconnecta i la pràctica del Moviment Autèntic.",
+      "**Aquest taller no forma part de la Discipline of Authentic Movement de Janet Adler ni pretén oferir-ne una formació. El Moviment Autèntic constitueix una de les fonts i pràctiques que inspiren la proposta.**"
+     ]
+    }
+   ],
+   "buttons": [
+    {
+     "text": "Demanar més informació",
+     "href": "contacte-2"
+    },
+    {
+     "text": "Sobre nosaltres",
+     "href": "sobre-nosaltres"
+    }
+   ]
+  },
+  {
+   "type": "maps",
+   "band": "stone",
+   "id": "on-som"
+  }
+ ]
+}

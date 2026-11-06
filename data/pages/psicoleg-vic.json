@@ -1,0 +1,135 @@
+{
+ "seo_title": "Psicòleg Vic",
+ "title": "Psicoteràpia per a adults a Vic",
+ "lead": "Un espai professional, proper i confidencial per comprendre què t'està passant, afrontar les dificultats que estàs vivint i trobar noves maneres de relacionar-te amb tu mateix/a i amb el teu entorn.",
+ "sub": "Atenció presencial a Vic i també online.",
+ "image": "2024/07/Terapia-Individual-El-Melic-El-Prat-de-Llobregat.jpg",
+ "buttons": [
+  {
+   "text": "Demana hora",
+   "href": "contacte-2"
+  },
+  {
+   "text": "Sobre nosaltres",
+   "href": "sobre-nosaltres"
+  }
+ ],
+ "description": "Psicoteràpia per a adults a Vic: un espai professional, proper i confidencial per comprendre què t'està passant i trobar noves maneres de relacionar-te amb tu mateix/a i amb el teu entorn.",
+ "sections": [
+  {
+   "type": "help",
+   "band": "soft"
+  },
+  {
+   "type": "text",
+   "title": "Potser estàs passant per un moment en què necessites ajuda",
+   "image": "2024/07/ansiedad-psicologo-en-el-prat.png",
+   "lead": false,
+   "paragraphs": [
+    "No cal arribar a una situació límit per començar un procés de psicoteràpia.",
+    "**Podem acompanyar-te** si estàs vivint:"
+   ],
+   "list": [
+    "ansietat, angoixa o preocupació persistent",
+    "estrès o sensació de desbordament",
+    "baixa autoestima o inseguretat",
+    "dificultats en les relacions",
+    "dols, separacions o canvis vitals",
+    "bloquejos emocionals",
+    "moments de crisi o pèrdua de sentit",
+    "patrons que es repeteixen i que voldries comprendre millor",
+    "dificultats per posar límits o expressar el que necessites",
+    "sensació d'estar encallat/da o de no saber com avançar"
+   ],
+   "buttons": [
+    {
+     "text": "Demana hora",
+     "href": "contacte-2"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "band": "soft",
+   "title": "Un espai per mirar amb més claredat el que estàs vivint",
+   "image": "2024/07/Terapia-en-adultos-1.png",
+   "reverse": true,
+   "lead": false,
+   "paragraphs": [
+    "La psicoteràpia ofereix un espai de confiança on poder explorar el que et preocupa sense judicis i amb l'acompanyament d'un professional.",
+    "El procés terapèutic pot ajudar-te a:"
+   ],
+   "list": [
+    "**comprendre millor què t'està passant**,",
+    "**reconèixer patrons que es repeteixen**,",
+    "**identificar les teves necessitats**,",
+    "**prendre consciència de com et relaciones amb tu mateix/a i amb els altres** i",
+    "**explorar noves maneres d'afrontar les dificultats**."
+   ],
+   "after": [
+    "A L'Espiral treballem principalment des d'una perspectiva **humanista**, posant especial atenció en la persona, en la seva experiència present i en els recursos que pot anar desenvolupant al llarg del procés."
+   ]
+  },
+  {
+   "type": "steps",
+   "title": "Com serà el procés?",
+   "items": [
+    {
+     "title": "Contacta amb nosaltres",
+     "text": "Ens pots escriure per WhatsApp, trucar-nos o deixar-nos les teves dades."
+    },
+    {
+     "title": "Parlem breument del que necessites",
+     "text": "Ens pots explicar què estàs buscant i t'orientarem sobre el professional que pot encaixar millor amb la teva situació."
+    },
+    {
+     "title": "Concertem una primera sessió",
+     "text": "La primera trobada serveix per conèixer-nos, explicar què t'ha portat a consultar i valorar conjuntament com iniciar el procés."
+    },
+    {
+     "title": "Anem construint el procés terapèutic",
+     "text": "La freqüència de les sessions i els objectius es van acordant amb el professional segons les teves necessitats i el moment en què et trobes."
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "band": "soft",
+   "cols": 2,
+   "items": [
+    {
+     "icon": "users",
+     "title": "A qui va dirigit?",
+     "text": "A tots els adults que senten que un suport professional pot portar canvis en les seves vides."
+    },
+    {
+     "icon": "clock",
+     "title": "Preus, durada i horaris",
+     "text": "La durada, freqüència, horaris i preu de les sessions s'acorden amb el terapeuta al començament de la teràpia. Posa't en contacte amb nosaltres per a saber quins terapeutes poden acompanyar-te i les seves condicions de treball."
+    }
+   ],
+   "buttons": [
+    {
+     "text": "Demana hora",
+     "href": "contacte-2"
+    },
+    {
+     "text": "Sobre nosaltres",
+     "href": "sobre-nosaltres"
+    }
+   ]
+  },
+  {
+   "type": "help",
+   "band": "white",
+   "id": "centre-de-vic",
+   "title": "Un espai de psicoteràpia al centre de Vic",
+   "text": "Ens trobaràs a: L'Espiral d'Osona, Ronda Francesc Camprodon, 25, 1r 1a, 08500 Vic."
+  },
+  {
+   "type": "maps",
+   "band": "stone",
+   "id": "on-som"
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+  "name": "L'Espiral d'Osona",
+  "tagline": "Psicoteràpia i Atenció Plena",
+  "description": "Psicòlegs, Terapeutes Gestalt i Mentors en Mindfulness a Vic, Osona i On-Line. Psicoteràpia per a adults, teràpia de parella, mentoria i tallers d'Atenció Plena [Mindfulness].",
+  "publish": {"url": "https://lespiral.github.io/espiralosona/", "index": false},
+  "cta": {"text": "Demana'ns hora", "slug": "contacte-2"},
+  "nav": [
+    {"slug": "", "title": "Inici"},
+    {"slug": "psicoterapia-per-a-adults-a-vic-i-on-line", "title": "Psicoteràpia", "children": [
+      {"slug": "psicoterapia-per-a-adults-a-vic-i-on-line", "title": "Psicoteràpia per a adults, a Vic i On-Line"},
+      {"slug": "terapia-de-parella-a-vic-osona-i-on-line", "title": "Teràpia de parella a Vic, Osona i On-Line"}
+    ]},
+    {"slug": "mentoria-en-mindfulness", "title": "Mindfulness", "children": [
+      {"slug": "deslliurar-se-de-creences-i-patrons-de-pensament-negatius", "title": "Deslliurar-se de creences i patrons de pensament negatius"},
+      {"slug": "por-ansietat-i-atencio-plena-mindfulness", "title": "Por, ansietat"},
+      {"slug": "transformar-el-patiment", "title": "Transformar el patiment"}
+    ]},
+    {"slug": "contacte-2", "title": "Contacte"}
+  ],
+  "contact": {
+    "address": "Ronda de Francesc Camprodon, 25, 1r 1a",
+    "city": "08500 Vic (Osona)",
+    "phone": "623 55 94 08",
+    "phone_tel": "+34623559408",
+    "whatsapp": "https://wa.me/34623559408",
+    "email": "lespiral.osona@gmail.com",
+    "hours_title": "Horari",
+    "hours": [["Dilluns", "de 8 h a 21 h"], ["Dimarts", "de 8 h a 21 h"], ["Dimecres", "de 8 h a 21 h"], ["Dijous", "de 8 h a 21 h"], ["Divendres", "de 8 h a 21 h"], ["Dissabte", "de 10 h a 14 h"]],
+    "hours_notes": ["Només atenem a hores convingudes.", "Envia'ns un WhatsApp abans de venir."]
+  },
+  "social": [
+    {"title": "Telegram", "icon": "telegram", "href": "https://t.me/lespiral_cat"},
+    {"title": "YouTube", "icon": "youtube", "href": "https://www.youtube.com/channel/UCvWx6OF-QEcoHNmhUvCzYYg"},
+    {"title": "Instagram", "icon": "instagram", "href": "https://www.instagram.com/espiral.osona/"}
+  ],
+  "help": {
+    "title": "Si necessites ajuda, estem al teu costat.",
+    "text": "Truca'ns, centenars de pacients i alumnes ens avalen.",
+    "items": ["Psicoteràpia per a adults", "Teràpia de parella", "Psicoteràpia online", "Mentories en Atenció Plena [Mindfulness]", "Tallers i formacions"],
+    "call": "Truca'ns o envia'ns un WhatsApp sense compromís"
+  },
+  "maps": {
+    "reviews": "Llegeix als nostres perfils de Google Maps les opinions de desenes de pacients i alumnes.",
+    "places": [
+      {"title": "L'Espiral d'Osona", "text": "Ronda de Francesc Camprodon, 25, 1r 1a, Vic (Osona)", "map": "Ronda de Francesc Camprodon 25, 08500 Vic", "zoom": 16},
+      {"title": "L'Espiral del Prat", "map": "L'espiral, psicolegs i terapeutes, Jaume Casanovas, 177, el prat de llobregat"},
+      {"title": "L'Espiral de Barcelona", "map": "Gestalt Mindfulness - L'Espiral - Psicoteràpia i Mindfulness Avinguda del Paral·lel 139 Escala B 1er 4a, 08004 Barcelona"}
+    ]
+  },
+  "footer": {
+    "text": "Psicòlegs, Terapeutes Gestalt i Mentors en Mindfulness, amb experiència a Vic, Osona i on-line.",
+    "links": [
+      {"slug": "", "title": "Inici"},
+      {"slug": "psicoterapia-per-a-adults-a-vic-i-on-line", "title": "Psicoteràpia"},
+      {"slug": "terapia-de-parella-a-vic-osona-i-on-line", "title": "Teràpia de parella"},
+      {"slug": "mentoria-en-mindfulness", "title": "Mindfulness"},
+      {"slug": "sobre-nosaltres", "title": "Sobre nosaltres"},
+      {"slug": "contacte-2", "title": "Contacte"}
+    ],
+    "legal": [
+      {"title": "Política de privacitat", "href": "https://lespiral.cat/politica-de-privacidad/"},
+      {"title": "Avís legal", "href": "https://lespiral.cat/aviso-legal/"},
+      {"title": "Política de cookies", "href": "https://lespiral.cat/politica-de-cookies/"}
+    ],
+    "copyright": "L'Espiral © 2026"
+  },
+  "redirects": {
+    "home-2-2": "",
+    "blog": "",
+    "hello-world": "",
+    "awesome-place-to-feel-dolores-eos": "",
+    "top-10-adventure-places-to-experience-quasi-architecto": "",
+    "into-the-deep-in-pacific-with-vero-eeos": "",
+    "arizona-journey-with-molestiae-non-recusandae": "",
+    "exciting-forest-journeys-in-voluptates-repudiandae": "",
+    "top-5-adventure-places-in-habentia-spectent": ""
+  },
+  "home": {
+    "seo_title": "Psicoteràpia Gestalt i Mindfulness a Vic i On-Line",
+    "description": "A Vic, transforma la teva vida mitjançant la Psicoteràpia i l'Atenció Plena [Mindfulness]. Psicòlogues, Terapeutes Gestalt i Atenció Plena a Vic, Osona i On-Line.",
+    "kicker": "A Vic, transforma la teva vida",
+    "statement": ["mitjançant la", "Psicoteràpia i l'Atenció Plena [Mindfulness]"],
+    "now": ["I viu en l'…", "AQUÍ I ARA"],
+    "title": "Psicòlogues, Terapeutes Gestalt i Atenció Plena a Vic, Osona i On-Line.",
+    "image": "2024/07/Terapia-de-Parella-El-Melic-El-Prat-de-Llobregat.jpg",
+    "actions": [{"text": "Demana'ns hora", "href": "contacte-2"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}],
+    "sections": [
+      {"type": "help", "band": "soft"},
+      {"type": "quote", "band": "soft", "id": "qui-som", "text": "Experimentaràs un canvi, no únicament en l'àrea de conflicte que et porti a nosaltres, sinó en totes les esferes de la teva vida.",
+       "paragraphs": [
+         "Els Psicòlegs, Terapeutes Gestalt i Mentors en Mindfulness que treballem a L'Espiral d'Osona, a Vic, estem adscrits al corrent de la Psicologia Humanista. El nostre objectiu principal és promoure el benestar de les persones, els grups i la societat en general dins de la relació terapèutica així com en els grups de suport o de creixement personal basats en Mindfulness i Gestalt que oferim.",
+         "Ho fem a través de les actituds, principis i tècniques que són pròpies de la nostra manera de treballar. Amb elles, t'ajudem a ampliar la consciència de les teves dificultats i els teus recursos.",
+         "Perquè tu mateix puguis arribar a proposar-te les teves pròpies metes i a donar lliure, creativa i responsablement resposta als teus conflictes amb tu mateix i amb l'entorn."
+       ]},
+      {"type": "cards", "id": "psicoterapia", "title": "Psicòlegs, Terapeutes Gestalt i Mentors en Mindfulness, amb experiència a Vic, Osona i on-line", "items": [
+        {"image": "2026/08/terapia-individual-vic-osona-lespiral.jpg", "alt": "Psicoteràpia individual a Vic", "title": "Psicoteràpia humanista", "text": "Treballem per a ajudar-te a trobar solucions als teus problemes de parella, família, treball, emocionals, relació, autovaloració, dols, angoixa, fills...", "href": "psicoterapia-per-a-adults-a-vic-i-on-line"},
+        {"image": "2026/08/terapia-parella-vic-osona-lespiral.jpg", "alt": "Teràpia de parella a Vic", "title": "Teràpia sistèmica", "text": "Un espai on les parelles, amb l'ajuda del psicòleg o Terapeuta Gestalt, poden explorar els seus patrons de relació i trobar maneres més saludables de manejar les seves vides.", "href": "terapia-de-parella-a-vic-osona-i-on-line"},
+        {"image": "2026/08/mindfulness-vic-osona-lespiral.jpg", "alt": "Mindfulness a Vic", "title": "Presència, consciència i responsabilitat", "text": "L'Atenció o Consciència Plena [Mindfulness] ens permet optar a una millor capacitat de reacció davant els problemes que la vida ens planteja aconseguint trobar una manera més sana i eficaç de resoldre els nostres problemes.", "href": "mentoria-en-mindfulness"}
+      ]},
+      {"type": "list", "band": "dark", "title": "Què aconseguiràs amb les teràpies psicològiques de L'Espiral?", "image": "2024/07/Lespiral-terapia-gestalt-4-2.png", "alt": "L'Espiral, psicoteràpia i atenció plena", "items": [
+        "Ser més conscient de les teves emocions i pensaments.",
+        "Sabràs reconèixer què pots fer, quan i com per a solucionar, no sols els teus problemes actuals, sinó també els futurs.",
+        "Milloraràs la comunicació amb tu mateix, amb menys crítica interna, més acceptació i comprensió de la teva realitat.",
+        "Canviaràs la manera de comunicar-te amb el teu entorn, sent més empàtic/a, assertiu/va i compassiu/va.",
+        "Experimentaràs un canvi, no únicament en l'àrea de conflicte que et porti a nosaltres, sinó en totes les esferes de la teva vida.",
+        "Sentiràs que la teva vida té més sentit, que és més plena."
+      ]},
+      {"type": "cards", "band": "stone", "id": "mindfulness", "title": "Propers tallers i grups a Vic i online", "intro": "Els grups i tallers s'imparteixen presencialment a la Ronda de Francesc Camprodon, 25, 1r 1a, Vic (Osona). I (els de Mindfulness) també en format On-Line siguis on siguis.", "ratio": "1610", "items": [
+        {"image": "2026/07/Captura-de-pantalla-2026-07-29-144525.png", "alt": "Taller Trencant patrons de pensament", "title": "Entén la teva ment i recupera la teva llibertat", "lead": "Sents que topes una i altra vegada amb la mateixa paret?", "text": "Molts dels nostres bloquejos diaris neixen de creences invisibles que actuen en pilot automàtic i ens generen esgotament. En aquest taller pràctic aprendràs a identificar i frenar els patrons de comportament negatius abans que t'atrapin, recuperant el control de les teves reaccions.", "href": "trencant-patrons-de-pensament-mindfulness-a-vic"},
+        {"image": "2026/07/Captura-de-pantalla-2026-07-29-145138.png", "alt": "Taller Gestiona el soroll mental", "title": "Frena la reactivitat i recupera el focus", "lead": "La teva ment no para de donar voltes a les coses?", "text": "L'ansietat s'alimenta de pensaments rumiatius que ens esgoten l'energia i ens fan reaccionar de manera impulsiva. Estratègies d'Atenció Plena per fer un pas enrere just quan la ment s'activa. Descobriràs com observar els teus pensaments sense deixar-te arrossegar per ells.", "href": "gestiona-el-soroll-mental-mindfulness-a-vic"},
+        {"image": "2026/07/Captura-de-pantalla-2026-07-29-144821.png", "alt": "Taller Desprograma la teva ment", "title": "Allibera't del pes de les inèrcies del passat", "lead": "Pateixes per pors o exigències que saps que no són lògiques?", "text": "Sovint arrosseguem motxilles emocionals i condicionaments que vam aprendre fa temps, i que avui ja no ens serveixen. Un espai de treball personal on abordarem aquestes limitacions històriques per entendre d'on venen i, sobretot, com deixar-les enrere definitivament.", "href": "desprograma-la-teva-ment-mindfulness-a-vic"}
+      ]},
+      {"type": "cards", "title": "Propers tallers i grups de treball corporal a Vic", "intro": "Els grups i tallers s'imparteixen presencialment a la Ronda de Francesc Camprodon, 25, 1r 1a, Vic (Osona).", "items": [
+        {"image": "2026/08/moviment-autentic-i-el-treball-que-reconnecta-vic-osona-lespiral-elara-social.jpg", "alt": "El Treball que Reconnecta i Moviment Autèntic a Vic", "title": "Quan no tot es pot pensar amb paraules", "text": "Hi ha moments en què sabem que alguna cosa ens importa, ens preocupa o ens commou, però ens costa posar-hi paraules. Podem intentar comprendre què ens passa, buscar respostes o pensar què hauríem de fer. Però hi ha una part de la nostra experiència que no sempre apareix quan intentem explicar-la. El cos també té una manera de saber.", "href": "moviment-autentic-i-el-treball-que-reconnecta"},
+        {"image": "2026/08/Ioga-per-a-la-regulacio-emocional.png", "alt": "Ioga per a la regulació emocional a Vic", "title": "Una pràctica corporal per regular l'estrès, l'ansietat o el bloqueig, i recuperar la sensació de calma i seguretat", "text": "Quan vivim durant molt de temps amb estrès, ansietat, preocupació o una situació emocional difícil, sovint no n'hi ha prou amb dir-nos que ens hem de relaxar. Ioga per a la regulació emocional proposa una manera diferent de practicar centrada en aprendre a escoltar el cos.", "href": "ioga-per-a-la-regulacio-emocional"},
+        {"image": "2026/08/LEspiral-del-Treball-que-Reconnecta-i-el-Moviment-autentic.png", "alt": "L'Espiral del Treball que Reconnecta i el Moviment Autèntic", "title": "Del cos individual al cos en relació", "text": "Vivim bona part de la nostra experiència intentant comprendre què ens passa a través del pensament. Ens preguntem què sentim, què volem, què ens preocupa, què hauríem de canviar o què hauríem de fer. Però no tota l'experiència comença amb una resposta verbal.", "href": "lespiral-del-treball-que-reconnecta-i-el-moviment-autentic"}
+      ]},
+      {"type": "cards", "band": "soft", "title": "Tallers i grups de Mindfulness gratuïts i en línia", "intro": "Aquests tallers són completament gratuïts i els pots fer allà on vulguis, al teu ritme.", "items": [
+        {"image": "2026/09/LEspiral-dOsona.jpg", "alt": "Curs introductori d'Atenció Plena", "badge": "Curs gratuït i en línia", "lead": "Una entrada clara i progressiva al mindfulness.", "text": "Començaràs per pràctiques senzilles (fer una pausa, relaxar el cos, tornar als sentits i observar la respiració) i aniràs avançant pas a pas cap a una presència més estable i amable.", "href": "https://espiral-elara-social.thinkific.com/products/courses/atencio-plena-mindfulness-curs-introductori-a-vic-osona"},
+        {"image": "2026/07/Mindulness-a-Vic-Osona-Por-i-ansietat.png", "alt": "Curs Por, ansietat i Atenció Plena", "badge": "Curs gratuït i en línia", "text": "Un curs per a desenvolupar recursos interns de seguretat, força i connexió. Per a mantenir-nos presents quan sorgeix la por i l'angoixa. I poder afrontar la situació amb valentia, saviesa, interès i cura. Aprendrem a respondre, en lloc de reaccionar.", "href": "https://espiral-elara-social.thinkific.com/products/courses/por-ansietat-i-atencio-plena-a-vic-osona"},
+        {"image": "2026/07/Mindfulness-a-vic-osona-patrons-pensament.png", "alt": "Curs Deslliurar-se de creences i patrons de pensament negatius", "badge": "Curs gratuït i en línia", "text": "Aquest curs mostra com pots observar i adonar-te de quines són les creences limitants que et fan patir. Realitzar aquest curs permet assaborir la llibertat que és possible quan deixes anar aquestes creences.", "href": "https://espiral-elara-social.thinkific.com/products/courses/deslliurar-se-de-creences-i-patrons-de-pensament-negatius-amb-atencio-plena-a-vic-osona"},
+        {"image": "2026/07/Mindfulness-a-vic-osona-transformar-el-patiment.png", "alt": "Curs Transformar el patiment amb Atenció Plena", "badge": "Curs gratuït i en línia", "text": "Amb aquest curs tindràs l'oportunitat d'aprendre a gestionar les situacions difícils amb Atenció Plena. Aprofundirem en una de les tècniques més completes d'Atenció Plena més efectives per a transitar les dificultats de la vida: la meditació R.A.I.N.", "href": "https://espiral-elara-social.thinkific.com/products/courses/transformar-el-patiment-amb-atencio-plena-mindfulness-a-vic-osona"}
+      ]},
+      {"type": "cards", "html": true, "title": "Compromesos amb la salut individual i la salut comunitària", "before": [
+        "A L'Espiral, conjuntament amb <a href=\"https://elarasocial.com/\" rel=\"noopener\">Elara Social</a>, entenem que el benestar no depèn només del que passa dins de cada persona, sinó també dels vincles, les comunitats i les condicions en què vivim.",
+        "Per això impulsem les 7 passes cap a l'Esperança Activa, quatre recorreguts gratuïts per abordar preocupacions personals, socials i ecològiques des de més consciència, suport i capacitat d'acció."
+      ], "items": [
+        {"image": "2026/09/5.png", "alt": "Quan sostenir la vida es fa difícil", "badge": "Curs gratuït i en línia", "text": "Un recorregut per explorar preocupacions relacionades amb la feina, l'habitatge, la precarietat i la incertesa econòmica, reconnectar amb allò que realment importa i identificar formes més humanes, cooperatives i sostenibles de relacionar-nos amb la vida quotidiana. El curs acompanya la persona a passar de la preocupació i la impotència a una orientació més clara i a un primer pas possible.", "href": "https://espiral-elara-social.thinkific.com/products/courses/Quan-sostenir-la-vida-es-fa-difIcil-7-passes-esperanca-activa"},
+        {"image": "2026/09/7.png", "alt": "Quan el món et preocupa", "badge": "Curs gratuït i en línia", "text": "Un recorregut per donar espai a la preocupació pel canvi climàtic, la degradació dels ecosistemes, la pèrdua de biodiversitat i el futur del planeta, sense quedar atrapat/da en la desesperança. A través de les 7 passes, la persona reconnecta amb allò que estima del món viu, troba referents que inspiren i explora quin paper pot tenir dins d'una resposta necessàriament col·lectiva.", "href": "https://espiral-elara-social.thinkific.com/products/courses/Quan-el-mon-et-preocupa-7-passes-esperanca-activa"},
+        {"image": "2026/09/6.png", "alt": "Quan cuidar-nos és una tasca col·lectiva", "badge": "Curs gratuït i en línia", "text": "Un recorregut per apropar-se al malestar emocional, la soledat, la manca de suport i la necessitat de comunitat des d'una mirada que no redueix la salut mental només a l'individu. El curs ajuda a reconèixer els vincles, els recursos i les xarxes que també poden sostenir-nos, i a explorar petites formes de cura, suport mutu i participació.", "href": "https://espiral-elara-social.thinkific.com/products/courses/Quan-cuidar-nos-es-una-tasca-col-lectiva-7-passes-esperanca-activa"},
+        {"image": "2026/09/8.png", "alt": "Quan la vida et desborda", "badge": "Curs gratuït i en línia", "text": "Un recorregut per a moments en què la vida es fa difícil: ansietat, dols, separacions, conflictes, cansament emocional o etapes de més vulnerabilitat. Les 7 passes ofereixen un espai per aturar-se, reconnectar amb allò que sosté, posar paraules al que preocupa i trobar una direcció i un primer pas possible, sense exigir-se resoldre-ho tot de cop.", "href": "https://espiral-elara-social.thinkific.com/products/courses/Quan-la-vida-et-desborda-ansietat-malestar-emocional-7-passes-cap-esperanca-activa"}
+      ]},
+      {"type": "cards", "band": "stone", "title": "Recursos", "ratio": "32", "items": [
+        {"image": "2024/07/articulos-psicologo-el-prat.jpg", "title": "Articles", "text": "Articles de l'Espiral relacionats amb psicologia i psicoteràpia.", "href": "https://lespiral.cat/articulos/"},
+        {"image": "2024/07/audios-psicologo-en-el-prat-2.jpg", "title": "Meditacions guiades", "text": "En el nostre canal de Telegram podràs trobar àudios de meditacions i exercicis de Mindfulness realitzats per l'Espiral. Els pots descarregar i escoltar perquè t'ajudin en els moments que necessitis.", "href": "canal-de-telegram"},
+        {"image": "2024/07/youtube-espiral.jpg", "title": "Canal de YouTube", "text": "En aquest canal podràs trobar meditacions guiades i sessions teoricopràctiques per a aprofundir en el teu autoconeixement.", "href": "canal-de-youtube"}
+      ]},
+      {"type": "maps", "id": "on-som"}
+    ]
+  }
+}

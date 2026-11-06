@@ -1,0 +1,123 @@
+{
+ "seo_title": "Gestiona el soroll mental – Mindfulness a Vic",
+ "kicker": "Mindfulness a Vic i OnLine",
+ "title": "Gestiona el soroll mental",
+ "lead": "A Vic, Mindfulness per assaborir la llibertat que és possible quan deixes anar creences i pensaments.",
+ "image": "2024/07/ansiedad-2-psicologo-en-el-prat-1.jpg",
+ "buttons": [
+  {
+   "text": "Formulari d'inscripció",
+   "href": "https://forms.gle/8NvAebo2uQLQgSyp7"
+  },
+  {
+   "text": "Sobre nosaltres",
+   "href": "sobre-nosaltres"
+  }
+ ],
+ "description": "Taller pràctic de Mindfulness a Vic per gestionar l'excés de soroll mental, convertir-nos en testimonis compassius dels nostres pensaments i habitar la incertesa del present.",
+ "sections": [
+  {
+   "type": "help",
+   "band": "soft"
+  },
+  {
+   "type": "text",
+   "title": "Gestiona el soroll mental",
+   "image": "2026/07/ChatGPT-Image-14-de-jul.-del-2026-18_06_28.png",
+   "paragraphs": [
+    "El nostre cervell és una màquina evolutiva dissenyada per sobreviure.",
+    "Això ens ha dotat d'una «ment narrativa» brillant per anticipar perills, però també ens manté hiperactivats, analitzant, rumiant i creant històries constants basades en pors psicològiques (por al rebuig, por al fracàs, por a la incertesa).",
+    "Aquest excés de soroll mental ens esgota.",
+    "I sovint, ens hi aferrem perquè, encara que les històries siguin negatives (p. ex.: «ho faré malament»), ens donen una falsa sensació de control i seguretat.",
+    "Ens fa por deixar-les anar, perquè més enllà de la creença, només hi ha el «no saber»."
+   ]
+  },
+  {
+   "type": "text",
+   "band": "soft",
+   "title": "En què consisteix aquest curs?",
+   "image": "2026/07/ChatGPT-Image-14-de-jul.-del-2026-18_06_26.png",
+   "reverse": true,
+   "paragraphs": [
+    "En aquest espai aprendrem a gestionar l'excés d'activitat narrativa anant a la posició «meta» (metacognició). És a dir, desenvoluparem la capacitat de convertir-nos en el testimoni compassiu dels nostres pensaments.",
+    "Treballarem mètodes per investigar i «afluixar l'aferrament» a aquelles idees que ens tenen segrestats. Ens farem preguntes clau com «Què m'impedeix deixar anar?» i practicarem com habitar la incertesa del present sense necessitat de resguardar-nos en el soroll de la ment."
+   ]
+  },
+  {
+   "type": "text",
+   "title": "A qui va dirigit?",
+   "image": "2026/07/Gemini_Generated_Image_ww4hrsww4hrsww4h-scaled.png",
+   "paragraphs": [
+    "Aquest taller és per a tu si:"
+   ],
+   "list": [
+    "La teva ment narrativa no s'atura, donant voltes a passat i futur buscant controlar-ho tot (overthinking).",
+    "Sents molta por a la incertesa i prefereixes la seguretat d'un patró negatiu abans que el «no saber».",
+    "Vols deixar de reaccionar des del «cervell de supervivència» en situacions quotidianes on no hi ha un perill real.",
+    "Pateixes ansietat i necessites eines per baixar el volum dels pensaments catastròfics."
+   ]
+  },
+  {
+   "type": "text",
+   "band": "soft",
+   "title": "Què t'emportaràs d'aquest taller? (Els beneficis)",
+   "image": "2024/07/curso-miedo-ansiedad-mindfulness-1.jpg",
+   "reverse": true,
+   "list": [
+    "**Entrenament en metacognició:** aprendràs a donar un pas enrere i observar la teva ment en lloc de ser arrossegat per ella.",
+    "**Afluixament de la por:** eines per calmar el cervell de supervivència i diferenciar les alertes útils del «soroll» innecessari.",
+    "**Capacitat per deixar anar:** experimentaràs l'alliberament que suposa fer una pausa, acceptar la incertesa i no enganxar-te a la següent preocupació.",
+    "**Descans mental i corporal:** trobant espais de silenci intern que et permetran reduir significativament els nivells d'estrès i ansietat."
+   ],
+   "buttons": [
+    {
+     "text": "Formulari d'inscripció",
+     "href": "https://forms.gle/8NvAebo2uQLQgSyp7"
+    },
+    {
+     "text": "Sobre nosaltres",
+     "href": "sobre-nosaltres"
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "cols": 2,
+   "items": [
+    {
+     "icon": "calendar-dots",
+     "title": "Detalls pràctics",
+     "list": [
+      "**Durada:** 3 hores d'immersió teoricopràctica.",
+      "**Data:** dissabte 31 d'octubre",
+      "**Horari:** de 10 h a 13 h",
+      "**On?** Ronda de Francesc Camprodon, 25, 1r 1a. 08500 Vic",
+      "**Preu:** el preu del taller és de **35 euros** i inclou l'accés a material gravat per a poder continuar practicant després del taller.",
+      "**Idioma del curs:** català"
+     ]
+    },
+    {
+     "icon": "users",
+     "title": "Impartit per",
+     "lead": "Aleix Boronat",
+     "text": "Director i cofundador de L'Espiral. Terapeuta Gestalt, Mentor en Mindfulness i Membre adherent de l'AETG. Formació en Psicoteràpia Integrativa (programa SAT). Format en tècniques psicocorporals (Shiatsu i Moviment, Seitai, Ioga, Bioenergètica)."
+    }
+   ],
+   "buttons": [
+    {
+     "text": "Formulari d'inscripció",
+     "href": "https://forms.gle/8NvAebo2uQLQgSyp7"
+    },
+    {
+     "text": "Sobre nosaltres",
+     "href": "sobre-nosaltres"
+    }
+   ]
+  },
+  {
+   "type": "maps",
+   "band": "stone",
+   "id": "on-som"
+  }
+ ]
+}

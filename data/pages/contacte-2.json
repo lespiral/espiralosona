@@ -1,0 +1,14 @@
+{
+  "seo_title": "Contacte",
+  "kicker": "Estem al centre de Vic",
+  "title": "Contacte",
+  "lead": "Envia'ns un WhatsApp abans de venir!",
+  "sub": "Només atenem a hores convingudes.",
+  "image": "",
+  "description": "Contacta amb L'Espiral d'Osona: Ronda de Francesc Camprodon, 25, 1r 1a, Vic. Telèfon i WhatsApp 623 55 94 08, lespiral.osona@gmail.com.",
+  "sections": [
+    {"type": "contact", "band": "soft", "paragraphs": ["Truca'ns o envia'ns un WhatsApp sense compromís."]},
+    {"type": "quote", "band": "white", "text": "Experimentaràs un canvi, no únicament en l'àrea de conflicte que et porti a nosaltres, sinó en totes les esferes de la teva vida."},
+    {"type": "maps", "band": "stone", "id": "on-som"}
+  ]
+}
