@@ -3,7 +3,7 @@
  "kicker": "Mindfulness a Vic i OnLine",
  "title": "Trencant patrons de pensament",
  "lead": "Mindfulness per assaborir la llibertat que és possible quan deixes anar creences i pensaments.",
- "image": "2024/07/ansiedad-2-psicologo-en-el-prat-1.jpg",
+ "image": "05-trencant-patrons.jpg",
  "buttons": [
   {
    "text": "Formulari d'inscripció",
@@ -23,7 +23,7 @@
   {
    "type": "text",
    "title": "Trencant patrons de pensament",
-   "image": "2024/07/woman-model-sunset-5561498.jpg",
+   "image": "38-trencant-patrons-tema.jpg",
    "paragraphs": [
     "T'has sentit mai atrapat/da en un patró familiar de pensaments que et fa jutjar-te i et manté en tensió?",
     "Sovint vivim sumits en allò que anomenem «el tràngol», una sensació de fons impulsada per la creença de ser un «jo separat» i que, en essència, ens fa sentir que «alguna cosa està malament amb mi».",
@@ -36,7 +36,7 @@
    "type": "text",
    "band": "soft",
    "title": "En què consisteix aquest curs?",
-   "image": "2024/07/mindfulness-el-prat.jpg",
+   "image": "41-taller-grup.jpg",
    "reverse": true,
    "paragraphs": [
     "Aquest taller pràctic és una invitació a identificar i desafiar les creences que actuen com una presó.",
@@ -48,7 +48,7 @@
   {
    "type": "text",
    "title": "A qui va dirigit?",
-   "image": "2024/07/mindfulness-psicoterapia-el-prat.jpg",
+   "image": "42-taller-per-a-tu.jpg",
    "paragraphs": [
     "Aquest taller és per a tu si:"
    ],
@@ -63,7 +63,7 @@
    "type": "text",
    "band": "soft",
    "title": "Què t'emportaràs d'aquest taller? (Els beneficis)",
-   "image": "2024/07/curso-miedo-ansiedad-mindfulness-1.jpg",
+   "image": "43-taller-beneficis.jpg",
    "reverse": true,
    "list": [
     "**Desidentificació:** aprendràs la distinció clau entre sentir una emoció real i no creure't la història absoluta (el mapa mental) que la genera.",

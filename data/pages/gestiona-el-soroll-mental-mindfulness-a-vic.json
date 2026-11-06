@@ -3,7 +3,7 @@
  "kicker": "Mindfulness a Vic i OnLine",
  "title": "Gestiona el soroll mental",
  "lead": "A Vic, Mindfulness per assaborir la llibertat que és possible quan deixes anar creences i pensaments.",
- "image": "2024/07/ansiedad-2-psicologo-en-el-prat-1.jpg",
+ "image": "06-soroll-mental.jpg",
  "buttons": [
   {
    "text": "Formulari d'inscripció",
@@ -23,7 +23,7 @@
   {
    "type": "text",
    "title": "Gestiona el soroll mental",
-   "image": "2026/07/ChatGPT-Image-14-de-jul.-del-2026-18_06_28.png",
+   "image": "39-soroll-mental-tema.jpg",
    "paragraphs": [
     "El nostre cervell és una màquina evolutiva dissenyada per sobreviure.",
     "Això ens ha dotat d'una «ment narrativa» brillant per anticipar perills, però també ens manté hiperactivats, analitzant, rumiant i creant històries constants basades en pors psicològiques (por al rebuig, por al fracàs, por a la incertesa).",
@@ -36,7 +36,7 @@
    "type": "text",
    "band": "soft",
    "title": "En què consisteix aquest curs?",
-   "image": "2026/07/ChatGPT-Image-14-de-jul.-del-2026-18_06_26.png",
+   "image": "41-taller-grup.jpg",
    "reverse": true,
    "paragraphs": [
     "En aquest espai aprendrem a gestionar l'excés d'activitat narrativa anant a la posició «meta» (metacognició). És a dir, desenvoluparem la capacitat de convertir-nos en el testimoni compassiu dels nostres pensaments.",
@@ -46,7 +46,7 @@
   {
    "type": "text",
    "title": "A qui va dirigit?",
-   "image": "2026/07/Gemini_Generated_Image_ww4hrsww4hrsww4h-scaled.png",
+   "image": "42-taller-per-a-tu.jpg",
    "paragraphs": [
     "Aquest taller és per a tu si:"
    ],
@@ -61,7 +61,7 @@
    "type": "text",
    "band": "soft",
    "title": "Què t'emportaràs d'aquest taller? (Els beneficis)",
-   "image": "2024/07/curso-miedo-ansiedad-mindfulness-1.jpg",
+   "image": "43-taller-beneficis.jpg",
    "reverse": true,
    "list": [
     "**Entrenament en metacognició:** aprendràs a donar un pas enrere i observar la teva ment en lloc de ser arrossegat per ella.",

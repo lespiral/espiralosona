@@ -4,19 +4,19 @@
   "title": "Teràpia de parella",
   "lead": "A Vic, Osona i On-Line.",
   "sub": "Psicòlegs, Terapeutes Gestalt i Mentors en Mindfulness",
-  "image": "2024/07/Terapia-de-pareja-1.jpg",
+  "image": "03-parella.jpg",
   "buttons": [{"text": "Demana hora", "href": "contacte-2"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}],
   "description": "Teràpia de parella a Vic, Osona i On-Line: un espai segur i íntim on les parelles poden explorar els seus patrons de relació i trobar maneres més saludables de gestionar les seves vides.",
   "sections": [
     {"type": "help", "band": "soft", "title": "Si necessiteu ajuda, estem al vostre costat."},
-    {"type": "text", "title": "Teràpia de parella a Vic i online", "image": "2024/07/Terapia-de-Parella-a-El-Melic-El-Prat-de-Llobregat.jpg", "paragraphs": [
+    {"type": "text", "title": "Teràpia de parella a Vic i online", "image": "30-parella-mans.jpg", "paragraphs": [
       "La teràpia de parella és un espai segur i íntim on les parelles poden explorar els seus patrons de relació i trobar maneres més saludables de gestionar les seves vides.",
       "Un dels objectius de la teràpia de parella és aconseguir que la parella sigui conscient del que fan per a identificar i canviar els patrons (o pautes neuròtiques) en els quals ha caigut la relació."
     ]},
-    {"type": "text", "band": "soft", "kicker": "Teràpia de parella a Vic i online", "title": "Com funciona la teràpia de parella?", "image": "2024/07/Terapia-de-Parella-b-El-Melic-El-Prat-de-Llobregat.jpg", "reverse": true, "paragraphs": [
+    {"type": "text", "band": "soft", "kicker": "Teràpia de parella a Vic i online", "title": "Com funciona la teràpia de parella?", "image": "31-parella-cami.jpg", "reverse": true, "paragraphs": [
       "En les sessions destacarem que la parella aprengui noves maneres de relacionar-se, comunicar-se, expressar-se i resoldre conflictes. L'objectiu final és trobar les formes adequades i crear les eines necessàries per a viure una relació més saludable."
     ]},
-    {"type": "text", "kicker": "Psicòlegs i Terapeutes de Parella a Vic, Osona i On-Line", "title": "Quan és aconsellable fer teràpia en parella?", "image": "2024/07/terapia-pareja-el-prat.jpg", "paragraphs": [
+    {"type": "text", "kicker": "Psicòlegs i Terapeutes de Parella a Vic, Osona i On-Line", "title": "Quan és aconsellable fer teràpia en parella?", "image": "32-parella-distancia.jpg", "paragraphs": [
       "Quan s'experimenten una o més de les situacions comunes que dificulten la relació de les parelles:"
     ], "list": [
       "Dificultats en la comunicació",
@@ -33,7 +33,7 @@
       "Separacions recurrents",
       "Separació definitiva"
     ]},
-    {"type": "text", "band": "soft", "kicker": "Psicòlegs i Terapeutes de Parella a Vic i online", "title": "Beneficis de la teràpia de parella", "image": "2024/07/Terapia-de-Parella-b-El-Melic-El-Prat-de-Llobregat.jpg", "reverse": true, "list": [
+    {"type": "text", "band": "soft", "kicker": "Psicòlegs i Terapeutes de Parella a Vic i online", "title": "Beneficis de la teràpia de parella", "image": "31-parella-cami.jpg", "reverse": true, "list": [
       "Generar un canvi positiu en la relació de parella",
       "Descobrir les intervencions adequades perquè la parella s'adoni de com està funcionant",
       "Descobrir quines opcions té la parella per a resoldre conflictes i experimentar experiències noves i saludables en les seves maneres de relacionar-se",

@@ -3,7 +3,7 @@
  "kicker": "Taller presencial a Vic",
  "title": "L'Espiral del Treball que Reconnecta i Moviment Autèntic",
  "lead": "Un recorregut de 8 sessions per explorar, a través del cos, la relació amb nosaltres mateixos, els altres i el món.",
- "image": "2026/08/moviment-autentic-vic-osona-lespiral-05.jpg",
+ "image": "10-espiral-tqr.jpg",
  "buttons": [
   {
    "text": "Demanar més informació",
@@ -23,7 +23,7 @@
   {
    "type": "text",
    "title": "Del cos individual als cossos en el món",
-   "image": "2026/08/moviment-autentic-vic-osona-lespiral-10.jpg",
+   "image": "56-ma-mon.jpg",
    "lead": false,
    "paragraphs": [
     "Vivim bona part de la nostra experiència intentant comprendre què ens passa a través del pensament.",
@@ -40,7 +40,7 @@
    "type": "text",
    "band": "soft",
    "title": "Un recorregut de reconnexió",
-   "image": "2026/08/moviment-autentic-vic-osona-lespiral-02.jpg",
+   "image": "50-ma-paraules.jpg",
    "reverse": true,
    "lead": false,
    "paragraphs": [
@@ -64,7 +64,7 @@
   {
    "type": "text",
    "title": "Del «jo» al «nosaltres»",
-   "image": "2026/08/moviment-autentic-vic-osona-lespiral-06.jpg",
+   "image": "52-ma-quietud.jpg",
    "lead": false,
    "paragraphs": [
     "El recorregut no només avançarà a través de les set preguntes.",
@@ -162,7 +162,7 @@
   {
    "type": "text",
    "title": "Una pràctica que evoluciona amb el grup",
-   "image": "2026/08/moviment-autentic-vic-osona-lespiral-01.jpg",
+   "image": "51-ma-testimoni.jpg",
    "reverse": true,
    "lead": false,
    "paragraphs": [
@@ -200,7 +200,7 @@
    "type": "text",
    "band": "soft",
    "title": "A qui va dirigit?",
-   "image": "2026/08/moviment-autentic-vic-osona-lespiral-09.jpg",
+   "image": "53-ma-peus.jpg",
    "lead": false,
    "paragraphs": [
     "Aquest recorregut pot interessar-te si:"
@@ -222,7 +222,7 @@
   {
    "type": "text",
    "title": "Què et pot aportar aquest recorregut?",
-   "image": "2026/08/moviment-autentic-vic-osona-lespiral-04.jpg",
+   "image": "54-ma-respira.jpg",
    "reverse": true,
    "lead": false,
    "blocks": [
@@ -274,7 +274,7 @@
    "type": "text",
    "html": true,
    "title": "Què és el Treball que Reconnecta?",
-   "image": "2026/09/ESS-06.jpg",
+   "image": "57-tqr.jpg",
    "lead": false,
    "paragraphs": [
     "El <strong>Treball que Reconnecta</strong>, creat per <a href=\"https://www.joannamacy.net/main\" rel=\"noopener\"><strong>Joanna Macy</strong></a>, filòsofa, autora i activista reconeguda internacionalment pel seu treball en ecologia profunda, budisme compromès i transformació social, és una proposta vivencial per afrontar el malestar davant les crisis personals, socials i ecològiques sense quedar-nos atrapats en la impotència. La seva Espiral ens convida a passar de la connexió amb allò que ens importa a una resposta més conscient i compromesa."
@@ -290,7 +290,7 @@
    "type": "text",
    "band": "white",
    "title": "Esperança Activa",
-   "image": "2026/09/AC-10.jpg",
+   "image": "58-esperanca-activa.jpg",
    "reverse": true,
    "lead": false,
    "paragraphs": [

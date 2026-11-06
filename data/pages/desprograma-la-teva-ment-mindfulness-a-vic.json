@@ -3,7 +3,7 @@
  "kicker": "Mindfulness a Vic i OnLine",
  "title": "Desprograma la teva ment",
  "lead": "A Vic, Mindfulness per assaborir la llibertat que és possible quan deixes anar creences i pensaments.",
- "image": "2024/07/ansiedad-2-psicologo-en-el-prat-1.jpg",
+ "image": "07-desprograma.jpg",
  "buttons": [
   {
    "text": "Formulari d'inscripció",
@@ -23,7 +23,7 @@
   {
    "type": "text",
    "title": "Desprograma la teva ment",
-   "image": "2026/07/ChatGPT-Image-14-de-jul.-del-2026-19_10_29.png",
+   "image": "40-desprograma-tema.jpg",
    "paragraphs": [
     "Gran part de les reaccions i creences que dirigeixen la nostra vida operen en la foscor de la inconsciència (per sota de la «línia de la consciència»).",
     "No són fets objectius, sinó històries i missatges que hem interioritzat des de ben petits a través de la cultura, la societat i, sobretot, dels nostres cuidadors principals (pares, avis…).",
@@ -35,7 +35,7 @@
    "type": "text",
    "band": "soft",
    "title": "En què consisteix aquest curs?",
-   "image": "2026/07/ChatGPT-Image-14-de-jul.-del-2026-19_17_18.png",
+   "image": "41-taller-grup.jpg",
    "reverse": true,
    "paragraphs": [
     "En aquest taller farem un treball profund de consciència personal.",
@@ -47,7 +47,7 @@
   {
    "type": "text",
    "title": "A qui va dirigit?",
-   "image": "2024/07/mindfulness-psicoterapia-el-prat.jpg",
+   "image": "42-taller-per-a-tu.jpg",
    "paragraphs": [
     "Aquest taller és per a tu si:"
    ],
@@ -62,7 +62,7 @@
    "type": "text",
    "band": "soft",
    "title": "Què t'emportaràs d'aquest taller? (Els beneficis)",
-   "image": "2024/07/curso-miedo-ansiedad-mindfulness-1.jpg",
+   "image": "43-taller-beneficis.jpg",
    "reverse": true,
    "list": [
     "**Autoconeixement profund:** identificaràs l'origen real i històric dels teus patrons reactius i actituds defensives.",
