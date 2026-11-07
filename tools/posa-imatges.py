@@ -77,8 +77,8 @@ def width_for(name):
 
 def ratio_for(name):
     n = int(name.split("-", 1)[0])
-    if n <= 26 or n >= 62:
-        return 16 / 9        # capçaleres i targetes
+    if n <= 26 or 62 <= n <= 64 or n == 66:
+        return 16 / 9        # capçaleres, targetes i la falguera
     if 33 <= n <= 35:
         return 3 / 4         # verticals de la Mentoria
     return 4 / 3             # imatges de dins de les pàgines

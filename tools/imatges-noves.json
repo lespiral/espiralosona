@@ -64,5 +64,6 @@
   "62-telegram-practiques": [["pages/canal-de-telegram.json", "sections", 1, "items", 0, "image"]],
   "63-telegram-masterclass": [["pages/canal-de-telegram.json", "sections", 1, "items", 1, "image"]],
   "64-articles-mindfulness": [["pages/canal-de-telegram.json", "sections", 1, "items", 3, "image"]],
-  "65-psicoterapia-online": [["site.json", "home", "sections", 2, "items", 2, "image"]]
+  "65-psicoterapia-online": [["site.json", "home", "sections", 2, "items", 2, "image"], ["pages/psicoterapia-per-a-adults-a-vic-i-on-line.json", "sections", 4, "image"]],
+  "66-falguera-espiral": []
 }

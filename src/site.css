@@ -225,6 +225,9 @@ main{padding-top:var(--topbar)}
 .benefits__media .media{background:var(--c800);box-shadow:16px 16px 0 rgba(90,169,230,.25)}
 .benefits__media .ph{background:repeating-linear-gradient(135deg,var(--c800) 0 12px,var(--c900) 12px 24px);border-color:rgba(148,188,232,.45);color:var(--c200)}
 .benefits__media .ph__f{color:var(--c300)}
+.media--logo{aspect-ratio:auto;background:none;border-radius:0;overflow:visible}.media--logo img{height:auto;object-fit:contain;max-width:340px;margin:0 auto;display:block}
+.benefits__media .media--logo{background:none;box-shadow:none}
+@media (max-width:900px){.media--logo img{max-width:240px}}
 @media (max-width:900px){.benefits{grid-template-columns:1fr;gap:40px}}
 
 /* Passos */
