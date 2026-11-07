@@ -5,12 +5,6 @@ a `src/img/fotos/` amb el nom de la primera columna i torna a generar la web (`p
 
 | Fitxer | On surt | A la web antiga |
 |---|---|---|
-| `21-curs-introductori.jpg` | / |  |
-| `22-ea-sostenir-la-vida.jpg` | / |  |
-| `23-ea-mon-preocupa.jpg` | / |  |
-| `24-ea-cuidar-collectiu.jpg` | / |  |
-| `25-ea-vida-desborda.jpg` | / |  |
-| `26-articles.jpg` | /, /canal-de-telegram/ |  |
 | `27-psicoterapia-escolta.jpg` | /psicoleg-vic/, /psicoterapia-per-a-adults-a-vic-i-on-line/ |  |
 | `28-psicoterapia-claredat.jpg` | /psicoleg-vic/, /psicoterapia-per-a-adults-a-vic-i-on-line/ |  |
 | `29-psicoterapia-cami.jpg` | /psicoterapia-per-a-adults-a-vic-i-on-line/ |  |
@@ -52,7 +46,4 @@ a `src/img/fotos/` amb el nom de la primera columna i torna a generar la web (`p
 | `Elara-Social.png` | /lespiral-del-treball-que-reconnecta-i-el-moviment-autentic/, /moviment-autentic-i-el-treball-que-reconnecta/ | https://gestaltmindfulness.lespiral.cat/wp-content/uploads/2026/09/Elara-Social.png |
 | `Hara-i-la-por-17-contes-per-acompanyar-la-por-i-lansietat-amb-Mindfulness-1-e1725014812183.png` | /por-ansietat-i-atencio-plena-mindfulness/ | https://gestaltmindfulness.lespiral.cat/wp-content/uploads/2024/08/Hara-i-la-por-17-contes-per-acompanyar-la-por-i-lansietat-amb-Mindfulness-1-e1725014812183.png |
 | `Lespiral-terapia-gestalt-4-2.png` | / | https://gestaltmindfulness.lespiral.cat/wp-content/uploads/2024/07/Lespiral-terapia-gestalt-4-2.png |
-| `Psicologo-El-Prat-lEspiral.jpg` | /sobre-nosaltres/ | https://gestaltmindfulness.lespiral.cat/wp-content/uploads/2024/07/Psicologo-El-Prat-lEspiral.jpg |
 | `Sol-Gomez.jpg` | /sobre-nosaltres/ | https://gestaltmindfulness.lespiral.cat/wp-content/uploads/2024/07/Sol-Gomez.jpg |
-| `chiara-leoni-psicologo-en-el-prat.jpg` | /sobre-nosaltres/ | https://gestaltmindfulness.lespiral.cat/wp-content/uploads/2024/07/chiara-leoni-psicologo-en-el-prat.jpg |
-| `psicologo-el-prat-de-llobregat-equipo-768x1024-1.jpg` | /sobre-nosaltres/ | https://gestaltmindfulness.lespiral.cat/wp-content/uploads/2024/07/psicologo-el-prat-de-llobregat-equipo-768x1024-1.jpg |
