@@ -32,7 +32,7 @@
     ], "buttons": [{"text": "Inscripció gratuïta", "href": "https://espiral-elara-social.thinkific.com/enroll/3843529"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
     {"type": "cards", "cols": 2, "items": [
       {"icon": "calendar-dots", "title": "Quan comença el curs?", "paragraphs": ["Quan tu vulguis.", "Només cal que et registris a la plataforma dels cursos (Thinkific) amb el correu o amb el teu compte de Google, Apple, Facebook o LinkedIn."], "list": ["17 sessions, online i al teu ritme."], "text": "**Idioma:** català"},
-      {"icon": "users", "title": "Impartit per", "lead": "Aleix Boronat", "text": "Director i cofundador de L'Espiral. Terapeuta Gestalt (membre adherent de l'AETG) i mentor de Mindfulness."}
+      {"icon": "users", "title": "Impartit per", "lead": "Aleix Boronat", "text": "Director i cofundador de L'Espiral. Terapeuta humanista i mentor de Mindfulness."}
     ], "buttons": [{"text": "Inscripció gratuïta", "href": "https://espiral-elara-social.thinkific.com/enroll/3843529"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
     {"type": "maps", "band": "stone", "id": "on-som"}
   ]

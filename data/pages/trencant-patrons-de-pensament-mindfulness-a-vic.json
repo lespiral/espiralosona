@@ -33,7 +33,7 @@
     ], "buttons": [{"text": "Formulari d'inscripció", "href": "https://forms.gle/8NvAebo2uQLQgSyp7"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
     {"type": "cards", "cols": 2, "items": [
       {"icon": "calendar-dots", "title": "Detalls pràctics", "list": ["**Durada:** 3 hores, de teoria i pràctica.", "**Data:** divendres 16 d'octubre", "**Horari:** de 18 h a 21 h", "**Format:** en directe, presencial a Vic o online.", "**On?** Ronda de Francesc Camprodon, 25, 1r 1a. 08500 Vic, o des de casa.", "**Preu:** 35 euros, amb accés a material gravat per continuar practicant després del taller.", "**Idioma:** català"]},
-      {"icon": "users", "title": "Impartit per", "lead": "Aleix Boronat", "text": "Director i cofundador de L'Espiral. Terapeuta Gestalt (membre adherent de l'AETG) i mentor de Mindfulness."}
+      {"icon": "users", "title": "Impartit per", "lead": "Aleix Boronat", "text": "Director i cofundador de L'Espiral. Terapeuta humanista i mentor de Mindfulness."}
     ], "buttons": [{"text": "Formulari d'inscripció", "href": "https://forms.gle/8NvAebo2uQLQgSyp7"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
     {"type": "maps", "band": "stone", "id": "on-som"}
   ]

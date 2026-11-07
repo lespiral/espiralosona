@@ -37,7 +37,7 @@
     ], "buttons": [{"text": "Inscripcions tancades"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
     {"type": "cards", "cols": 2, "items": [
       {"icon": "calendar-dots", "title": "Quan comença el curs?", "paragraphs": ["Omple el formulari i ens posarem en contacte amb tu per fer una petita entrevista abans de començar.", "Tot i que la pràctica de l'Atenció Plena es considera segura, volem valorar junts si és un bon moment per fer el curs.", "La plaça queda reservada quan s'ingressa el 20 % de l'import.", "**Idioma:** català"]},
-      {"icon": "users", "title": "Impartit per", "lead": "Aleix Boronat", "text": "Director i cofundador de L'Espiral. Terapeuta Gestalt (membre adherent de l'AETG) i mentor de Mindfulness."},
+      {"icon": "users", "title": "Impartit per", "lead": "Aleix Boronat", "text": "Director i cofundador de L'Espiral. Terapeuta humanista i mentor de Mindfulness."},
       {"icon": "pin", "title": "On?", "paragraphs": ["Al centre de Vic: Ronda de Francesc Camprodon, 25, 1r 1a.", "Si el fas online, busca un lloc tranquil i privat per a les sessions."]}
     ], "buttons": [{"text": "Inscripcions tancades"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
     {"type": "text", "band": "soft", "title": "I després?", "image": "33-mentoria-acompanyament.jpg", "lead": false, "paragraphs": [

@@ -2,15 +2,15 @@
   "seo_title": "Sobre nosaltres",
   "kicker": "L'Espiral d'Osona",
   "title": "Sobre nosaltres",
-  "lead": "Psicòlegs, terapeutes Gestalt i mentors de Mindfulness",
+  "lead": "Psicòlegs, terapeutes humanistes i mentors de Mindfulness",
   "sub": "A Vic, Osona i online.",
   "image": "14-sobre-nosaltres.jpg",
   "buttons": [{"text": "Demana hora", "href": "contacte-2"}],
-  "description": "L'equip de L'Espiral d'Osona: psicòlegs, terapeutes Gestalt i mentors de Mindfulness que treballen des de la psicologia humanista, a Vic, Osona i online.",
+  "description": "L'equip de L'Espiral d'Osona: psicòlegs, terapeutes i mentors de Mindfulness que treballen des de la psicologia humanista, a Vic, Osona i online.",
   "sections": [
     {"type": "help", "band": "soft"},
     {"type": "text", "title": "L'Espiral d'Osona", "image": "36-sobre-cercle.jpg", "paragraphs": [
-      "Som psicòlegs, terapeutes Gestalt i mentors de Mindfulness i treballem des de la psicologia humanista. Volem contribuir al benestar de les persones, dels grups i de la comunitat, a la teràpia i als grups de Mindfulness i Gestalt.",
+      "Som psicòlegs, terapeutes i mentors de Mindfulness i treballem des de la psicologia humanista. Volem contribuir al benestar de les persones, dels grups i de la comunitat, a la teràpia i als grups de Mindfulness.",
       "T'ajudem a veure amb més claredat les teves dificultats i els teus recursos, perquè puguis triar els teus objectius i respondre als conflictes amb llibertat, creativitat i responsabilitat.",
       "Treballem al centre de Vic i també online."
     ]},
@@ -28,7 +28,7 @@
       {"id": "carol-sanchez", "photo": "equip-carol.jpg", "name": "Carol Sanchez", "paragraphs": ["Terapeuta Gestalt i membre adherent de l'AETG. Coach de vida certificada (CEFOC) i practitioner en PNL. Formada en teràpia corporal correctiva i en psicoteràpia integrativa del trauma (mètode ALECEIA). Acompanya processos de dol i pèrdua, organitza cercles de dones i fa formació en habilitats psicosocials a petites i mitjanes empreses. Col·labora en un màster sobre el final de la vida, fa voluntariat en cures pal·liatives i practica la meditació i el Mindfulness."]}
     ]},
     {"type": "text", "title": "La nostra manera de fer teràpia", "image": "37-sobre-espiral.jpg", "reverse": true, "paragraphs": [
-      "Treballem des de les psicoteràpies humanistes i existencials, que van néixer com una alternativa a la psicoanàlisi i als corrents conductuals (l'anomenada «tercera força» de la psicologia). La nostra mirada és la de la Teràpia Gestalt.",
+      "Treballem des de les psicoteràpies humanistes i existencials, que van néixer com una alternativa a la psicoanàlisi i als corrents conductuals (l'anomenada «tercera força» de la psicologia).",
       "Entenem la teràpia com una trobada entre dues persones, en què el terapeuta hi posa la seva experiència i la seva presència. El nostre paper és acompanyar-te perquè trobis la teva manera de viure."
     ], "list": [
       "**Viure l'aquí i ara:** sentir el present i actuar d'acord amb el que passa, no amb pensaments, pors o suposicions.",

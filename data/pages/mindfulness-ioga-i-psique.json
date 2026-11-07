@@ -47,7 +47,7 @@
     {"type": "cards", "cols": 2, "items": [
       {"icon": "users", "title": "A qui va dirigit?", "text": "Qualsevol persona interessada a aprofundir en l'autoconeixement."},
       {"icon": "calendar-dots", "title": "Dies, horaris i adreça", "list": ["Divendres, de 16 h a 17.15 h", "Ronda de Francesc Camprodon, 25, 1r 1a, 08500 Vic"]},
-      {"icon": "users-three", "title": "Grups guiats per", "lead": "Aleix Boronat Monfort", "text": "Director i cofundador de L'Espiral. Professor de ioga, terapeuta Gestalt (membre adherent de l'AETG) i formador i mentor de Mindfulness."}
+      {"icon": "users-three", "title": "Grups guiats per", "lead": "Aleix Boronat Monfort", "text": "Director i cofundador de L'Espiral. Professor de ioga, terapeuta humanista i formador i mentor de Mindfulness."}
     ], "buttons": [{"text": "Inscripcions tancades"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
     {"type": "maps", "band": "stone", "id": "on-som"}
   ]

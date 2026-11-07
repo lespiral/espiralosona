@@ -51,7 +51,7 @@
     ], "buttons": [{"text": "Demanar més informació", "href": "contacte-2"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
     {"type": "cards", "cols": 2, "items": [
       {"icon": "calendar-dots", "title": "Detalls pràctics", "list": ["**Durada:** 1 h 10 min", "**Dia:** divendres", "**Horari:** de 16 h a 17.10 h", "**Lloc:** Osona Ioga. Ronda de Francesc Camprodon, 25, 1r 1a. 08500 Vic"]},
-      {"icon": "users", "title": "Impartit per", "lead": "Anna Viñas", "paragraphs": ["Professora de Ioga.", "Formada en Ioga Sensible al Trauma i en Ioga i Meditació per a l'Embaràs i el Postpart.", "Terapeuta Gestalt. Membre adherent de l'AETG. Formació en Psicoteràpia Integrativa (programa SAT). Formada en psicologia i psicopatologia del postpart.", "Formada a Educació Viva.", "Llicenciada en Humanitats i Periodisme."]}
+      {"icon": "users", "title": "Impartit per", "lead": "Anna Viñas", "paragraphs": ["Professora de Ioga.", "Formada en Ioga Sensible al Trauma i en Ioga i Meditació per a l'Embaràs i el Postpart.", "Terapeuta humanista. Formació en Psicoteràpia Integrativa (programa SAT). Formada en psicologia i psicopatologia del postpart.", "Formada a Educació Viva.", "Llicenciada en Humanitats i Periodisme."]}
     ], "buttons": [{"text": "Demanar més informació", "href": "contacte-2"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
     {"type": "maps", "band": "stone", "id": "on-som"}
   ]

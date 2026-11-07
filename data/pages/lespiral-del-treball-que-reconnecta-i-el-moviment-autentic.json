@@ -45,7 +45,7 @@
     ], "list": [
       "Vols aprofundir en la consciència corporal i l'autoconeixement.",
       "Busques un espai per escoltar la pròpia experiència sense haver-la d'interpretar de seguida.",
-      "Practiques Mindfulness, ioga, Gestalt, dansa o altres pràctiques corporals i vols escoltar més l'impuls intern.",
+      "Practiques Mindfulness, ioga, dansa o altres pràctiques corporals i vols escoltar més l'impuls intern.",
       "T'interessen el Treball que Reconnecta, l'Esperança Activa o el Moviment Autèntic.",
       "Et preguntes com relacionar-te amb el que t'importa i et preocupa sense quedar atrapat/da en la impotència."
     ], "after": [
@@ -72,7 +72,7 @@
     ], "buttons": [{"text": "Explora l'Esperança Activa", "href": "https://elarasocial.com/7-passes-cap-a-lesperanca-activa/"}]},
     {"type": "cards", "title": "L'Espiral del Treball que Reconnecta i Moviment Autèntic", "cols": 2, "items": [
       {"icon": "calendar-dots", "title": "Detalls pràctics", "list": ["**Durada:** 8 sessions de 3 h", "**Format:** taller presencial", "**Grup:** places limitades", "**Experiència prèvia:** no és necessària", "**Roba:** còmoda i que permeti moure't lliurement", "**Lloc:** Ronda de Francesc Camprodon, 25, 1r 1a. 08500 Vic"]},
-      {"icon": "users", "title": "Impartit per", "lead": "Aleix Boronat", "paragraphs": ["Terapeuta Gestalt, professor de Ioga i Mindfulness, facilitador del Treball que Reconnecta i practicant de la Disciplina del Moviment Autèntic amb la Betina Waissman.", "La proposta integra l'experiència en treball corporal, Mindfulness i Gestalt amb el Treball que Reconnecta i la pràctica del Moviment Autèntic.", "**Aquest taller no forma part de la Discipline of Authentic Movement de Janet Adler ni pretén oferir-ne una formació. El Moviment Autèntic constitueix una de les fonts i pràctiques que inspiren la proposta.**"]}
+      {"icon": "users", "title": "Impartit per", "lead": "Aleix Boronat", "paragraphs": ["Terapeuta humanista, professor de Ioga i Mindfulness, facilitador del Treball que Reconnecta i practicant de la Disciplina del Moviment Autèntic amb la Betina Waissman.", "La proposta integra l'experiència en treball corporal, Mindfulness i psicoteràpia humanista amb el Treball que Reconnecta i la pràctica del Moviment Autèntic.", "**Aquest taller no forma part de la Discipline of Authentic Movement de Janet Adler ni pretén oferir-ne una formació. El Moviment Autèntic constitueix una de les fonts i pràctiques que inspiren la proposta.**"]}
     ], "buttons": [{"text": "Demanar més informació", "href": "contacte-2"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
     {"type": "maps", "band": "stone", "id": "on-som"}
   ]

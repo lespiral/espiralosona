@@ -1,7 +1,7 @@
 {
   "name": "L'Espiral d'Osona",
   "tagline": "Psicoteràpia i Atenció Plena",
-  "description": "Psicòlegs, terapeutes Gestalt i mentors de Mindfulness a Vic, Osona i online. Psicoteràpia per a adults, teràpia de parella, mentoria i tallers d'Atenció Plena (mindfulness).",
+  "description": "Psicòlegs, terapeutes humanistes i mentors de Mindfulness a Vic, Osona i online. Psicoteràpia per a adults, teràpia de parella, mentoria i tallers d'Atenció Plena (mindfulness).",
   "publish": {"url": "https://espiralosona.com/", "index": true},
   "cta": {"text": "Demana'ns hora", "slug": "contacte-2"},
   "nav": [
@@ -48,7 +48,7 @@
     ]
   },
   "footer": {
-    "text": "Psicòlegs, terapeutes Gestalt i mentors de Mindfulness a Vic, Osona i online.",
+    "text": "Psicòlegs, terapeutes humanistes i mentors de Mindfulness a Vic, Osona i online.",
     "links": [
       {"slug": "", "title": "Inici"},
       {"slug": "psicoterapia-per-a-adults-a-vic-i-on-line", "title": "Psicoteràpia"},
@@ -77,19 +77,19 @@
     "top-5-adventure-places-in-habentia-spectent": ""
   },
   "home": {
-    "seo_title": "Psicoteràpia Gestalt i Mindfulness a Vic i online",
+    "seo_title": "Psicoteràpia humanista i Mindfulness a Vic i online",
     "description": "L'Espiral d'Osona, a Vic: psicoteràpia per a adults i per a parelles, presencial i online, mentoria i tallers d'Atenció Plena (mindfulness).",
     "kicker": "A Vic, Osona i online",
-    "statement": ["Un espai per a la", "Psicoteràpia i l'Atenció Plena"],
+    "statement": ["Un espai per a la", "**Psicoteràpia**", "i l'**Atenció Plena**"],
     "now": ["per viure en l'…", "AQUÍ I ARA"],
-    "title": "Psicòlegs, terapeutes Gestalt i mentors de Mindfulness a Vic, Osona i online.",
+    "title": "Psicòlegs, terapeutes humanistes i mentors de Mindfulness a Vic, Osona i online.",
     "image": "01-inici-portada.jpg",
     "actions": [{"text": "Demana'ns hora", "href": "contacte-2"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}],
     "sections": [
       {"type": "help", "band": "soft"},
       {"type": "quote", "band": "soft", "id": "qui-som", "text": "Un espai per prendre consciència del que et passa i decidir com vols respondre-hi.",
        "paragraphs": [
-         "A L'Espiral d'Osona treballem des de la psicologia humanista: psicoteràpia Gestalt i grups i tallers d'Atenció Plena (mindfulness).",
+         "A L'Espiral d'Osona treballem des de la psicologia humanista: psicoteràpia individual i de parella, i grups i tallers d'Atenció Plena (mindfulness).",
          "T'ajudem a veure amb més claredat les teves dificultats i els teus recursos, perquè puguis triar tu com hi vols respondre."
        ]},
       {"type": "cards", "id": "psicoterapia", "title": "Com et podem acompanyar", "items": [

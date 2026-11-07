@@ -26,7 +26,7 @@
 {# Capçalera d'una pàgina: "kicker" (avantítol), "title" (h1), "lead", "sub", "image" (fons) i "buttons" #}
 {% macro page_head(page, root) -%}
 {% set p = pic(page.image) if page.image else None %}
-<section class="pagehead{% if p and p.ok %} pagehead--photo{% endif %}"{% if p and p.ok %} style="--photo:url('{{ aroot }}assets/img/{{ p.src }}')"{% endif %}>
+<section class="pagehead{% if p and p.ok %} pagehead--photo{% endif %}"{% if p and p.ok %} style="background-image:url('{{ aroot }}assets/img/{{ p.src }}')"{% endif %}>
   <div class="wrap pagehead__in reveal">
     {% if page.kicker %}<p class="pagehead__kicker">{{ page.kicker }}</p>{% endif %}
     <h1 class="pagehead__title">{{ page.title }}</h1>

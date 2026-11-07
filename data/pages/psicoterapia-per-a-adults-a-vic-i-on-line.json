@@ -21,14 +21,14 @@
       "la sensació de no saber com avançar"
     ]},
     {"type": "text", "band": "soft", "title": "Com treballem", "image": "28-psicoterapia-claredat.jpg", "reverse": true, "paragraphs": [
-      "Treballem des de la Teràpia Gestalt, una psicoteràpia humanista. Ens fixem en el que vius ara: com et sents, què fas i què necessites.",
+      "Treballem des de la psicologia humanista. Ens fixem en el que vius ara: com et sents, què fas i què necessites.",
       "No et direm què has de fer. T'acompanyem perquè ho puguis veure amb més claredat i decidir tu, amb més llibertat, sobre la teva vida.",
       "Entenem la teràpia com una trobada entre dues persones, en què el terapeuta hi posa la seva experiència i la seva presència."
     ], "buttons": [{"text": "La nostra manera de fer teràpia", "href": "sobre-nosaltres"}]},
     {"type": "text", "title": "Com començar", "image": "29-psicoterapia-cami.jpg", "lead": false, "blocks": [
       {"h": "1. Ens truques o ens escrius", "paragraphs": ["Per telèfon o per WhatsApp, i ens expliques breument què busques."]},
       {"h": "2. T'orientem", "paragraphs": ["Et diem quin professional pot encaixar millor amb la teva situació."]},
-      {"h": "3. Primera sessió", "paragraphs": ["Ens coneixem, ens expliques què t'ha portat a consultar i valorem junts com començar."]},
+      {"h": "3. Primera sessió", "paragraphs": ["Ens expliques què t'ha portat a consultar i, des d'aquesta primera sessió, ja comencem a treballar."]},
       {"h": "4. El procés", "paragraphs": ["La freqüència de les sessions i els objectius es van acordant amb el terapeuta, segons el que necessitis."]}
     ]},
     {"type": "text", "band": "soft", "id": "psicoterapia-online", "kicker": "Siguis on siguis", "title": "Psicoteràpia online", "image": "65-psicoterapia-online.jpg", "reverse": true, "paragraphs": [

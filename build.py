@@ -214,6 +214,7 @@ def youtube_id(u):
 
 env = Environment(loader=FileSystemLoader(SRC / "templates"), autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
 env.filters["cap"] = cap
+env.filters["bold"] = bold
 env.filters["ytid"] = youtube_id
 env.globals.update(icon=icon, pic=pic, site=site, noindex=NOINDEX, version=str(int(time.time())), articles=articles,
                    logo=(IMG / "logo-espiral.png").exists(), favicon=(IMG / "favicon-48.png").exists())

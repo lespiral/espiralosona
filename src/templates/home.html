@@ -1,12 +1,13 @@
 {% extends "base.html" %}
 {% from "parts.html" import section, button, img with context %}
 {% block content %}
-{# La portada: la capçalera ("home" a data/site.json: kicker, statement, now, title, actions, image) i les seves seccions #}
+{# La portada: la capçalera ("home" a data/site.json: kicker, statement, now, title, actions, image) i les seves seccions.
+   "statement": la primera línia, petita; cada element següent, una línia gran (amb **paraula** destacada). #}
 {% set p = pic(h.image) if h.image else None %}
-<section class="hero{% if p and p.ok %} hero--photo{% endif %}"{% if p and p.ok %} style="--photo:url('{{ aroot }}assets/img/{{ p.src }}')"{% endif %}>
+<section class="hero{% if p and p.ok %} hero--photo{% endif %}"{% if p and p.ok %} style="background-image:url('{{ aroot }}assets/img/{{ p.src }}')"{% endif %}>
   <div class="wrap hero__in reveal">
     {% if h.kicker %}<p class="hero__kicker">{{ h.kicker }}</p>{% endif %}
-    <p class="hero__statement">{{ h.statement[0] }} <span>{{ h.statement[1] }}</span></p>
+    <p class="hero__statement">{{ h.statement[0] }}{% for x in h.statement[1:] %} <span>{{ x|bold }}</span>{% endfor %}</p>
     {% if h.now %}<p class="hero__now">{{ h.now[0] }} <strong>{{ h.now[1] }}</strong></p>{% endif %}
     <h1 class="hero__title">{{ h.title }}</h1>
     {% if h.actions %}<p class="actions">{% for b in h.actions %}{{ button(b, root, 'btn--light' if loop.first else 'btn--ghost-light') }}{% endfor %}</p>{% endif %}
