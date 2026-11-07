@@ -11,6 +11,7 @@ a `src/img/fotos/` amb el nom de la primera columna i torna a generar la web (`p
 | `62-telegram-practiques.jpg` | /canal-de-telegram/ |  |
 | `63-telegram-masterclass.jpg` | /canal-de-telegram/ |  |
 | `64-articles-mindfulness.jpg` | /canal-de-telegram/ |  |
+| `65-psicoterapia-online.jpg` | / |  |
 | `Elara-Social.png` | /lespiral-del-treball-que-reconnecta-i-el-moviment-autentic/, /moviment-autentic-i-el-treball-que-reconnecta/ | https://gestaltmindfulness.lespiral.cat/wp-content/uploads/2026/09/Elara-Social.png |
 | `Hara-i-la-por-17-contes-per-acompanyar-la-por-i-lansietat-amb-Mindfulness-1-e1725014812183.png` | /por-ansietat-i-atencio-plena-mindfulness/ | https://gestaltmindfulness.lespiral.cat/wp-content/uploads/2024/08/Hara-i-la-por-17-contes-per-acompanyar-la-por-i-lansietat-amb-Mindfulness-1-e1725014812183.png |
 | `Lespiral-terapia-gestalt-4-2.png` | / | https://gestaltmindfulness.lespiral.cat/wp-content/uploads/2024/07/Lespiral-terapia-gestalt-4-2.png |

@@ -45,7 +45,7 @@
 </details>
 {%- endmacro %}
 
-{# Targetes: [{"image", "icon", "badge", "title", "lead", "text", "paragraphs", "list", "href", "button", "links"}] #}
+{# Targetes: [{"image", "icon", "badge", "title", "subtitle", "lead", "text", "paragraphs", "list", "href", "button", "links"}] #}
 {% macro cards(s, root) -%}
 {% set n = s.cols or ((s["items"]|length) if (s["items"]|length) in (2, 4) else 3) %}
 <ul class="cards cards--{{ n }}">
@@ -56,6 +56,7 @@
       {% if c.icon %}<span class="card__icon" aria-hidden="true">{{ icon(c.icon) }}</span>{% endif %}
       {% if c.badge %}<span class="badge">{{ c.badge }}</span>{% endif %}
       {% if c.title %}<h3 class="card__title">{{ c.title }}</h3>{% endif %}
+      {% if c.subtitle %}<p class="card__subtitle">{{ c.subtitle }}</p>{% endif %}
       {% if c.lead %}<p class="card__lead">{{ c.lead }}</p>{% endif %}
       {% if c.text %}<p>{{ c.text }}</p>{% endif %}
       {% for p in c.paragraphs or [] %}<p>{{ p }}</p>{% endfor %}

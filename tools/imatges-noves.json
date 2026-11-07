@@ -3,7 +3,7 @@
   "01-inici-portada": [["site.json", "home", "image"]],
   "02-psicoterapia": [["pages/psicoterapia-per-a-adults-a-vic-i-on-line.json", "image"], ["site.json", "home", "sections", 2, "items", 0, "image"]],
   "03-parella": [["pages/terapia-de-parella-a-vic-osona-i-on-line.json", "image"], ["site.json", "home", "sections", 2, "items", 1, "image"]],
-  "04-mentoria": [["pages/mentoria-en-mindfulness.json", "image"], ["site.json", "home", "sections", 2, "items", 2, "image"]],
+  "04-mentoria": [["pages/mentoria-en-mindfulness.json", "image"], ["site.json", "home", "sections", 2, "items", 3, "image"]],
   "05-trencant-patrons": [["pages/trencant-patrons-de-pensament-mindfulness-a-vic.json", "image"], ["site.json", "home", "sections", 4, "items", 0, "image"]],
   "06-soroll-mental": [["pages/gestiona-el-soroll-mental-mindfulness-a-vic.json", "image"], ["site.json", "home", "sections", 4, "items", 1, "image"]],
   "07-desprograma": [["pages/desprograma-la-teva-ment-mindfulness-a-vic.json", "image"], ["site.json", "home", "sections", 4, "items", 2, "image"]],
@@ -63,5 +63,6 @@
   "61-ioga-per-a-tu": [["pages/ioga-per-a-la-regulacio-emocional.json", "sections", 3, "image"], ["pages/mindfulness-ioga-i-psique.json", "sections", 2, "image"]],
   "62-telegram-practiques": [["pages/canal-de-telegram.json", "sections", 1, "items", 0, "image"]],
   "63-telegram-masterclass": [["pages/canal-de-telegram.json", "sections", 1, "items", 1, "image"]],
-  "64-articles-mindfulness": [["pages/canal-de-telegram.json", "sections", 1, "items", 3, "image"]]
+  "64-articles-mindfulness": [["pages/canal-de-telegram.json", "sections", 1, "items", 3, "image"]],
+  "65-psicoterapia-online": [["site.json", "home", "sections", 2, "items", 2, "image"]]
 }

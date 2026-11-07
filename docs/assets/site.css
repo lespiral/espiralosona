@@ -199,6 +199,8 @@ main{padding-top:var(--topbar)}
 .card__icon{width:52px;height:52px;border-radius:9px;background:var(--c50);color:var(--c700);display:grid;place-items:center;margin-bottom:16px}
 .card__icon .i{width:26px;height:26px}
 .card__title{font-size:21px;margin-bottom:12px;color:var(--ink)}
+.card__title:has(+.card__subtitle){margin-bottom:6px}
+.card__subtitle{font:italic 400 18px/1.4 var(--serif);color:var(--c700);margin-bottom:14px}
 .card__lead{font-weight:600;color:var(--ink);margin-bottom:8px}
 .card p{font-size:16px}
 .band--soft .card,.band--stone .card,.band--cream .card{border-color:#e9e7e4}

@@ -23,10 +23,15 @@
       "En acceptar-los i donar-los l'espai, els integres en una vida ben orientada i valuosa.",
       "Amb la Teràpia Gestalt et vius més completament, i per tant els resultats obtinguts tendeixen a ser permanents i globals. Afecten tot el teu ser i totes les àrees de la teva vida."
     ]},
-    {"type": "cards", "band": "soft", "cols": 2, "items": [
+    {"type": "text", "band": "soft", "id": "psicoterapia-online", "kicker": "Siguis on siguis", "title": "Psicoteràpia online", "paragraphs": [
+      "Si no pots venir a Vic, o prefereixes fer les sessions des de casa, també t'acompanyem on-line.",
+      "La psicoteràpia individual i la teràpia de parella es poden fer on-line amb la mateixa manera de treballar que a la consulta: un espai íntim i segur, ara des d'allà on siguis.",
+      "Escriu-nos per WhatsApp o truca'ns i t'orientarem sobre el professional i l'horari que millor s'adaptin a tu."
+    ], "buttons": [{"text": "Demana hora", "href": "contacte-2"}]},
+    {"type": "cards", "cols": 2, "items": [
       {"icon": "users", "title": "A qui va dirigit?", "text": "A tots els adults que senten que un suport professional pot portar canvis en les seves vides."},
       {"icon": "clock", "title": "Preus, durada i horaris", "text": "La durada, freqüència, horaris i preu de les sessions s'acorden amb el terapeuta al començament de la teràpia. Posa't en contacte amb nosaltres per a saber quins terapeutes poden acompanyar-te i les seves condicions de treball."}
     ], "buttons": [{"text": "Demana hora", "href": "contacte-2"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
-    {"type": "maps", "band": "white", "id": "on-som"}
+    {"type": "maps", "band": "stone", "id": "on-som"}
   ]
 }
