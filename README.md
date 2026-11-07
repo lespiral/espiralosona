@@ -1,7 +1,7 @@
 # Web de L'Espiral d'Osona
 
 Web estàtica de L'Espiral d'Osona (psicoteràpia i mindfulness a Vic), feta amb el mateix sistema que elarasocial.com (repositori `lespiral/elarasocial`).
-Es publica amb GitHub Pages des de la carpeta `docs/`. Ara és a **lespiral.github.io/espiralosona**, sense sortir als cercadors; quan es passi el domini, serà **espiralosona.com**.
+Es publica amb GitHub Pages des de la carpeta `docs/`. Ara és a **espiralosona.com** (des del 7/11/2026), i surt als cercadors.
 
 Estat (6 de novembre de 2026): totes les pàgines de la web de WordPress (gestaltmindfulness.lespiral.cat, on redirigia espiralosona.com) passades amb els seus textos i les mateixes adreces. Les imatges encara no hi són: surten com a requadres marcats (vegeu «Imatges»).
 
@@ -75,5 +75,5 @@ Les adreces de WordPress que ja no són una pàgina porten a la nova (`redirects
 ## Publicació
 
 - GitHub Pages, branca `main`, carpeta `/docs`.
-- L'adreça i si surt als cercadors són a `data/site.json`, a `publish`. Ara: `https://lespiral.github.io/espiralosona/` i `"index": false`.
-- Per passar el domini: posar el fitxer `CNAME` amb `espiralosona.com`, canviar `publish` a `https://espiralosona.com/` i `"index": true`, i als DNS de Bluehost: A `@` a les 4 IP de GitHub Pages i CNAME `www` → `lespiral.github.io`. El correu (MX) no es toca.
+- L'adreça i si surt als cercadors són a `data/site.json`, a `publish`. Ara: `https://espiralosona.com/` i `"index": true`.
+- Com es va passar el domini (7/11/2026): posar el fitxer `CNAME` amb `espiralosona.com`, canviar `publish` a `https://espiralosona.com/` i `"index": true`, i als DNS de Bluehost: A `@` a les 4 IP de GitHub Pages i CNAME `www` → `lespiral.github.io`. El correu (MX) no es toca.

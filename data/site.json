@@ -2,7 +2,7 @@
   "name": "L'Espiral d'Osona",
   "tagline": "Psicoteràpia i Atenció Plena",
   "description": "Psicòlegs, terapeutes Gestalt i mentors de Mindfulness a Vic, Osona i online. Psicoteràpia per a adults, teràpia de parella, mentoria i tallers d'Atenció Plena (mindfulness).",
-  "publish": {"url": "https://lespiral.github.io/espiralosona/", "index": false},
+  "publish": {"url": "https://espiralosona.com/", "index": true},
   "cta": {"text": "Demana'ns hora", "slug": "contacte-2"},
   "nav": [
     {"slug": "", "title": "Inici"},
