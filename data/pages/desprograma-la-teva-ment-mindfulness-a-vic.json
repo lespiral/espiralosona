@@ -1,124 +1,42 @@
 {
- "seo_title": "Desprograma la teva ment – Mindfulness a Vic",
- "kicker": "Mindfulness a Vic i OnLine",
- "title": "Desprograma la teva ment",
- "lead": "A Vic, Mindfulness per assaborir la llibertat que és possible quan deixes anar creences i pensaments.",
- "image": "07-desprograma.jpg",
- "buttons": [
-  {
-   "text": "Formulari d'inscripció",
-   "href": "https://forms.gle/8NvAebo2uQLQgSyp7"
-  },
-  {
-   "text": "Sobre nosaltres",
-   "href": "sobre-nosaltres"
-  }
- ],
- "description": "Taller de Mindfulness a Vic per portar a la llum les creences i els missatges que vam interioritzar de petits i desvincular-los del nostre autèntic jo.",
- "sections": [
-  {
-   "type": "help",
-   "band": "soft"
-  },
-  {
-   "type": "text",
-   "title": "Desprograma la teva ment",
-   "image": "40-desprograma-tema.jpg",
-   "paragraphs": [
-    "Gran part de les reaccions i creences que dirigeixen la nostra vida operen en la foscor de la inconsciència (per sota de la «línia de la consciència»).",
-    "No són fets objectius, sinó històries i missatges que hem interioritzat des de ben petits a través de la cultura, la societat i, sobretot, dels nostres cuidadors principals (pares, avis…).",
-    "Hem assumit com a propis missatges com «no mereixo ser feliç», «haig de treballar molt per ser estimat» o «és perillós mostrar-se feble».",
-    "Aquestes petjades profundes estan arrelades en pors de supervivència i, de vegades, fins i tot són traumes o patrons transmesos de generació en generació. Per desprogramar-nos, primer hem de portar tot aquest material a la llum."
-   ]
-  },
-  {
-   "type": "text",
-   "band": "soft",
-   "title": "En què consisteix aquest curs?",
-   "image": "41-taller-grup.jpg",
-   "reverse": true,
-   "paragraphs": [
-    "En aquest taller farem un treball profund de consciència personal.",
-    "L'objectiu és «posar llum» i traslladar les teves creences més profundes per sobre de la línia de la consciència.",
-    "Farem exercicis guiats per explorar la teva pròpia història, identificant els missatges i les expectatives que vas rebre en la infància per part de les figures d'aferrament.",
-    "Aprendrem a anomenar i reconèixer aquestes creences limitants i desvincular-les del nostre autèntic jo, comprenent que no són les teves creences, sinó una herència condicionada que ara pots escollir no creure."
-   ]
-  },
-  {
-   "type": "text",
-   "title": "A qui va dirigit?",
-   "image": "42-taller-per-a-tu.jpg",
-   "paragraphs": [
-    "Aquest taller és per a tu si:"
-   ],
-   "list": [
-    "Et trobes repetint reaccions i patrons familiars que prometies no repetir.",
-    "Sents el pes de l'exigència externa o d'expectatives sobre com hauries de ser.",
-    "Vols explorar, amb amabilitat i de forma segura, com el teu passat i el teu entorn han modelat les teves creences actuals.",
-    "Desitges aprofundir en el teu autoconeixement per fer canvis d'arrel i duradors en la teva personalitat."
-   ]
-  },
-  {
-   "type": "text",
-   "band": "soft",
-   "title": "Què t'emportaràs d'aquest taller? (Els beneficis)",
-   "image": "43-taller-beneficis.jpg",
-   "reverse": true,
-   "list": [
-    "**Autoconeixement profund:** identificaràs l'origen real i històric dels teus patrons reactius i actituds defensives.",
-    "**Desprogramació d'automatismes:** en fer conscient allò inconscient («posar-hi llum»), aquestes creences antigues perdran immediatament el seu poder sobre tu.",
-    "**Alliberament d'herències familiars:** eines per observar la teva pròpia història i la dels teus cuidadors amb distància, comprensió i sense judici.",
-    "**Poder d'elecció i renovació:** trencaràs amb els vells condicionaments («soc així per culpa de…») per obrir-te a construir una identitat més lliure i conscient des del present."
-   ],
-   "buttons": [
-    {
-     "text": "Formulari d'inscripció",
-     "href": "https://forms.gle/8NvAebo2uQLQgSyp7"
-    },
-    {
-     "text": "Sobre nosaltres",
-     "href": "sobre-nosaltres"
-    }
-   ]
-  },
-  {
-   "type": "cards",
-   "cols": 2,
-   "items": [
-    {
-     "icon": "calendar-dots",
-     "title": "Detalls pràctics",
-     "list": [
-      "**Durada:** 3 hores d'immersió teoricopràctica.",
-      "**Data:** divendres 6 de novembre",
-      "**Horari:** de 18 h a 21 h",
-      "**On?** Ronda de Francesc Camprodon, 25, 1r 1a. 08500 Vic",
-      "**Preu:** el preu del taller és de **35 euros** i inclou l'accés a material gravat per a poder continuar practicant després del taller.",
-      "**Idioma del curs:** català"
-     ]
-    },
-    {
-     "icon": "users",
-     "title": "Impartit per",
-     "lead": "Aleix Boronat",
-     "text": "Director i cofundador de L'Espiral. Terapeuta Gestalt, Mentor en Mindfulness i Membre adherent de l'AETG. Formació en Psicoteràpia Integrativa (programa SAT). Format en tècniques psicocorporals (Shiatsu i Moviment, Seitai, Ioga, Bioenergètica)."
-    }
-   ],
-   "buttons": [
-    {
-     "text": "Formulari d'inscripció",
-     "href": "https://forms.gle/8NvAebo2uQLQgSyp7"
-    },
-    {
-     "text": "Sobre nosaltres",
-     "href": "sobre-nosaltres"
-    }
-   ]
-  },
-  {
-   "type": "maps",
-   "band": "stone",
-   "id": "on-som"
-  }
- ]
+  "seo_title": "Desprograma la teva ment – Mindfulness a Vic",
+  "kicker": "Taller de Mindfulness a Vic i online",
+  "title": "Desprograma la teva ment",
+  "lead": "Un taller per portar a la llum les creences que vam aprendre de petits i que avui potser ja no ens serveixen.",
+  "image": "07-desprograma.jpg",
+  "buttons": [{"text": "Formulari d'inscripció", "href": "https://forms.gle/8NvAebo2uQLQgSyp7"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}],
+  "description": "Taller de Mindfulness a Vic per portar a la llum les creences i els missatges que vam interioritzar de petits i poder-los mirar amb distància.",
+  "sections": [
+    {"type": "help", "band": "soft"},
+    {"type": "text", "title": "D'on venen les nostres creences", "image": "40-desprograma-tema.jpg", "paragraphs": [
+      "Moltes de les reaccions i creences que dirigeixen la nostra vida actuen sense que ens n'adonem.",
+      "No són fets, sinó missatges que vam interioritzar de petits a través de la cultura i, sobretot, de les persones que ens van cuidar: «no mereixo ser feliç», «haig de treballar molt per ser estimat», «és perillós mostrar-se feble».",
+      "Sovint estan arrelats en pors antigues, i de vegades en ferides o patrons que es transmeten de generació en generació. Per poder-los deixar anar, primer cal portar-los a la llum."
+    ]},
+    {"type": "text", "band": "soft", "title": "En què consisteix el taller", "image": "41-taller-grup.jpg", "reverse": true, "paragraphs": [
+      "Un treball de consciència personal per fer visibles les creences més profundes.",
+      "Amb exercicis guiats explorarem la pròpia història i els missatges i les expectatives que vam rebre de petits. Aprendrem a reconèixer aquestes creences com una herència que ara podem triar no creure."
+    ]},
+    {"type": "text", "title": "A qui va dirigit?", "image": "42-taller-per-a-tu.jpg", "paragraphs": [
+      "Aquest taller és per a tu si:"
+    ], "list": [
+      "Repeteixes reaccions i patrons familiars que t'havies promès no repetir.",
+      "Sents el pes de l'exigència o de les expectatives sobre com hauries de ser.",
+      "Vols explorar, amb amabilitat i de manera segura, com la teva història ha modelat les teves creences.",
+      "Vols conèixer-te més per fer canvis de fons."
+    ], "after": [
+      "Aquest taller no és psicoteràpia. Cadascú decideix fins on vol anar en cada exercici. Si passes per un moment difícil, parla'n amb nosaltres abans d'apuntar-t'hi."
+    ]},
+    {"type": "text", "band": "soft", "title": "Què et pot aportar", "image": "43-taller-beneficis.jpg", "reverse": true, "list": [
+      "**Conèixer-te més:** reconèixer d'on venen els teus patrons i les teves reaccions defensives.",
+      "**Afluixar els automatismes:** quan fas conscients aquestes creences, van perdent força.",
+      "**Mirar la teva història amb distància:** la teva i la de les persones que et van cuidar, amb comprensió i sense judici.",
+      "**Més llibertat per triar:** sortir del «soc així per culpa de…» i construir des del present."
+    ], "buttons": [{"text": "Formulari d'inscripció", "href": "https://forms.gle/8NvAebo2uQLQgSyp7"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
+    {"type": "cards", "cols": 2, "items": [
+      {"icon": "calendar-dots", "title": "Detalls pràctics", "list": ["**Durada:** 3 hores, de teoria i pràctica.", "**Data:** divendres 6 de novembre", "**Horari:** de 18 h a 21 h", "**On?** Ronda de Francesc Camprodon, 25, 1r 1a. 08500 Vic", "**Preu:** 35 euros, amb accés a material gravat per continuar practicant després del taller.", "**Idioma:** català"]},
+      {"icon": "users", "title": "Impartit per", "lead": "Aleix Boronat", "text": "Director i cofundador de L'Espiral. Terapeuta Gestalt (membre adherent de l'AETG) i mentor de Mindfulness."}
+    ], "buttons": [{"text": "Formulari d'inscripció", "href": "https://forms.gle/8NvAebo2uQLQgSyp7"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
+    {"type": "maps", "band": "stone", "id": "on-som"}
+  ]
 }

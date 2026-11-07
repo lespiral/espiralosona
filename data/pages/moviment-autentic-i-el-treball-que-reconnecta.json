@@ -1,275 +1,75 @@
 {
- "seo_title": "Moviment Autèntic i el Treball que Reconnecta",
- "kicker": "A Vic",
- "title": "El Treball que Reconnecta i Moviment Autèntic",
- "lead": "Un espai per escoltar el cos, reconnectar amb allò que ens importa i explorar la nostra experiència a través del moviment.",
- "image": "08-moviment-autentic.jpg",
- "buttons": [
-  {
-   "text": "Demanar més informació",
-   "href": "contacte-2"
-  },
-  {
-   "text": "Sobre nosaltres",
-   "href": "sobre-nosaltres"
-  }
- ],
- "description": "Taller presencial a Vic que posa en diàleg el Treball que Reconnecta i el Moviment Autèntic: un espai per escoltar el cos i explorar la nostra experiència a través del moviment.",
- "sections": [
-  {
-   "type": "help",
-   "band": "soft"
-  },
-  {
-   "type": "text",
-   "title": "Quan ens costa posar-hi paraules",
-   "image": "50-ma-paraules.jpg",
-   "lead": false,
-   "paragraphs": [
-    "Hi ha moments en què sabem que alguna cosa ens importa, ens preocupa o ens commou, però ens costa posar-hi paraules.",
-    "Podem intentar comprendre què ens passa, buscar respostes o pensar què hauríem de fer. Però hi ha una part de la nostra experiència que no sempre apareix quan intentem explicar-la.",
-    "**El cos també té una manera de saber.**",
-    "Una sensació, una tensió, una necessitat d'aturar-nos, un gest que apareix espontàniament o un impuls de moviment poden mostrar **aspectes de la nostra experiència que encara no havíem pogut reconèixer.**",
-    "Aquest taller proposa crear un espai per deixar momentàniament de buscar respostes i **escoltar què apareix quan donem al cos temps, atenció i llibertat per moure's, o per no moure's.**"
-   ]
-  },
-  {
-   "type": "text",
-   "band": "soft",
-   "title": "El Treball que Reconnecta i el Moviment Autèntic",
-   "image": "51-ma-testimoni.jpg",
-   "reverse": true,
-   "lead": false,
-   "paragraphs": [
-    "La proposta neix del diàleg entre dues aproximacions diferents però profundament compatibles.",
-    "**El Treball que Reconnecta**, desenvolupat per Joanna Macy i altres col·laboradors, proposa un recorregut per reconnectar amb allò que estimem, poder aproximar-nos a allò que ens preocupa, ampliar la nostra mirada i descobrir maneres significatives de participar en el món.",
-    "El **Moviment Autèntic**, originat en el treball de Mary Starks Whitehouse i posteriorment desenvolupat per Janet Adler i altres autores, proposa una forma d'escolta corporal basada en l'atenció a l'impuls intern, el moviment espontani i la presència del testimoni.",
-    "En aquest taller posarem en diàleg les dues aproximacions.",
-    "No buscarem ballar bé, representar res ni realitzar moviments determinats.",
-    "**La invitació serà escoltar:**"
-   ],
-   "list": [
-    "Què s'està movent a la meva vida i al meu voltant?",
-    "Què passa quan deixo de decidir durant uns moments com m'he de moure?",
-    "Què apareix quan dono espai al cos?",
-    "Què passa quan algú és present i testimonia la meva experiència sense jutjar-la ni interpretar-la?",
-    "Com torno al món que m'envolta?"
-   ]
-  },
-  {
-   "type": "text",
-   "title": "Una altra manera d'apropar-nos a la nostra experiència",
-   "image": "52-ma-quietud.jpg",
-   "lead": false,
-   "paragraphs": [
-    "Durant el taller alternarem moments de paraula, consciència corporal, moviment, quietud i testimoniatge.",
-    "Prepararem el cos i desenvoluparem una actitud d'escolta.",
-    "Progressivament explorarem la possibilitat de deixar que el moviment aparegui des de dins, sense haver de saber prèviament què volem expressar.",
-    "Poden aparèixer sensacions, emocions, imatges, records, pensaments o simplement l'experiència física del cos movent-se.",
-    "**Explorarem la possibilitat d'estar presents davant del que apareix.**",
-    "I disposarem d'un espai de paraula per integrar l'experiència."
-   ]
-  },
-  {
-   "type": "text",
-   "band": "soft",
-   "title": "A qui va dirigit?",
-   "image": "53-ma-peus.jpg",
-   "reverse": true,
-   "lead": false,
-   "paragraphs": [
-    "Aquest taller pot ser per a tu si:"
-   ],
-   "list": [
-    "Tens curiositat per explorar una relació més profunda amb el teu cos.",
-    "Voldries disposar d'un espai on no hagis de saber prèviament què has de fer o què has de sentir.",
-    "T'interessa el moviment com a forma d'autoconeixement.",
-    "Practiques Mindfulness, meditació, ioga, dansa, treball corporal o altres disciplines contemplatives i vols explorar una aproximació diferent.",
-    "T'interessa el Treball que Reconnecta, l'Esperança Activa o les aproximacions que connecten experiència personal i dimensió col·lectiva.",
-    "Tens curiositat pel Moviment Autèntic i vols tenir una primera experiència d'aquesta manera de treballar."
-   ],
-   "after": [
-    "**No cal saber ballar ni tenir experiència prèvia en moviment, meditació o treball corporal.**",
-    "El moviment no té una finalitat estètica ni existeix una manera correcta de fer-lo."
-   ]
-  },
-  {
-   "type": "text",
-   "title": "Què t'emportaràs del taller?",
-   "image": "54-ma-respira.jpg",
-   "lead": false,
-   "blocks": [
-    {
-     "h": "Una experiència d'escolta corporal",
-     "paragraphs": [
-      "Exploraràs què passa quan durant uns moments deixes de dirigir el cos des de fora i prestes atenció a sensacions, impulsos, moviment i quietud."
-     ]
-    },
-    {
-     "h": "Una aproximació al Moviment Autèntic",
-     "paragraphs": [
-      "Coneixeràs alguns dels seus principis fonamentals i experimentaràs els rols de la persona que es mou i de la persona que testimonia."
-     ]
-    },
-    {
-     "h": "Una experiència de ser testimoniat",
-     "paragraphs": [
-      "Explorarem què significa que una altra persona pugui estar present davant la nostra experiència sense necessitat de corregir-la, dirigir-la ni interpretar-la."
-     ]
-    },
-    {
-     "h": "Més espai per a allò que no sabem",
-     "paragraphs": [
-      "No buscarem arribar necessàriament a conclusions. Practicarem una manera d'apropar-nos a l'experiència des de la curiositat i l'escolta."
-     ]
-    },
-    {
-     "h": "Una primera aproximació corporal al Treball que Reconnecta",
-     "paragraphs": [
-      "Explorarem com el cos pot participar en preguntes relacionades amb allò que estimem, allò que ens sosté i la nostra manera de relacionar-nos amb nosaltres mateixos, els altres i el món."
-     ]
-    }
-   ]
-  },
-  {
-   "type": "text",
-   "band": "soft",
-   "title": "Com serà la sessió?",
-   "image": "55-ma-cercle.jpg",
-   "reverse": true,
-   "lead": false,
-   "paragraphs": [
-    "La sessió tindrà una durada d'entre **2,5** i **3 hores.**",
-    "Hi haurà quatre grans moments:"
-   ],
-   "blocks": [
-    {
-     "h": "Introducció i contextualització",
-     "paragraphs": [
-      "Presentarem el marc del Treball que Reconnecta i alguns principis del Moviment Autèntic."
-     ]
-    },
-    {
-     "h": "Preparació corporal",
-     "paragraphs": [
-      "Mitjançant propostes senzilles de consciència corporal i moviment prepararem les condicions per poder escoltar amb més precisió sensacions i impulsos."
-     ]
-    },
-    {
-     "h": "Pràctica de moviment i testimoniatge",
-     "paragraphs": [
-      "Experimentarem progressivament el moviment des de l'impuls intern i la presència del testimoni."
-     ]
-    },
-    {
-     "h": "Integració i cercle de paraula",
-     "paragraphs": [
-      "Acabarem amb un espai per posar paraules a allò que cadascú vulgui compartir de l'experiència."
-     ]
-    }
-   ],
-   "buttons": [
-    {
-     "text": "Demanar més informació",
-     "href": "contacte-2"
-    },
-    {
-     "text": "Sobre nosaltres",
-     "href": "sobre-nosaltres"
-    }
-   ]
-  },
-  {
-   "type": "cards",
-   "cols": 2,
-   "items": [
-    {
-     "icon": "calendar-dots",
-     "title": "Detalls pràctics",
-     "list": [
-      "**Data:** diumenge 8 de novembre",
-      "**Horari:** de 18 h a 20.30–21 h",
-      "**Durada:** 2,5–3 h",
-      "**Format:** taller presencial",
-      "**Grup:** places limitades",
-      "**Experiència prèvia:** no és necessària",
-      "**Roba:** còmoda i que permeti moure't lliurement",
-      "**On?** Ronda de Francesc Camprodon, 25, 1r 1a. 08500 Vic",
-      "**Preu:** 35 euros"
-     ]
-    },
-    {
-     "icon": "users",
-     "title": "Impartit per",
-     "lead": "Aleix Boronat",
-     "paragraphs": [
-      "Terapeuta Gestalt, professor de Ioga i Mindfulness, facilitador del Treball que Reconnecta i practicant de la Disciplina del Moviment Autèntic amb la Betina Waissman.",
-      "La proposta integra l'experiència en treball corporal, Mindfulness i Gestalt amb el Treball que Reconnecta i la pràctica del Moviment Autèntic.",
-      "**Aquest taller no forma part de la Discipline of Authentic Movement de Janet Adler ni pretén oferir-ne una formació. El Moviment Autèntic constitueix una de les fonts i pràctiques que inspiren la proposta.**"
-     ]
-    }
-   ],
-   "buttons": [
-    {
-     "text": "Demanar més informació",
-     "href": "contacte-2"
-    },
-    {
-     "text": "Sobre nosaltres",
-     "href": "sobre-nosaltres"
-    }
-   ]
-  },
-  {
-   "type": "text",
-   "html": true,
-   "title": "Què és el Treball que Reconnecta?",
-   "image": "57-tqr.jpg",
-   "lead": false,
-   "paragraphs": [
-    "El <strong>Treball que Reconnecta</strong>, creat per <a href=\"https://www.joannamacy.net/main\" rel=\"noopener\"><strong>Joanna Macy</strong></a>, filòsofa, autora i activista reconeguda internacionalment pel seu treball en ecologia profunda, budisme compromès i transformació social, és una proposta vivencial per afrontar el malestar davant les crisis personals, socials i ecològiques sense quedar-nos atrapats en la impotència. La seva Espiral ens convida a passar de la connexió amb allò que ens importa a una resposta més conscient i compromesa."
-   ],
-   "list": [
-    "<strong>Consciència.</strong> Comencem reconnectant amb allò que estimem, el que ens sosté i també el que ens preocupa. Donar espai a aquestes emocions ens ajuda a entendre què és important per a nosaltres i què volem cuidar.",
-    "<strong>Comunitat.</strong> Ampliem la mirada i recordem que no estem sols. Formem part de xarxes de relacions, comunitats i sistemes vius. Compartir el que ens preocupa pot transformar l'aïllament en suport, perspectiva i sentit de pertinença.",
-    "<strong>Acció.</strong> Finalment, ens preguntem quin paper podem assumir i quin és el següent pas possible. No cal que sigui una gran acció: l'important és que sigui concreta, realista i connectada amb els nostres valors i amb allò que volem contribuir a cuidar."
-   ]
-  },
-  {
-   "type": "text",
-   "band": "soft",
-   "title": "Esperança Activa",
-   "image": "58-esperanca-activa.jpg",
-   "reverse": true,
-   "lead": false,
-   "paragraphs": [
-    "Tot aquest procés busca cultivar l'**Esperança Activa.**",
-    "L'**Esperança Activa** no consisteix a confiar passivament que tot anirà bé, sinó a reconèixer què és important per a nosaltres i **participar activament en allò que volem cuidar o transformar**, encara que no puguem controlar-ne el resultat."
-   ]
-  },
-  {
-   "type": "text",
-   "html": true,
-   "title": "Vols fer un tastet d'Esperança Activa?",
-   "image": "2026/09/Elara-Social.png",
-   "lead": false,
-   "paragraphs": [
-    "Si vols conèixer el <strong>Treball que Reconnecta</strong> d'una manera senzilla i guiada, pots començar amb <a href=\"https://elarasocial.com/7-passes-cap-a-lesperanca-activa/\" rel=\"noopener\"><strong>7 passes cap a l'Esperança Activa</strong></a>: uns recorreguts <strong>breus, online i gratuïts</strong> per reconnectar amb allò que t'importa, donar espai al que et preocupa i explorar quin pot ser el teu següent pas possible.",
-    "Hi trobaràs propostes vinculades al <strong>malestar personal, la salut mental comunitària, l'acció climàtica i els reptes socials</strong>.",
-    "Aquesta proposta ha estat creada conjuntament amb <strong>Elara Social</strong>, el projecte amb què desenvolupem iniciatives orientades a la <strong>consciència, la comunitat i l'acció</strong>.",
-    "<strong>Descobreix els recorreguts de 7 passes cap a l'Esperança Activa a la web d'<a href=\"https://elarasocial.com/7-passes-cap-a-lesperanca-activa/\" rel=\"noopener\">Elara Social</a>.</strong>"
-   ],
-   "buttons": [
-    {
-     "text": "Explora l'Esperança Activa",
-     "href": "https://elarasocial.com/7-passes-cap-a-lesperanca-activa/"
-    }
-   ]
-  },
-  {
-   "type": "maps",
-   "band": "stone",
-   "id": "on-som"
-  }
- ]
+  "seo_title": "Moviment Autèntic i el Treball que Reconnecta",
+  "kicker": "Taller presencial a Vic",
+  "title": "El Treball que Reconnecta i Moviment Autèntic",
+  "lead": "Un espai per escoltar el cos, reconnectar amb allò que ens importa i explorar la nostra experiència a través del moviment.",
+  "image": "08-moviment-autentic.jpg",
+  "buttons": [{"text": "Demanar més informació", "href": "contacte-2"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}],
+  "description": "Taller presencial a Vic que posa en diàleg el Treball que Reconnecta i el Moviment Autèntic: un espai per escoltar el cos i explorar l'experiència a través del moviment.",
+  "sections": [
+    {"type": "help", "band": "soft"},
+    {"type": "text", "title": "Quan ens costa posar-hi paraules", "image": "50-ma-paraules.jpg", "lead": false, "paragraphs": [
+      "Hi ha moments en què sabem que alguna cosa ens importa, ens preocupa o ens commou, però ens costa posar-hi paraules.",
+      "**El cos també té una manera de saber.** Una tensió, una necessitat d'aturar-nos, un gest o un impuls de moviment poden mostrar parts de la nostra experiència que encara no havíem pogut reconèixer.",
+      "Aquest taller proposa deixar per una estona de buscar respostes i **escoltar què apareix quan donem al cos temps, atenció i llibertat per moure's, o per no moure's.**"
+    ]},
+    {"type": "text", "band": "soft", "title": "El Treball que Reconnecta i el Moviment Autèntic", "image": "51-ma-testimoni.jpg", "reverse": true, "lead": false, "paragraphs": [
+      "El taller posa en diàleg dues propostes diferents però compatibles.",
+      "**El Treball que Reconnecta**, de Joanna Macy, ens convida a reconnectar amb allò que estimem, apropar-nos a allò que ens preocupa i descobrir com volem participar en el món.",
+      "**El Moviment Autèntic**, que neix del treball de Mary Starks Whitehouse i que va desenvolupar Janet Adler, és una forma d'escolta corporal basada en l'impuls intern, el moviment espontani i la presència d'un testimoni.",
+      "No buscarem ballar bé ni fer moviments determinats. **La invitació serà escoltar:**"
+    ], "list": [
+      "Què s'està movent a la meva vida i al meu voltant?",
+      "Què passa quan deixo de decidir com m'he de moure?",
+      "Què apareix quan dono espai al cos?",
+      "Què passa quan algú testimonia la meva experiència sense jutjar-la ni interpretar-la?",
+      "Com torno al món que m'envolta?"
+    ]},
+    {"type": "text", "title": "Una altra manera d'apropar-nos a l'experiència", "image": "52-ma-quietud.jpg", "lead": false, "paragraphs": [
+      "Alternarem moments de paraula, consciència corporal, moviment, quietud i testimoni. Deixarem que el moviment aparegui des de dins, sense haver de saber abans què volem expressar.",
+      "Poden aparèixer sensacions, emocions, imatges, records o simplement l'experiència del cos movent-se. **Practicarem estar presents davant del que apareix**, i acabarem amb un espai de paraula per integrar-ho."
+    ]},
+    {"type": "text", "band": "soft", "title": "A qui va dirigit?", "image": "53-ma-peus.jpg", "reverse": true, "lead": false, "paragraphs": [
+      "Aquest taller pot ser per a tu si:"
+    ], "list": [
+      "Tens curiositat per explorar una relació més profunda amb el teu cos.",
+      "Vols un espai on no hagis de saber prèviament què has de fer o què has de sentir.",
+      "Practiques Mindfulness, meditació, ioga, dansa o treball corporal i vols provar una altra aproximació.",
+      "T'interessen el Treball que Reconnecta, l'Esperança Activa o el Moviment Autèntic."
+    ], "after": [
+      "**No cal saber ballar ni tenir experiència prèvia.** El moviment no té cap finalitat estètica ni hi ha una manera correcta de fer-lo."
+    ]},
+    {"type": "text", "title": "Què et pot aportar", "image": "54-ma-respira.jpg", "lead": false, "blocks": [
+      {"h": "Escolta corporal", "paragraphs": ["Notar sensacions, impulsos, moviment i quietud quan deixes de dirigir el cos des de fora."]},
+      {"h": "Una primera experiència de Moviment Autèntic", "paragraphs": ["Els seus principis bàsics i els rols de qui es mou i de qui testimonia."]},
+      {"h": "Ser testimoniat", "paragraphs": ["Que algú sigui present davant la teva experiència sense corregir-la ni interpretar-la."]},
+      {"h": "Una entrada corporal al Treball que Reconnecta", "paragraphs": ["Com el cos pot participar en preguntes sobre el que estimem i el que ens sosté."]}
+    ]},
+    {"type": "text", "band": "soft", "title": "Com serà la sessió?", "image": "55-ma-cercle.jpg", "reverse": true, "lead": false, "paragraphs": [
+      "Entre **2,5 i 3 hores**, en quatre moments:"
+    ], "blocks": [
+      {"h": "Introducció", "paragraphs": ["El marc del Treball que Reconnecta i alguns principis del Moviment Autèntic."]},
+      {"h": "Preparació corporal", "paragraphs": ["Propostes senzilles de consciència corporal i moviment."]},
+      {"h": "Moviment i testimoni", "paragraphs": ["Moure's des de l'impuls intern, amb la presència d'un testimoni."]},
+      {"h": "Cercle de paraula", "paragraphs": ["Un espai per compartir el que cadascú vulgui de l'experiència."]}
+    ], "buttons": [{"text": "Demanar més informació", "href": "contacte-2"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
+    {"type": "cards", "cols": 2, "items": [
+      {"icon": "calendar-dots", "title": "Detalls pràctics", "list": ["**Data:** diumenge 8 de novembre", "**Horari:** de 18 h a 20.30–21 h", "**Durada:** 2,5–3 h", "**Format:** taller presencial", "**Grup:** places limitades", "**Experiència prèvia:** no és necessària", "**Roba:** còmoda i que permeti moure't lliurement", "**On?** Ronda de Francesc Camprodon, 25, 1r 1a. 08500 Vic", "**Preu:** 35 euros"]},
+      {"icon": "users", "title": "Impartit per", "lead": "Aleix Boronat", "paragraphs": ["Terapeuta Gestalt, professor de Ioga i Mindfulness, facilitador del Treball que Reconnecta i practicant de la Disciplina del Moviment Autèntic amb la Betina Waissman.", "La proposta integra l'experiència en treball corporal, Mindfulness i Gestalt amb el Treball que Reconnecta i la pràctica del Moviment Autèntic.", "**Aquest taller no forma part de la Discipline of Authentic Movement de Janet Adler ni pretén oferir-ne una formació. El Moviment Autèntic constitueix una de les fonts i pràctiques que inspiren la proposta.**"]}
+    ], "buttons": [{"text": "Demanar més informació", "href": "contacte-2"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
+    {"type": "text", "html": true, "title": "Què és el Treball que Reconnecta?", "image": "57-tqr.jpg", "lead": false, "paragraphs": [
+      "El <strong>Treball que Reconnecta</strong>, creat per <a href=\"https://www.joannamacy.net/main\" rel=\"noopener\"><strong>Joanna Macy</strong></a>, és una proposta vivencial per afrontar el malestar davant les crisis personals, socials i ecològiques sense quedar atrapats en la impotència. La seva Espiral passa per tres moviments:"
+    ], "list": [
+      "<strong>Consciència:</strong> reconnectar amb el que estimem i amb el que ens preocupa.",
+      "<strong>Comunitat:</strong> recordar que no estem sols i que formem part de xarxes i de sistemes vius.",
+      "<strong>Acció:</strong> trobar un pas següent possible, concret i coherent amb el que volem cuidar."
+    ]},
+    {"type": "text", "band": "soft", "title": "Esperança Activa", "image": "58-esperanca-activa.jpg", "reverse": true, "lead": false, "paragraphs": [
+      "L'**Esperança Activa** no és confiar que tot anirà bé, sinó reconèixer què és important per a nosaltres i **participar en allò que volem cuidar o transformar**, encara que no en puguem controlar el resultat."
+    ]},
+    {"type": "text", "html": true, "title": "Vols fer un tastet d'Esperança Activa?", "image": "2026/09/Elara-Social.png", "lead": false, "paragraphs": [
+      "Si vols conèixer el Treball que Reconnecta d'una manera senzilla, pots començar per les <a href=\"https://elarasocial.com/7-passes-cap-a-lesperanca-activa/\" rel=\"noopener\"><strong>7 passes cap a l'Esperança Activa</strong></a>: recorreguts <strong>breus, online i gratuïts</strong> sobre el malestar personal, la salut mental comunitària, l'acció climàtica i els reptes socials, creats amb <strong>Elara Social</strong>."
+    ], "buttons": [{"text": "Explora l'Esperança Activa", "href": "https://elarasocial.com/7-passes-cap-a-lesperanca-activa/"}]},
+    {"type": "maps", "band": "stone", "id": "on-som"}
+  ]
 }

@@ -1,18 +1,18 @@
 {
   "seo_title": "Sobre nosaltres",
-  "kicker": "L'Espiral",
+  "kicker": "L'Espiral d'Osona",
   "title": "Sobre nosaltres",
-  "lead": "Psicòlegs, Terapeutes Gestalt i Mentors en Mindfulness",
-  "sub": "A Vic, Osona i On-Line.",
+  "lead": "Psicòlegs, terapeutes Gestalt i mentors de Mindfulness",
+  "sub": "A Vic, Osona i online.",
   "image": "14-sobre-nosaltres.jpg",
   "buttons": [{"text": "Demana hora", "href": "contacte-2"}],
-  "description": "L'equip de L'Espiral d'Osona: psicòlegs, Terapeutes Gestalt i Mentors en Mindfulness adscrits al corrent de la Psicologia Humanista, a Vic, Osona i On-Line.",
+  "description": "L'equip de L'Espiral d'Osona: psicòlegs, terapeutes Gestalt i mentors de Mindfulness que treballen des de la psicologia humanista, a Vic, Osona i online.",
   "sections": [
     {"type": "help", "band": "soft"},
     {"type": "text", "title": "L'Espiral d'Osona", "image": "36-sobre-cercle.jpg", "paragraphs": [
-      "Els psicòlegs, Terapeutes Gestalt i Mentors en Mindfulness que treballem a l'Espiral d'Osona estem adscrits al corrent de la Psicologia Humanista. El nostre objectiu principal és promoure el benestar de les persones, els grups i la societat en general dins de la relació terapèutica.",
-      "Ho fem a través de les actituds, principis i tècniques que són pròpies de la nostra manera de treballar. Amb elles, t'ajudem a ampliar la consciència de les teves dificultats i els teus recursos. Perquè tu mateix puguis arribar a proposar-te les teves pròpies metes i a donar lliure, creativa i responsablement resposta als teus conflictes amb tu mateix i amb l'entorn.",
-      "Els nostres psicòlegs, Terapeutes Gestalt i Mentors en Mindfulness t'atendran en el nostre centre de psicoteràpia de Vic, Osona, així com allà on siguis On-Line."
+      "Som psicòlegs, terapeutes Gestalt i mentors de Mindfulness i treballem des de la psicologia humanista. Volem contribuir al benestar de les persones, dels grups i de la comunitat, a la teràpia i als grups de Mindfulness i Gestalt.",
+      "T'ajudem a veure amb més claredat les teves dificultats i els teus recursos, perquè puguis triar els teus objectius i respondre als conflictes amb llibertat, creativitat i responsabilitat.",
+      "Treballem al centre de Vic i també online."
     ]},
     {"type": "team", "band": "soft", "id": "equip", "title": "El nostre equip", "items": [
       {"id": "aleix-boronat", "photo": "equip-aleix-boronat.jpg", "name": "Aleix Boronat", "paragraphs": ["Director de L'Espiral. Terapeuta Gestalt, Instructor i Mentor en Mindfulness i Membre adherent de l'AETG. Formació en Psicoteràpia Integrativa (programa SAT). Format en tècniques psicocorporals (Moviment Autèntic, Shiatsu i Moviment, Ioga, Bioenergètica)."]},
@@ -21,17 +21,19 @@
       {"id": "montse-molina-villanueva", "photo": "equip-montse-molina.jpg", "name": "Montse Molina Villanueva", "paragraphs": ["Psicopedagoga. Màster en Psicologia Infanto-juvenil. Formada en Teràpia Gestalt aplicada a la Infància i Adolescència i en Teràpia Sistèmica Relacional. Terapeuta Gestalt i Terapeuta Corporal Integrativa. Especialista en Addiccions: Màster en Conductes Addictives. Formada en Psicoteràpia Integrativa: Programa SAT. Formadora a l'àmbit de l'educació humanista."]},
       {"id": "john-tula-vidal", "photo": "equip-john-tula-vidal.jpg", "name": "John Tula Vidal", "paragraphs": ["Psicòleg i Terapeuta Gestalt. Format en Teràpia Sistèmica i Psicoteràpia Integrativa. Practicant de diverses disciplines corporals (moviment autèntic, moviment correctiu, meditació) i participant i col·laborador puntual a Refent-nos homes, grup d'homes de treball sobre la masculinitat. Especialitzat en acompanyament a adolescents, adults i famílies."]},
       {"id": "anna-vinas", "photo": "equip-anna-vinas.jpg", "name": "Anna Viñas", "paragraphs": ["Terapeuta Gestalt. Membre adherent de l'AETG. Formació en Psicoteràpia Integrativa (programa SAT). Formada en psicologia i psicopatologia del postpart. Formada en Ioga i Meditació per a l'Embaràs i el Postpart amb Happy Yoga. Formada a Educació Viva. Llicenciada en Humanitats i Periodisme."]},
-      {"id": "sol-gomez", "photo": "2024/07/Sol-Gomez.jpg", "name": "Sol Gómez", "paragraphs": ["Psicòloga (llicenciada a l'Argentina) i terapeuta Gestalt (AETG). Formada a Teràpia Gestalt aplicada a la infància i adolescència (Oaklander Institute), Teatre i Gestalt (Institut Integratiu) i CFT (teràpia centrada en la compassió). Certificada en disciplina positiva. Actualment formant-me a Somatic experiencing (tractament del trauma a través del cos)."]},
-      {"id": "cecilia-cristaldi", "photo": "equip-cecilia-cristaldi.jpg", "name": "Cecilia Cristaldi", "paragraphs": ["Psicòloga formada en teràpia sistèmica, Gestalt i Coaching. El meu enfocament actual combina la psicologia i el coaching, tant en abordatges individuals com en grup. Acompanyo els meus pacients perquè puguin reconèixer el seu potencial i anar cap a la recerca dels objectius."]},
-      {"id": "nuria-marti", "photo": "equip-nuria-marti.jpg", "name": "Núria Martí", "paragraphs": ["Psicòloga col·legiada 23418. Especialista en adolescents, adults i perinatal. Acompanyament en embaràs, part, postpart i criança respectuosa. Màster Oficial en Psicopedagogia. Educadora de Porteig i Assessora de lactància materna. Formació en Teràpia Corporal Integrativa i Dansa Moviment Teràpia. Practitioner en Programació Neurolingüística. Ballarina titulada."]}
+      {"id": "anna-ortiz-termes", "photo": "equip-anna-ortiz.jpg", "name": "Anna Ortiz Termes", "paragraphs": ["Psicòloga i terapeuta Gestalt. Fa tallers d'habilitats personals i de gestió emocional, i acompanya adolescents i famílies en l'addicció a les pantalles. Practitioner en PNL i formada en coaching per a terapeutes Gestalt. Professora de Kundalini ioga."]},
+      {"id": "cecilia-cristaldi", "photo": "equip-cecilia-cristaldi.jpg", "name": "Cecilia Cristaldi", "paragraphs": ["Psicòloga formada en teràpia sistèmica, Gestalt i Coaching. El seu enfocament combina la psicologia i el coaching, tant en l'atenció individual com en grup. Acompanya les persones perquè puguin reconèixer el seu potencial i avançar cap als seus objectius."]},
+      {"id": "nuria-marti", "photo": "equip-nuria-marti.jpg", "name": "Núria Martí", "paragraphs": ["Psicòloga col·legiada 23418. Especialista en adolescents, adults i perinatal. Acompanyament en embaràs, part, postpart i criança respectuosa. Màster Oficial en Psicopedagogia. Educadora de Porteig i Assessora de lactància materna. Formació en Teràpia Corporal Integrativa i Dansa Moviment Teràpia. Practitioner en Programació Neurolingüística. Ballarina titulada."]},
+      {"id": "mireia-rodriguez-monge", "photo": "equip-mireia.jpg", "name": "Mireia Rodríguez Monge", "paragraphs": ["Psicòloga forense i jurídica (col·legiada 30977 del COPC). Graduada en Psicologia per la Universitat Abat Oliba i màster en Psicologia Forense i Jurídica per l'ISEP. Tècnica superior en Anatomia Patològica i Citodiagnòstic."]},
+      {"id": "carol-sanchez", "photo": "equip-carol.jpg", "name": "Carol Sanchez", "paragraphs": ["Terapeuta Gestalt i membre adherent de l'AETG. Coach de vida certificada (CEFOC) i practitioner en PNL. Formada en teràpia corporal correctiva i en psicoteràpia integrativa del trauma (mètode ALECEIA). Acompanya processos de dol i pèrdua, organitza cercles de dones i fa formació en habilitats psicosocials a petites i mitjanes empreses. Col·labora en un màster sobre el final de la vida, fa voluntariat en cures pal·liatives i practica la meditació i el Mindfulness."]}
     ]},
-    {"type": "text", "kicker": "Psicòlogues, Terapeutes Gestalt i Mentors en Mindfulness a Vic, Osona i On-Line", "title": "La nostra manera de fer teràpia", "image": "37-sobre-espiral.jpg", "reverse": true, "paragraphs": [
-      "La nostra forma de fer la teràpia és part de les psicoteràpies humanistes i existencials que van néixer com una alternativa a la psicoanàlisi per una banda i els corrents conductuals de l'altra. Aquest moviment humanista-existencial ha estat considerat com la «Tercera força de la psicologia». En aquesta tendència, la nostra mirada és la de la Teràpia Gestalt.",
-      "Entenem la teràpia com una trobada existencial entre dues persones, on com a terapeutes posem la nostra experiència i estem presents al vostre servei. El nostre paper és acompanyar-te en el procés de descobrir les maneres més òptimes de viure la teva vida."
+    {"type": "text", "title": "La nostra manera de fer teràpia", "image": "37-sobre-espiral.jpg", "reverse": true, "paragraphs": [
+      "Treballem des de les psicoteràpies humanistes i existencials, que van néixer com una alternativa a la psicoanàlisi i als corrents conductuals (l'anomenada «tercera força» de la psicologia). La nostra mirada és la de la Teràpia Gestalt.",
+      "Entenem la teràpia com una trobada entre dues persones, en què el terapeuta hi posa la seva experiència i la seva presència. El nostre paper és acompanyar-te perquè trobis la teva manera de viure."
     ], "list": [
-      "Perquè puguis viure aquí i ara: viure i sentir el present i la realitat, actuant d'acord amb ella, en lloc de guiar-te per pensaments, pors o suposicions.",
-      "Per fer-te conscient: per adonar-te del que estàs vivint; has de ser conscient de com et sents, què estàs fent, allò que necessites; per canviar (si vols) allò que tries, allò que fas.",
-      "I també que pots acceptar allò que ets: ser responsable dels teus propis actes, perquè puguis decidir sobre la teva pròpia vida."
+      "**Viure l'aquí i ara:** sentir el present i actuar d'acord amb el que passa, no amb pensaments, pors o suposicions.",
+      "**Adonar-te'n:** de com et sents, què fas i què necessites, per poder canviar, si vols, el que tries i el que fas.",
+      "**Acceptar el que ets:** fer-te responsable dels teus actes per poder decidir sobre la teva vida."
     ]},
     {"type": "maps", "band": "stone", "id": "on-som"}
   ]

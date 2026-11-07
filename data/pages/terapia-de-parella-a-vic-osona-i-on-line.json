@@ -1,48 +1,43 @@
 {
-  "seo_title": "Teràpia de parella a Vic, Osona i On-Line",
-  "kicker": "Psicòlegs i Terapeutes per a teràpia de parella",
+  "seo_title": "Teràpia de parella a Vic, Osona i online",
+  "kicker": "Per a parelles",
   "title": "Teràpia de parella",
-  "lead": "A Vic, Osona i On-Line.",
-  "sub": "Psicòlegs, Terapeutes Gestalt i Mentors en Mindfulness",
+  "lead": "A Vic, Osona i online.",
   "image": "03-parella.jpg",
   "buttons": [{"text": "Demana hora", "href": "contacte-2"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}],
-  "description": "Teràpia de parella a Vic, Osona i On-Line: un espai segur i íntim on les parelles poden explorar els seus patrons de relació i trobar maneres més saludables de gestionar les seves vides.",
+  "description": "Teràpia de parella a Vic, Osona i online: un espai segur per mirar com us relacioneu i trobar maneres més sanes de comunicar-vos i de resoldre els conflictes.",
   "sections": [
     {"type": "help", "band": "soft", "title": "Si necessiteu ajuda, estem al vostre costat."},
-    {"type": "text", "title": "Teràpia de parella a Vic i online", "image": "30-parella-mans.jpg", "paragraphs": [
-      "La teràpia de parella és un espai segur i íntim on les parelles poden explorar els seus patrons de relació i trobar maneres més saludables de gestionar les seves vides.",
-      "Un dels objectius de la teràpia de parella és aconseguir que la parella sigui conscient del que fan per a identificar i canviar els patrons (o pautes neuròtiques) en els quals ha caigut la relació."
+    {"type": "text", "title": "Què és la teràpia de parella", "image": "30-parella-mans.jpg", "paragraphs": [
+      "És un espai segur on podeu mirar junts com us relacioneu i buscar maneres més sanes de viure la relació.",
+      "Us ajuda a adonar-vos de què feu i de quins patrons repetiu, per poder-los canviar."
     ]},
-    {"type": "text", "band": "soft", "kicker": "Teràpia de parella a Vic i online", "title": "Com funciona la teràpia de parella?", "image": "31-parella-cami.jpg", "reverse": true, "paragraphs": [
-      "En les sessions destacarem que la parella aprengui noves maneres de relacionar-se, comunicar-se, expressar-se i resoldre conflictes. L'objectiu final és trobar les formes adequades i crear les eines necessàries per a viure una relació més saludable."
+    {"type": "text", "band": "soft", "title": "Com funciona", "image": "31-parella-cami.jpg", "reverse": true, "paragraphs": [
+      "A les sessions treballem perquè pugueu trobar noves maneres de comunicar-vos, d'expressar el que sentiu i de resoldre els conflictes.",
+      "L'objectiu és que trobeu, junts, una manera de viure la relació que us faci bé a tots dos."
     ]},
-    {"type": "text", "kicker": "Psicòlegs i Terapeutes de Parella a Vic, Osona i On-Line", "title": "Quan és aconsellable fer teràpia en parella?", "image": "32-parella-distancia.jpg", "paragraphs": [
-      "Quan s'experimenten una o més de les situacions comunes que dificulten la relació de les parelles:"
+    {"type": "text", "title": "Quan us pot ajudar", "image": "32-parella-distancia.jpg", "lead": false, "paragraphs": [
+      "Quan us trobeu en situacions com aquestes:"
     ], "list": [
-      "Dificultats en la comunicació",
-      "Adquisició d'hàbits que interfereixen amb la relació",
-      "Lluites pel poder i el control, i la tendència a avançar cada membre de la parella en una direcció diferent en lloc de fer-ho conjuntament",
-      "Gelosia",
-      "Infidelitats",
-      "Dificultats en l'expressió de l'afectivitat i la intimitat",
-      "Relacions inapropiades amb les respectives famílies d'origen que no permeten la convivència de la parella",
-      "Dificultat per a respectar i acceptar que el fill o filla s'ha unit a una altra persona formant la seva pròpia família",
-      "Problemes sexuals",
-      "Falta de compromís i inclinació en la relació",
-      "Diferents tipus de violència",
-      "Separacions recurrents",
-      "Separació definitiva"
+      "dificultats per comunicar-vos",
+      "discussions que es repeteixen, lluites de poder o la sensació d'anar cadascú per un costat",
+      "gelosia o infidelitats",
+      "dificultats amb l'afecte, la intimitat o la sexualitat",
+      "conflictes amb les famílies d'origen",
+      "falta de compromís amb la relació",
+      "separacions que es repeteixen, o quan us plantegeu separar-vos"
+    ], "after": [
+      "Si a la relació hi ha violència, en parlarem primer amb cadascú per separat: el primer és la seguretat de cada persona."
     ]},
-    {"type": "text", "band": "soft", "kicker": "Psicòlegs i Terapeutes de Parella a Vic i online", "title": "Beneficis de la teràpia de parella", "image": "31-parella-cami.jpg", "reverse": true, "list": [
-      "Generar un canvi positiu en la relació de parella",
-      "Descobrir les intervencions adequades perquè la parella s'adoni de com està funcionant",
-      "Descobrir quines opcions té la parella per a resoldre conflictes i experimentar experiències noves i saludables en les seves maneres de relacionar-se",
-      "La teràpia de parella permetrà que cada component de la parella es vegi a si mateix com realment és, i també veure com és la persona que està al seu costat, coneixent-lo d'una manera més real i completa",
-      "Establir un tipus de contacte entre els membres de la parella que sigui més saludable per a tots dos"
+    {"type": "text", "band": "soft", "title": "Què us pot aportar", "image": "31-parella-cami.jpg", "reverse": true, "list": [
+      "Veure com funciona la vostra relació i què hi fa cadascú.",
+      "Trobar maneres noves de resoldre els conflictes.",
+      "Que cadascú es vegi tal com és, i vegi l'altre d'una manera més real i completa.",
+      "Una manera de relacionar-vos més sana per a tots dos."
     ]},
     {"type": "cards", "cols": 2, "items": [
-      {"icon": "users", "title": "A qui va dirigit?", "text": "A les parelles que sentin que un suport professional pot portar canvis positius en les seves vides. La teràpia de parella us ajudarà a sortir d'aquesta situació i a veure la vida en parella d'una altra manera més sana."},
-      {"icon": "clock", "title": "Preus, durada i horaris", "text": "La durada, freqüència, horaris i preu de les sessions de teràpia de parella s'acorden amb el terapeuta al començament de la teràpia. Posa't en contacte amb nosaltres per a saber quins terapeutes poden acompanyar-te i les seves condicions de treball."}
+      {"icon": "users", "title": "A qui va dirigit?", "text": "A les parelles que senten que un acompanyament professional les pot ajudar a viure la relació d'una altra manera."},
+      {"icon": "clock", "title": "Preus, durada i horaris", "text": "La freqüència, l'horari i el preu de les sessions s'acorden amb el terapeuta al començament. Escriu-nos i et direm quins terapeutes us poden acompanyar i en quines condicions."}
     ], "buttons": [{"text": "Demana hora", "href": "contacte-2"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
     {"type": "maps", "band": "stone", "id": "on-som"}
   ]

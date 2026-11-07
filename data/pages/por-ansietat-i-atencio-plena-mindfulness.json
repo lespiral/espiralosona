@@ -1,134 +1,43 @@
 {
- "seo_title": "Por, ansietat i Atenció Plena – Mindfulness",
- "kicker": "Taller d'aprofundiment de la consciència, a Vic i online",
- "title": "Por, ansietat i Mindfulness",
- "lead": "A Vic, un taller per a aprendre a transformar la por i l'ansietat amb Mindfulness.",
- "image": "11-curs-por.jpg",
- "buttons": [
-  {
-   "text": "Inscripció gratuïta",
-   "href": "https://espiral-elara-social.thinkific.com/products/courses/por-ansietat-i-atencio-plena-a-vic-osona"
-  },
-  {
-   "text": "Sobre nosaltres",
-   "href": "sobre-nosaltres"
-  }
- ],
- "description": "Curs gratuït i en línia per trobar recursos interns de seguretat i connexió i transformar la por i l'ansietat amb Mindfulness. 22 sessions, en català.",
- "sections": [
-  {
-   "type": "help",
-   "band": "soft"
-  },
-  {
-   "type": "text",
-   "kicker": "Por, ansietat i Mindfulness",
-   "title": "De què tenim por? Què ens angoixa?",
-   "image": "45-curs-por-tema.jpg",
-   "lead": false,
-   "paragraphs": [
-    "Si posem suficient atenció, tots i totes podríem observar un corrent de por que recorre la nostra vida diària.",
-    "Ens podem preocupar per perdre el treball, la salut o el que més estimem.",
-    "En aquest tràngol de por, la nostra ment pot endinsar-se en històries sense fi sobre les coses horribles que poden ocórrer, i passar hores i hores buscant i rebuscant com evitar-les.",
-    "Sovint intentem aconseguir aquest control, assenyalant amb un dit acusador els altres o a nosaltres mateixos, o mateixes.",
-    "Això ens priva de viure plenament, i de relacionar-nos amb els altres amb espontaneïtat i compassió."
-   ]
-  },
-  {
-   "type": "text",
-   "band": "soft",
-   "title": "En què consisteix aquest curs?",
-   "image": "47-curs-online-practica.jpg",
-   "reverse": true,
-   "paragraphs": [
-    "Aquest curs ajuda a trobar recursos interns de seguretat i connexió, per a mantenir-nos presents quan sorgeix la por.",
-    "Per a poder afrontar la situació amb valentia, saviesa, interès i cura. Aprendrem a respondre, en lloc de reaccionar.",
-    "Conrearem la presa de consciència i fomentarem l'autocompassió. No sols per a afrontar la por, sinó per a transformar tota la nostra experiència.",
-    "Amb la pràctica del Mindfulness, ens despertem del tràngol de la por i podem arribar a la pau."
-   ]
-  },
-  {
-   "type": "text",
-   "title": "Com funciona?",
-   "image": "48-curs-online-sessions.jpg",
-   "lead": false,
-   "paragraphs": [
-    "En inscriure't, tindràs accés a **22 sessions** teoricopràctiques per a aprendre a abordar la por i l'ansietat amb Mindfulness que podràs consultar directament a la nostra àrea privada per a alumnes, a la nostra web.",
-    "A més, també tindràs accés a un **curs complet d'Introducció al Mindfulness**, que consta de 22 sessions teòriques i pràctiques, acompanyades dels fulls de treball que t'ajudaran, si no la tens ja, a establir una pràctica bàsica de Mindfulness en el teu dia a dia."
-   ]
-  },
-  {
-   "type": "text",
-   "band": "soft",
-   "title": "Beneficis del curs",
-   "image": "49-curs-online-beneficis.jpg",
-   "reverse": true,
-   "list": [
-    "Claredat mental i emocional.",
-    "Reducció dels nivells d'ansietat, angoixa i malestar.",
-    "Descobrir com opera la por en nosaltres i tenir l'oportunitat per a nodrir-nos i sentir-nos més segurs i tranquils.",
-    "Major consciència dels patrons que generen angoixa i ansietat i com gestionar-ho.",
-    "Major capacitat d'autoexploració i valoració dels propis recursos."
-   ],
-   "buttons": [
-    {
-     "text": "Inscripció gratuïta",
-     "href": "https://espiral-elara-social.thinkific.com/products/courses/por-ansietat-i-atencio-plena-a-vic-osona"
-    },
-    {
-     "text": "Sobre nosaltres",
-     "href": "sobre-nosaltres"
-    }
-   ]
-  },
-  {
-   "type": "cards",
-   "cols": 2,
-   "items": [
-    {
-     "icon": "calendar-dots",
-     "title": "Quan comença el curs?",
-     "paragraphs": [
-      "Quan tu vulguis.",
-      "Només cal que et donis d'alta amb el teu email i telèfon per a tenir accés al material audiovisual."
-     ]
-    },
-    {
-     "icon": "users",
-     "title": "Impartit per",
-     "lead": "Aleix Boronat",
-     "text": "Director i cofundador de L'Espiral. Terapeuta Gestalt, Mentor en Mindfulness i Membre adherent de l'AETG. Formació en Psicoteràpia Integrativa (programa SAT). Format en tècniques psicocorporals (Shiatsu i Moviment, Seitai, Ioga, Bioenergètica)."
-    }
-   ]
-  },
-  {
-   "type": "text",
-   "band": "soft",
-   "id": "contes",
-   "title": "Descarrega't gratuïtament els 17 contes inspirats en aquest curs",
-   "image": "2024/08/Hara-i-la-por-17-contes-per-acompanyar-la-por-i-lansietat-amb-Mindfulness-1-e1725014812183.png",
-   "lead": false,
-   "paragraphs": [
-    "Llegint aquests contes acompanyaràs la Hara en el seu viatge de transformació amb la por i l'ansietat.",
-    "Un viatge on, mitjançant els ensenyaments de l'Atenció Plena, desenvoluparà recursos interns de seguretat, força i connexió.",
-    "Veuràs com aprendrà a mantenir-se present quan sorgeix la por i l'angoixa. I veuràs com pot afrontar la situació amb valentia, saviesa, interès i cura.",
-    "Aquests contes estan inspirats en el material pregravat del curs de «Por, ansietat i Atenció Plena» que pots fer amb nosaltres."
-   ],
-   "buttons": [
-    {
-     "text": "Descarrega els contes (PDF)",
-     "href": "https://gestaltmindfulness.lespiral.cat/wp-content/uploads/2024/08/Hara-i-la-por-17-contes-per-acompanyar-la-por-i-lansietat-amb-Mindfulness-www.atencioplena.cat_.pdf"
-    },
-    {
-     "text": "Inscripció gratuïta",
-     "href": "https://espiral-elara-social.thinkific.com/products/courses/por-ansietat-i-atencio-plena-a-vic-osona"
-    }
-   ]
-  },
-  {
-   "type": "maps",
-   "band": "stone",
-   "id": "on-som"
-  }
- ]
+  "seo_title": "Por, ansietat i Atenció Plena – Mindfulness",
+  "kicker": "Curs gratuït online",
+  "title": "Por, ansietat i Mindfulness",
+  "lead": "Per trobar recursos interns de seguretat i connexió quan apareixen la por i l'ansietat.",
+  "image": "11-curs-por.jpg",
+  "buttons": [{"text": "Inscripció gratuïta", "href": "https://espiral-elara-social.thinkific.com/products/courses/por-ansietat-i-atencio-plena-a-vic-osona"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}],
+  "description": "Curs gratuït online per trobar recursos interns de seguretat i connexió davant la por i l'ansietat amb Mindfulness. 22 sessions, en català.",
+  "sections": [
+    {"type": "help", "band": "soft"},
+    {"type": "text", "title": "De què tenim por?", "image": "45-curs-por-tema.jpg", "lead": false, "paragraphs": [
+      "Si hi parem atenció, podem notar un corrent de por que travessa el dia a dia: por de perdre la feina, la salut o el que més estimem.",
+      "La ment s'endinsa en històries sense fi sobre el que pot passar i busca com evitar-ho. Sovint intentem controlar-ho assenyalant els altres o a nosaltres mateixos.",
+      "Tot això ens impedeix viure plenament i relacionar-nos amb espontaneïtat i compassió."
+    ]},
+    {"type": "text", "band": "soft", "title": "En què consisteix aquest curs?", "image": "47-curs-online-practica.jpg", "reverse": true, "paragraphs": [
+      "El curs t'ajuda a trobar recursos interns de seguretat i connexió per mantenir-te present quan apareix la por, i afrontar la situació amb valentia, saviesa, interès i cura.",
+      "Cultivarem la consciència i l'autocompassió. La pràctica ens pot ajudar a sortir del tràngol de la por i a trobar més calma."
+    ]},
+    {"type": "text", "title": "Com funciona?", "image": "48-curs-online-sessions.jpg", "lead": false, "paragraphs": [
+      "En inscriure't, tens accés a **22 sessions** teòriques i pràctiques a l'àrea d'alumnes, per fer-les al teu ritme.",
+      "També tens accés al **Curs introductori d'Atenció Plena** (22 sessions, amb fulls de treball), per establir una pràctica bàsica si encara no la tens."
+    ]},
+    {"type": "text", "band": "soft", "title": "Què et pot aportar", "image": "49-curs-online-beneficis.jpg", "reverse": true, "list": [
+      "Més claredat mental i emocional.",
+      "Menys ansietat, angoixa i malestar.",
+      "Entendre com actua la por en tu i aprendre a cuidar-te per sentir-te més segur/a.",
+      "Adonar-te dels patrons que generen angoixa i aprendre a acompanyar-los.",
+      "Més capacitat d'explorar-te i de valorar els teus recursos."
+    ], "after": [
+      "Si l'ansietat és molt intensa o passes per un moment de crisi, et recomanem parlar-ne abans amb un professional. Si vols, escriu-nos i t'orientarem."
+    ], "buttons": [{"text": "Inscripció gratuïta", "href": "https://espiral-elara-social.thinkific.com/products/courses/por-ansietat-i-atencio-plena-a-vic-osona"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
+    {"type": "cards", "cols": 2, "items": [
+      {"icon": "calendar-dots", "title": "Quan comença el curs?", "paragraphs": ["Quan tu vulguis.", "Només cal que et donis d'alta amb el correu i el telèfon."], "list": ["22 sessions, online i al teu ritme."], "text": "**Idioma:** català"},
+      {"icon": "users", "title": "Impartit per", "lead": "Aleix Boronat", "text": "Director i cofundador de L'Espiral. Terapeuta Gestalt (membre adherent de l'AETG) i mentor de Mindfulness."}
+    ]},
+    {"type": "text", "band": "soft", "id": "contes", "title": "17 contes gratuïts inspirats en aquest curs", "image": "2024/08/Hara-i-la-por-17-contes-per-acompanyar-la-por-i-lansietat-amb-Mindfulness-1-e1725014812183.png", "lead": false, "paragraphs": [
+      "Acompanya la Hara en el seu viatge amb la por i l'ansietat: com aprèn, amb l'Atenció Plena, a mantenir-se present quan apareix la por i a trobar recursos de seguretat, força i connexió.",
+      "Els contes s'inspiren en el material gravat del curs."
+    ], "buttons": [{"text": "Descarrega els contes (PDF)", "href": "https://gestaltmindfulness.lespiral.cat/wp-content/uploads/2024/08/Hara-i-la-por-17-contes-per-acompanyar-la-por-i-lansietat-amb-Mindfulness-www.atencioplena.cat_.pdf"}, {"text": "Inscripció gratuïta", "href": "https://espiral-elara-social.thinkific.com/products/courses/por-ansietat-i-atencio-plena-a-vic-osona"}]},
+    {"type": "maps", "band": "stone", "id": "on-som"}
+  ]
 }

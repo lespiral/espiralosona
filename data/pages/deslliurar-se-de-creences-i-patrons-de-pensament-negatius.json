@@ -1,119 +1,36 @@
 {
- "seo_title": "Deslliurar-se de creences i patrons de pensament negatius",
- "kicker": "Taller d'aprofundiment de la consciència a Vic",
- "title": "Deslliurar-se de creences i patrons de pensament negatius",
- "lead": "A Vic, Mindfulness per assaborir la llibertat que és possible quan deixes anar creences i pensaments.",
- "image": "12-curs-creences.jpg",
- "buttons": [
-  {
-   "text": "Inscripció gratuïta",
-   "href": "https://espiral-elara-social.thinkific.com/products/courses/deslliurar-se-de-creences-i-patrons-de-pensament-negatius-amb-atencio-plena-a-vic-osona"
-  },
-  {
-   "text": "Sobre nosaltres",
-   "href": "sobre-nosaltres"
-  }
- ],
- "description": "Curs gratuït i en línia d'Atenció Plena per observar i deixar anar les creences limitants i els patrons de pensament negatius que et fan patir. 24 sessions, en català.",
- "sections": [
-  {
-   "type": "help",
-   "band": "soft"
-  },
-  {
-   "type": "text",
-   "kicker": "Deslliurar-se de creences i patrons de pensament negatius",
-   "title": "Per què patim?",
-   "image": "44-curs-creences-tema.jpg",
-   "paragraphs": [
-    "En essència, si patim, si **ens quedem atrapats en el dolor** sense trobar o encaminar-nos cap a una resolució, és perquè **creiem quelcom que és limitant** i, segurament, fals.",
-    "La gran majoria dels éssers humans **ens aferrem a un conjunt de creences** fonamentals que ens encadenen al patiment amb por i sentiments de deficiència.",
-    "Aquestes creences condueixen a **hàbits nocius** –comportaments nocius, conflictes, evitació de situacions– que interfereixen en la nostra productivitat, en la nostra **capacitat per gaudir de la intimitat amb els altres i de poder portar una vida creativa i feliç.**"
-   ]
-  },
-  {
-   "type": "text",
-   "band": "soft",
-   "title": "En què consisteix aquest curs?",
-   "image": "47-curs-online-practica.jpg",
-   "reverse": true,
-   "paragraphs": [
-    "Aquest curs mostra com pots observar i **adonar-te de quines són aquestes creences limitants** i permet assaborir la llibertat que és possible quan deixes anar aquestes creences.",
-    "Les teves creences et desconnecten del teu propi ésser i del món. El patiment que sents és una crida d'atenció. Una crida a investigar.",
-    "Investigarem els moments en què ens sentim en perill, separats, avergonyits o atrapats.",
-    "Mitjançant l'Atenció Plena, **veurem com ens podem alliberar d'aquestes creences i patrons** de pensament negatiu."
-   ]
-  },
-  {
-   "type": "text",
-   "title": "Com funciona?",
-   "image": "48-curs-online-sessions.jpg",
-   "paragraphs": [
-    "En inscriure't, tindràs accés a **24 sessions** teoricopràctiques per a aprendre a **deslliurar-te de creences i patrons de pensament negatius amb Mindfulness** que podràs consultar directament a la nostra àrea privada per a alumnes, a la nostra web."
-   ]
-  },
-  {
-   "type": "text",
-   "band": "soft",
-   "title": "Beneficis del curs",
-   "image": "49-curs-online-beneficis.jpg",
-   "reverse": true,
-   "list": [
-    "**Claredat** mental i emocional.",
-    "**Reducció** dels nivells d'estrès i malestar.",
-    "Descobrir les creences negatives i disposar de l'oportunitat per **qüestionar-les i deixar-les anar**.",
-    "Major consciència dels patrons negatius que generen les nostres creences i **oportunitats per trobar alternatives** a aquests.",
-    "Major capacitat d'autoexploració i **valoració dels propis recursos**."
-   ],
-   "buttons": [
-    {
-     "text": "Inscripció gratuïta",
-     "href": "https://espiral-elara-social.thinkific.com/products/courses/deslliurar-se-de-creences-i-patrons-de-pensament-negatius-amb-atencio-plena-a-vic-osona"
-    },
-    {
-     "text": "Sobre nosaltres",
-     "href": "sobre-nosaltres"
-    }
-   ]
-  },
-  {
-   "type": "cards",
-   "cols": 2,
-   "items": [
-    {
-     "icon": "calendar-dots",
-     "title": "Quan comença el curs?",
-     "paragraphs": [
-      "Quan tu vulguis.",
-      "Només has de donar-te d'alta amb el teu mail i número de telèfon per a tenir accés al material audiovisual del curs."
-     ],
-     "list": [
-      "24 sessions del **curs On-Line Deslliurar-se de creences i patrons de pensament negatius**."
-     ],
-     "text": "**Idioma del curs**: català"
-    },
-    {
-     "icon": "users",
-     "title": "Impartit per",
-     "lead": "Aleix Boronat",
-     "text": "Director i cofundador de L'Espiral. Terapeuta Gestalt, Mentor en Mindfulness i Membre adherent de l'AETG. Formació en Psicoteràpia Integrativa (programa SAT). Format en tècniques psicocorporals (Shiatsu i Moviment, Seitai, Ioga, Bioenergètica)."
-    }
-   ],
-   "buttons": [
-    {
-     "text": "Inscripció gratuïta",
-     "href": "https://espiral-elara-social.thinkific.com/products/courses/deslliurar-se-de-creences-i-patrons-de-pensament-negatius-amb-atencio-plena-a-vic-osona"
-    },
-    {
-     "text": "Sobre nosaltres",
-     "href": "sobre-nosaltres"
-    }
-   ]
-  },
-  {
-   "type": "maps",
-   "band": "stone",
-   "id": "on-som"
-  }
- ]
+  "seo_title": "Deslliurar-se de creences i patrons de pensament negatius",
+  "kicker": "Curs gratuït online",
+  "title": "Deslliurar-se de creences i patrons de pensament negatius",
+  "lead": "Per adonar-te de les creences que et fan patir i començar a deixar-les anar.",
+  "image": "12-curs-creences.jpg",
+  "buttons": [{"text": "Inscripció gratuïta", "href": "https://espiral-elara-social.thinkific.com/products/courses/deslliurar-se-de-creences-i-patrons-de-pensament-negatius-amb-atencio-plena-a-vic-osona"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}],
+  "description": "Curs gratuït online d'Atenció Plena per observar i deixar anar les creences limitants i els patrons de pensament negatius que et fan patir. 24 sessions, en català.",
+  "sections": [
+    {"type": "help", "band": "soft"},
+    {"type": "text", "title": "Per què patim?", "image": "44-curs-creences-tema.jpg", "paragraphs": [
+      "Sovint, quan ens quedem atrapats en el dolor, és perquè **creiem alguna cosa que ens limita**.",
+      "Moltes persones ens aferrem a creences de fons que ens lliguen a la por i a la sensació de no ser prou.",
+      "Aquestes creences porten a hàbits que ens fan mal (conflictes, evitar situacions) i ens costa més gaudir de la intimitat amb els altres i d'una vida creativa."
+    ]},
+    {"type": "text", "band": "soft", "title": "En què consisteix aquest curs?", "image": "47-curs-online-practica.jpg", "reverse": true, "paragraphs": [
+      "El curs t'ajuda a **adonar-te de quines són aquestes creences** i a experimentar la llibertat que apareix quan les deixes anar.",
+      "El patiment és una crida a parar atenció. Investigarem els moments en què ens sentim en perill, separats, avergonyits o atrapats, i veurem com l'Atenció Plena ens ajuda a alliberar-nos d'aquests patrons."
+    ]},
+    {"type": "text", "title": "Com funciona?", "image": "48-curs-online-sessions.jpg", "paragraphs": [
+      "En inscriure't, tens accés a **24 sessions** teòriques i pràctiques a l'àrea d'alumnes, per fer-les al teu ritme."
+    ]},
+    {"type": "text", "band": "soft", "title": "Què et pot aportar", "image": "49-curs-online-beneficis.jpg", "reverse": true, "list": [
+      "**Més claredat** mental i emocional.",
+      "**Menys estrès** i malestar.",
+      "Descobrir les creences negatives i poder **qüestionar-les i deixar-les anar**.",
+      "Adonar-te dels patrons que generen i **trobar-hi alternatives**.",
+      "Més capacitat d'explorar-te i de **valorar els teus recursos**."
+    ], "buttons": [{"text": "Inscripció gratuïta", "href": "https://espiral-elara-social.thinkific.com/products/courses/deslliurar-se-de-creences-i-patrons-de-pensament-negatius-amb-atencio-plena-a-vic-osona"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
+    {"type": "cards", "cols": 2, "items": [
+      {"icon": "calendar-dots", "title": "Quan comença el curs?", "paragraphs": ["Quan tu vulguis.", "Només cal que et donis d'alta amb el correu i el telèfon."], "list": ["24 sessions, online i al teu ritme."], "text": "**Idioma:** català"},
+      {"icon": "users", "title": "Impartit per", "lead": "Aleix Boronat", "text": "Director i cofundador de L'Espiral. Terapeuta Gestalt (membre adherent de l'AETG) i mentor de Mindfulness."}
+    ], "buttons": [{"text": "Inscripció gratuïta", "href": "https://espiral-elara-social.thinkific.com/products/courses/deslliurar-se-de-creences-i-patrons-de-pensament-negatius-amb-atencio-plena-a-vic-osona"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
+    {"type": "maps", "band": "stone", "id": "on-som"}
+  ]
 }

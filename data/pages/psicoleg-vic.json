@@ -2,7 +2,7 @@
  "seo_title": "Psicòleg Vic",
  "title": "Psicoteràpia per a adults a Vic",
  "lead": "Un espai professional, proper i confidencial per comprendre què t'està passant, afrontar les dificultats que estàs vivint i trobar noves maneres de relacionar-te amb tu mateix/a i amb el teu entorn.",
- "sub": "Atenció presencial a Vic i també online.",
+ "sub": "A Vic i online.",
  "image": "18-psicoleg-vic.jpg",
  "buttons": [
   {
@@ -76,7 +76,7 @@
    "items": [
     {
      "title": "Contacta amb nosaltres",
-     "text": "Ens pots escriure per WhatsApp, trucar-nos o deixar-nos les teves dades."
+     "text": "Ens pots escriure per WhatsApp o trucar-nos."
     },
     {
      "title": "Parlem breument del que necessites",
@@ -100,12 +100,12 @@
     {
      "icon": "users",
      "title": "A qui va dirigit?",
-     "text": "A tots els adults que senten que un suport professional pot portar canvis en les seves vides."
+     "text": "A qualsevol persona adulta que senti que un acompanyament professional la pot ajudar."
     },
     {
      "icon": "clock",
      "title": "Preus, durada i horaris",
-     "text": "La durada, freqüència, horaris i preu de les sessions s'acorden amb el terapeuta al començament de la teràpia. Posa't en contacte amb nosaltres per a saber quins terapeutes poden acompanyar-te i les seves condicions de treball."
+     "text": "La freqüència, l'horari i el preu de les sessions s'acorden amb el terapeuta al començament. Escriu-nos i et direm quins terapeutes et poden acompanyar i en quines condicions."
     }
    ],
    "buttons": [
@@ -124,7 +124,7 @@
    "band": "white",
    "id": "centre-de-vic",
    "title": "Un espai de psicoteràpia al centre de Vic",
-   "text": "Ens trobaràs a: L'Espiral d'Osona, Ronda Francesc Camprodon, 25, 1r 1a, 08500 Vic."
+   "text": "Ens trobaràs a la Ronda de Francesc Camprodon, 25, 1r 1a, de Vic. També fem sessions online."
   },
   {
    "type": "maps",

@@ -1,76 +1,27 @@
 {
- "seo_title": "Canal de YouTube",
- "kicker": "Uneix-te al nostre canal",
- "title": "YouTube",
- "lead": "Psicòlogues, Terapeutes Gestalt i Mentors en Atenció Plena a Vic i online.",
- "image": "17-youtube.jpg",
- "buttons": [
-  {
-   "text": "M'hi uneixo",
-   "href": "https://www.youtube.com/channel/UCvWx6OF-QEcoHNmhUvCzYYg"
-  }
- ],
- "description": "Vídeos de L'Espiral: meditacions guiades i sessions teoricopràctiques de Mindfulness per a aprofundir en el teu autoconeixement.",
- "sections": [
-  {
-   "type": "text",
-   "html": true,
-   "lead": false,
-   "paragraphs": [
-    "En aquesta pàgina web anirem penjant els vídeos que anem generant en el <a href=\"https://www.youtube.com/channel/UCvWx6OF-QEcoHNmhUvCzYYg\" rel=\"noopener\">nostre canal de YouTube</a>.",
-    "Et recomanem que, abans d'escoltar les pràctiques de Mindfulness, <strong>facis el curs gratuït, en línia i al teu ritme que oferim sobre l'Atenció Plena</strong>. Són 40 sessions teoricopràctiques en les quals aprendràs la pràctica bàsica del Mindfulness i més meditacions útils per al teu benestar.",
-    "Visita la nostra pàgina web per a inscriure't en el curs gratuït: <a href=\"../\">www.espiralosona.com</a>",
-    "També trobaràs, entre altres, un curs gratuït sobre «Por, ansietat i Atenció Plena» que oferim.",
-    "Pots veure el vídeo introductori d'aquest curs si vols:"
-   ]
-  },
-  {
-   "type": "video",
-   "band": "white",
-   "id": "video-introductori",
-   "items": [
-    {
-     "title": "Por, ansietat i Atenció Plena: vídeo introductori",
-     "youtube": "https://youtu.be/uIrLbOR20aw"
-    }
-   ]
-  },
-  {
-   "type": "video",
-   "band": "soft",
-   "title": "Vídeos penjats",
-   "items": [
-    {
-     "title": "Tres respiracions conscients",
-     "youtube": "https://www.youtube.com/watch?v=W99EkIf2itE"
-    }
-   ]
-  },
-  {
-   "type": "note",
-   "style": "care",
-   "title": "Avís",
-   "paragraphs": [
-    "Ni aquestes pràctiques, ni cap dels continguts dels nostres àudios, vídeos o pàgines web pretén diagnosticar, curar, prevenir ni tractar cap malaltia. Els serveis oferts no estan destinats a tractament mèdic, psicològic o psiquiàtric. Els nostres serveis no estan facilitats per un professional mèdic. Si té una afecció mèdica, psicològica o psiquiàtrica, o dubta de si està capacitat per a realitzar aquesta pràctica, consulti un professional sanitari autoritzat.",
-    "Encara que aquestes sessions estan pensades perquè sigui una pràctica segura, i en general la pràctica de l'Atenció Plena pot ser beneficiosa per a la majoria de les persones i es considera una tècnica segura, hi ha certes situacions en les quals és possible que no sigui recomanable practicar mindfulness sense l'adequada supervisió.",
-    "En aquests casos cal consultar sempre el metge que estigui atenent el practicant i, si pot ser, un metge psiquiatre familiaritzat amb el Mindfulness. Alguns exemples inclouen:"
-   ],
-   "list": [
-    "**Persones amb trastorns psicològics greus:** la pràctica de mindfulness pot ser contraproduent per a persones amb trastorns psicològics greus, com ara trastorns psicòtics o trastorns de la personalitat.",
-    "**Persones que estan experimentant una crisi emocional aguda:** en situacions de crisi emocional aguda, com després d'un trauma recent o una pèrdua important, pot ser millor esperar que la persona s'estabilitzi emocionalment abans de començar la pràctica.",
-    "**Persones amb problemes de salut física:** la pràctica pot ser contraindicada per a persones amb certs problemes de salut física, com ara lesions cerebrals traumàtiques o malalties neurològiques avançades.",
-    "**Persones que estan prenent certs medicaments:** alguns medicaments poden interactuar amb la pràctica del Mindfulness i poden augmentar el risc d'efectes secundaris."
-   ]
-  },
-  {
-   "type": "note",
-   "style": "care",
-   "id": "consulti-el-seu-metge",
-   "title": "Consulti el seu metge abans de començar la pràctica.",
-   "paragraphs": [
-    "Tornem a recalcar-ho. Si bé la pràctica de l'Atenció Plena és segura per a la majoria de les persones, sempre és recomanable parlar amb un professional de la salut abans de començar si es té alguna preocupació específica.",
-    "Si vols pots posar-te en contacte amb nosaltres i et podrem derivar a personal mèdic psiquiàtric que podrà realitzar aquesta valoració."
-   ]
-  }
- ]
+  "seo_title": "Canal de YouTube",
+  "kicker": "Uneix-te al nostre canal",
+  "title": "YouTube",
+  "lead": "Meditacions guiades i sessions de Mindfulness.",
+  "image": "17-youtube.jpg",
+  "buttons": [{"text": "M'hi uneixo", "href": "https://www.youtube.com/channel/UCvWx6OF-QEcoHNmhUvCzYYg"}],
+  "description": "Vídeos de L'Espiral: meditacions guiades i sessions de Mindfulness per conèixer-te millor.",
+  "sections": [
+    {"type": "text", "html": true, "lead": false, "paragraphs": [
+      "Aquí anirem penjant els vídeos del <a href=\"https://www.youtube.com/channel/UCvWx6OF-QEcoHNmhUvCzYYg\" rel=\"noopener\">nostre canal de YouTube</a>.",
+      "Abans d'escoltar les pràctiques, et recomanem que facis el <a href=\"https://espiral-elara-social.thinkific.com/products/courses/atencio-plena-mindfulness-curs-introductori-a-vic-osona\" rel=\"noopener\"><strong>Curs introductori d'Atenció Plena</strong></a>: gratuït, online i al teu ritme, amb 22 sessions per aprendre la pràctica bàsica.",
+      "També tens un curs gratuït sobre <a href=\"../por-ansietat-i-atencio-plena-mindfulness/\">Por, ansietat i Atenció Plena</a>. Aquí sota en pots veure el vídeo introductori."
+    ]},
+    {"type": "video", "band": "white", "id": "video-introductori", "items": [
+      {"title": "Por, ansietat i Atenció Plena: vídeo introductori", "youtube": "https://youtu.be/uIrLbOR20aw"}
+    ]},
+    {"type": "video", "band": "soft", "title": "Vídeos penjats", "items": [
+      {"title": "Tres respiracions conscients", "youtube": "https://www.youtube.com/watch?v=W99EkIf2itE"}
+    ]},
+    {"type": "note", "style": "care", "title": "Abans de practicar", "paragraphs": [
+      "Aquestes pràctiques gravades no substitueixen l'atenció mèdica ni psicològica, ni serveixen per diagnosticar o tractar cap malaltia.",
+      "El Mindfulness és segur per a la majoria de persones, però de vegades és millor practicar amb acompanyament: si tens un trastorn psicològic greu, si passes per una crisi emocional aguda (per exemple, després d'un trauma o d'una pèrdua recent), si tens una malaltia neurològica o si prens una medicació que et preocupa.",
+      "En aquests casos, parla'n abans amb el teu metge o amb un professional de la salut mental. Si vols, escriu-nos i t'orientarem."
+    ]}
+  ]
 }

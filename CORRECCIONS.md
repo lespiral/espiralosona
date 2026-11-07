@@ -141,3 +141,13 @@
 - Llistes de sessions: «Un actitud» → «Una actitud»; «en la atenció» → «en l'atenció»; «Reconectar» → «Reconnectar»; «teòrico-pràtiques» → «teoricopràctiques»; «apliccar» → «aplicar»
 - Bio: «Profesor» → «Professor»; «psicocorporales» → «psicocorporals»; «Bioenergetica» → «Bioenergètica»; «Mindfulness ,» → «Mindfulness,»
 - «17:15 h» → «17.15 h»; «1er 1a08500» → «1r 1a, 08500»
+
+# Textos reescrits (7 de novembre de 2026)
+
+Totes les pàgines s'han escurçat i revisat de to (d'unes 16.600 a unes 10.600 paraules) segons l'anàlisi «Anàlisi dels textos de la web» (document de Claude, https://claude.ai/artifact/WuGevkLrH2hY9kRjTZF5FQ): criteris d'estil, frases de venda i promeses tretes, repeticions, incoherències i temes de criteri professional. Els subtítols de les targetes no s'han tocat.
+
+- Habitar el Ser: «Presencial al Prat de Llobregat» → «presencials a Vic o online»; «1-3» → «1r 1a»; ja no hi surt «mateix@s».
+- YouTube: «40 sessions» del curs introductori → 22 (com a Por i ansietat i Ioga i Psique).
+- Psicòleg Vic: tret «o deixar-nos les teves dades» (no hi ha formulari).
+- Teràpia de parella: tret «Diferents tipus de violència» de la llista; afegida una frase: si hi ha violència, primer es parla amb cadascú per separat.
+- Sobre nosaltres: treta la Sol Gómez (ja no col·labora); afegides l'Anna Ortiz Termes, la Mireia Rodríguez Monge i la Carol Sanchez (fotos de *Fotos Col·laboradors* i presentacions de lespiral.cat › El equipo de profesionales, passades al català).

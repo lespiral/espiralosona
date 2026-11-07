@@ -1,216 +1,54 @@
 {
- "seo_title": "Mindfulness, Ioga i Psique",
- "kicker": "A Vic, grups de",
- "title": "Ioga, mindfulness i creixement personal",
- "lead": "Psicòlogues, Terapeutes Gestalt i Mentors en Atenció Plena a Vic, Osona i online.",
- "image": "20-ioga-psique.jpg",
- "buttons": [
-  {
-   "text": "Inscripcions tancades"
-  },
-  {
-   "text": "Sobre nosaltres",
-   "href": "sobre-nosaltres"
-  }
- ],
- "description": "Grups de Ioga, Mindfulness i creixement personal a Vic, Osona: postures, respiració, meditació i treball amb els txakres per transformar el patiment i viure millor el present.",
- "sections": [
-  {
-   "type": "help",
-   "band": "soft",
-   "items": [
-    "Ioga i Mindfulness",
-    "Psicoteràpia per a adults",
-    "Teràpia de parella",
-    "Psicoteràpia online",
-    "Mentories en Atenció Plena [Mindfulness]",
-    "Tallers i formacions"
-   ]
-  },
-  {
-   "type": "text",
-   "title": "Ioga i Mindfulness",
-   "image": "60-ioga-suau.jpg",
-   "lead": false,
-   "paragraphs": [
-    "Les nostres **sessions de Ioga i Atenció Plena** [Mindfulness] t'ajudaran a transformar el patiment, a concentrar-te i a relaxar-te per a trobar solucions creatives i òptimes a les situacions difícils de la teva vida.",
-    "La intenció de les sessions és que el contacte amb el teu cos, amb la teva respiració i amb el teu moment present t'ajudi a **superar o viure millor les situacions que la vida et posi davant**.",
-    "La paraula «Ioga» prové del sànscrit, una llengua antiga de l'Índia, i té diversos significats, encara que el més comú és «**unió**» o «jou».",
-    "En el seu sentit més ampli, «ioga» fa referència a la unió de la ment, el cos i l'esperit.",
-    "Aquesta unió es pot entendre com la connexió de l'individu amb el diví, amb la natura o amb el seu propi ésser interior.",
-    "Enfoquem les sessions de Ioga i Mindfulness com una **disciplina on busquem l'equilibri i l'harmonia entre aquestes dimensions de l'ésser humà**."
-   ]
-  },
-  {
-   "type": "text",
-   "band": "soft",
-   "kicker": "Sessions en grup de Ioga i Mindfulness a Vic, Osona",
-   "title": "En què consisteixen aquestes sessions?",
-   "image": "61-ioga-per-a-tu.jpg",
-   "reverse": true,
-   "lead": false,
-   "paragraphs": [
-    "En les sessions utilitzarem diverses pràctiques com **postures físiques** (asanes), **tècniques de respiració** (pranayama), **meditació** (mindfulness) i observarem atentament els nostres **estats mentals, físics i emocionals** per assolir l'objectiu d'integració i benestar que el Ioga busca.",
-    "Mitjançant una Atenció Plena al cos, a la respiració, a les postures i moviments que realitzem durant la pràctica del Ioga i/o Moviment Conscient, anirem descobrint i **actualitzant les nostres capacitats d'estar en el món**.",
-    "Hi haurà també un espai per a donar moviment als nostres pensaments, fantasies i creences. Descobrir els nostres patrons mentals i abordar noves «postures» davant nosaltres i davant la vida.",
-    "Són sessions on combinem el moviment del cos amb el moviment de la paraula. Un espai on compartir i deixar-se acompanyar."
-   ]
-  },
-  {
-   "type": "text",
-   "kicker": "Sessions en grup de Ioga, Mindfulness i Creixement Personal a Vic, Osona",
-   "title": "Beneficis de les sessions",
-   "image": "59-ioga-relaxar.jpg",
-   "list": [
-    "Aprendre a transformar el patiment, com ara el que genera l'estrès i l'ansietat",
-    "Aprendre a calmar i observar els patrons de pensaments negatius",
-    "Reduir la reacció mental automàtica i augmentar els nivells conscients de resposta",
-    "Ser present en l'aquí i ara i millorar la concentració",
-    "Desenvolupar la compassió cap a un mateix i cap als altres, sense judicis",
-    "Aprendre tècniques de comunicació respectuoses i empàtiques",
-    "Millorar l'estabilitat emocional i aprendre a sostenir les dificultats",
-    "Relaxar la tensió muscular, mental i emocional"
-   ]
-  },
-  {
-   "type": "text",
-   "band": "soft",
-   "kicker": "Sessions en grup de Ioga, Mindfulness i treball amb els Txakres",
-   "title": "Un viatge de transformació personal",
-   "image": "54-ma-respira.jpg",
-   "reverse": true,
-   "lead": false,
-   "paragraphs": [
-    "Et proposem un treball d'**integració del treball corporal dels Txakres i la pràctica de Mindfulness**.",
-    "El treball corporal amb els txakres no és només una pràctica física; és una porta cap a **una exploració emocional i psicològica profunda.**",
-    "Quan desbloquegem un txakra, sovint emergeixen emocions, records o tensions que han estat atrapades en el cos durant molt de temps.",
-    "Per ajudar a processar aquestes experiències, complementem el treball corporal amb la tècnica de Mindfulness R.A.I.N., que ens permet integrar allò que hem experimentat amb atenció plena i compassió."
-   ]
-  },
-  {
-   "type": "text",
-   "title": "Com participar-hi?",
-   "image": "47-curs-online-practica.jpg",
-   "lead": false,
-   "paragraphs": [
-    "Només cal tenir **ganes d'aprendre** i de **conèixer-se** a un mateix.",
-    "Quan t'hi apuntis, **et proporcionarem accés a dos cursos de Mindfulness completament gratuïts i online** que podràs fer **al teu ritme**, des d'allà on vulguis.",
-    "Els cursos et donaran les **eines necessàries per a començar a realitzar una pràctica bàsica d'Atenció Plena i per a treure més profit dels espais que t'oferim.**",
-    "No cal experiència prèvia en Ioga."
-   ]
-  },
-  {
-   "type": "cards",
-   "band": "soft",
-   "cols": 2,
-   "items": [
-    {
-     "icon": "leaf",
-     "title": "Si no tens experiència en Mindfulness...",
-     "lead": "t'oferim, de manera completament gratuïta, aquest curs:",
-     "text": "**Curs introductori d'Atenció Plena [Mindfulness]**",
-     "href": "https://espiral-elara-social.thinkific.com/products/courses/atencio-plena-mindfulness-curs-introductori-a-vic-osona",
-     "button": "Accedeix al curs",
-     "paragraphs": [
-      "Tindràs accés a 22 enregistraments que, pas a pas, t'introduiran a la pràctica del Mindfulness.",
-      "Perquè puguis practicar còmodament des de casa o allà on siguis, al teu ritme."
-     ],
-     "list": [
-      "01 – Fer una pausa",
-      "02 – Relaxació conscient",
-      "03 – Tornant als teus sentits",
-      "04 – Una actitud amable",
-      "05 – Atenció a la respiració",
-      "06 – Calmant-te i estabilitzant-te amb la respiració",
-      "07 – Comptant la respiració",
-      "08 – Aprofundint en l'atenció",
-      "09 – Atenció Plena del cos",
-      "10 – Sentir des de dins cap a fora",
-      "11 – Exploració corporal",
-      "12 – Anomenant les sensacions",
-      "13 – Treballant amb sensacions intenses",
-      "14 – L'Atenció Plena de les emocions",
-      "15 – Posar nom a les emocions",
-      "16 – Treballar amb emocions difícils",
-      "17 – Foment de les emocions «positives»",
-      "18 – Reconeixement del pensament",
-      "19 – Sàvia relació amb el pensament",
-      "20 – La vida sota els pensaments",
-      "21 – Més enllà dels pensaments",
-      "22 – Atenció Plena: la pràctica bàsica"
-     ]
-    },
-    {
-     "icon": "spiral",
-     "title": "I per a poder posar una intenció més clara i definida a les teves sessions de Ioga i Mindfulness...",
-     "lead": "t'oferim, de manera completament gratuïta, aquest curs:",
-     "text": "**Transformar el patiment amb Atenció Plena**",
-     "href": "https://espiral-elara-social.thinkific.com/products/courses/transformar-el-patiment-amb-atencio-plena-mindfulness-a-vic-osona",
-     "button": "Accedeix al curs",
-     "paragraphs": [
-      "Tindràs accés a 17 sessions teoricopràctiques que, pas a pas, t'introduiran a com aplicar els 4 principis de la transformació conscient del patiment: Reconèixer, Acceptar, Investigar, Nodrir.",
-      "Perquè puguis practicar còmodament des de casa o allà on siguis, al teu ritme."
-     ],
-     "list": [
-      "01 – Introducció",
-      "02 – Els quatre principis de la transformació conscient",
-      "03 – R.A.I.N. crea una clariana",
-      "04 – Reconèixer i Acceptar",
-      "05 – Viure amb la totalitat del nostre ésser",
-      "06 – Sortir de la reactivitat",
-      "07 – Reconnectar amb el nostre potencial",
-      "08 – Una pràctica de R.A.I.N.",
-      "09 – Deixar anar la ràbia i la culpa",
-      "10 – Com funciona el perdó",
-      "11 – Trencar els cicles de la violència",
-      "12 – Meditació sobre la culpa amb R.A.I.N.",
-      "13 – El tràngol de l'altre irreal",
-      "14 – Cultivar la compassió",
-      "15 – Ampliar els cercles de compassió",
-      "16 – Els prejudicis inconscients",
-      "17 – Una pràctica guiada de R.A.I.N. i compassió"
-     ]
-    }
-   ]
-  },
-  {
-   "type": "cards",
-   "cols": 2,
-   "items": [
-    {
-     "icon": "users",
-     "title": "A qui va dirigit?",
-     "text": "Qualsevol persona interessada a aprofundir en l'autoconeixement."
-    },
-    {
-     "icon": "calendar-dots",
-     "title": "Dies, horaris i adreça",
-     "list": [
-      "Divendres, de 16 h a 17.15 h",
-      "Ronda de Francesc Camprodon, 25, 1r 1a, 08500 Vic"
-     ]
-    },
-    {
-     "icon": "users-three",
-     "title": "Grups guiats per",
-     "lead": "Aleix Boronat Monfort",
-     "text": "Director i cofundador de l'Espiral. Professor de Ioga. Formador i Mentor en Mindfulness, Terapeuta Gestalt i Membre adherent de l'AETG. Formació en Psicoteràpia Integrativa (programa SAT). Format en tècniques psicocorporals (Shiatsu i Moviment, Seitai, Ioga, Bioenergètica)."
-    }
-   ],
-   "buttons": [
-    {
-     "text": "Inscripcions tancades"
-    },
-    {
-     "text": "Sobre nosaltres",
-     "href": "sobre-nosaltres"
-    }
-   ]
-  },
-  {
-   "type": "maps",
-   "band": "stone",
-   "id": "on-som"
-  }
- ]
+  "seo_title": "Mindfulness, Ioga i Psique",
+  "kicker": "A Vic, grups de",
+  "title": "Ioga, mindfulness i creixement personal",
+  "lead": "Sessions en grup que uneixen el cos, la respiració, la meditació i la paraula.",
+  "image": "20-ioga-psique.jpg",
+  "buttons": [{"text": "Inscripcions tancades"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}],
+  "description": "Grups de ioga, Mindfulness i creixement personal a Vic: postures, respiració, meditació i treball amb els txakres per viure millor el present.",
+  "sections": [
+    {"type": "help", "band": "soft", "items": [
+      "Ioga i Mindfulness",
+      "Psicoteràpia per a adults",
+      "Teràpia de parella",
+      "Psicoteràpia online",
+      "Mentoria en Mindfulness",
+      "Tallers i formacions"
+    ]},
+    {"type": "text", "title": "Ioga i Mindfulness", "image": "60-ioga-suau.jpg", "lead": false, "paragraphs": [
+      "Les sessions de **Ioga i Atenció Plena** volen ajudar-te a relaxar-te, a concentrar-te i a viure millor les situacions difícils, a través del contacte amb el cos, la respiració i el moment present.",
+      "«Ioga» ve del sànscrit i vol dir «unió»: la unió del cos, la ment i l'esperit. A les sessions busquem l'equilibri entre aquestes dimensions."
+    ]},
+    {"type": "text", "band": "soft", "title": "En què consisteixen aquestes sessions?", "image": "61-ioga-per-a-tu.jpg", "reverse": true, "lead": false, "paragraphs": [
+      "Fem servir **postures** (asanes), **respiració** (pranayama) i **meditació**, i observem amb atenció els nostres **estats mentals, físics i emocionals**.",
+      "També hi ha un espai per posar en moviment els pensaments i les creences, descobrir els nostres patrons i provar noves «postures» davant la vida. Combinem el moviment del cos amb el de la paraula, en un espai per compartir i deixar-se acompanyar."
+    ]},
+    {"type": "text", "title": "Què et pot aportar", "image": "59-ioga-relaxar.jpg", "list": [
+      "Acompanyar el patiment que generen l'estrès i l'ansietat.",
+      "Calmar i observar els pensaments negatius, i reaccionar menys en automàtic.",
+      "Ser present en l'aquí i ara i concentrar-te millor.",
+      "Més compassió cap a tu i cap als altres.",
+      "Més estabilitat emocional per sostenir les dificultats.",
+      "Relaxar la tensió muscular, mental i emocional."
+    ]},
+    {"type": "text", "band": "soft", "title": "Ioga, txakres i Mindfulness", "image": "54-ma-respira.jpg", "reverse": true, "lead": false, "paragraphs": [
+      "Integrem el treball corporal amb els **txakres** i la pràctica de Mindfulness.",
+      "En aquesta pràctica entenem que el treball amb els txakres no és només físic: pot obrir la porta a emocions, records o tensions que el cos ha guardat.",
+      "Per acompanyar el que hi aparegui, fem servir la pràctica de Mindfulness R.A.I.N., que ens ajuda a integrar-ho amb atenció plena i compassió."
+    ]},
+    {"type": "text", "title": "Com participar-hi?", "image": "47-curs-online-practica.jpg", "lead": false, "paragraphs": [
+      "Només cal tenir **ganes d'aprendre** i de **conèixer-te**. No cal experiència prèvia en ioga.",
+      "Quan t'hi apuntis, tindràs accés a **dos cursos gratuïts online de Mindfulness**, per començar una pràctica bàsica i treure més profit de les sessions."
+    ]},
+    {"type": "cards", "band": "soft", "cols": 2, "items": [
+      {"icon": "leaf", "title": "Si no tens experiència en Mindfulness", "lead": "Curs gratuït online:", "text": "**Curs introductori d'Atenció Plena [Mindfulness]**", "href": "https://espiral-elara-social.thinkific.com/products/courses/atencio-plena-mindfulness-curs-introductori-a-vic-osona", "button": "Accedeix al curs", "paragraphs": ["22 sessions que, pas a pas, t'introdueixen a la pràctica, per fer-les des de casa i al teu ritme."]},
+      {"icon": "spiral", "title": "Per posar una intenció més clara a les sessions", "lead": "Curs gratuït online:", "text": "**Transformar el patiment amb Atenció Plena**", "href": "https://espiral-elara-social.thinkific.com/products/courses/transformar-el-patiment-amb-atencio-plena-mindfulness-a-vic-osona", "button": "Accedeix al curs", "paragraphs": ["17 sessions per aprendre a aplicar R.A.I.N.: Reconèixer, Acceptar, Investigar, Nodrir."]}
+    ]},
+    {"type": "cards", "cols": 2, "items": [
+      {"icon": "users", "title": "A qui va dirigit?", "text": "Qualsevol persona interessada a aprofundir en l'autoconeixement."},
+      {"icon": "calendar-dots", "title": "Dies, horaris i adreça", "list": ["Divendres, de 16 h a 17.15 h", "Ronda de Francesc Camprodon, 25, 1r 1a, 08500 Vic"]},
+      {"icon": "users-three", "title": "Grups guiats per", "lead": "Aleix Boronat Monfort", "text": "Director i cofundador de L'Espiral. Professor de ioga, terapeuta Gestalt (membre adherent de l'AETG) i formador i mentor de Mindfulness."}
+    ], "buttons": [{"text": "Inscripcions tancades"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
+    {"type": "maps", "band": "stone", "id": "on-som"}
+  ]
 }

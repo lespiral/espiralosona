@@ -2,22 +2,22 @@
   "seo_title": "Canal de Telegram",
   "kicker": "Uneix-te al nostre canal",
   "title": "Telegram",
-  "lead": "Psicòlogues, Terapeutes Gestalt i Mentors en Atenció Plena a Vic",
+  "lead": "Meditacions guiades, MasterClass i articles, directament al mòbil.",
   "image": "16-telegram.jpg",
   "buttons": [{"text": "M'hi uneixo!", "href": "https://docs.google.com/forms/d/14jqOqy82IjtfojgNpTOAkocefpM38_n19DPEqhtAsI8/viewform"}],
   "description": "Uneix-te al canal de Telegram de L'Espiral: meditacions guiades, MasterClass de Mindfulness i articles de psicoteràpia directament al teu mòbil.",
   "sections": [
-    {"type": "list", "band": "soft", "title": "Rep directament en el teu mòbil tot tipus d'informació i recursos útils per al teu benestar.", "items": [
+    {"type": "list", "band": "soft", "title": "Què hi trobaràs", "items": [
       "Meditacions guiades i exercicis de Mindfulness.",
       "MasterClass de Mindfulness.",
-      "Articles propis de psicoteràpia i gestió emocional.",
-      "Promocions especials per a cursos i tallers."
+      "Articles de psicoteràpia i gestió emocional.",
+      "Avisos de nous cursos i tallers."
     ]},
     {"type": "cards", "title": "Directament al teu mòbil", "cols": 2, "ratio": "32", "items": [
-      {"image": "62-telegram-practiques.jpg", "title": "Pràctiques de Mindfulness guiades", "paragraphs": ["Oferim gravacions de pràctiques de Mindfulness perquè puguis practicar còmodament des de casa o allà on estiguis.", "Si t'uneixes al nostre canal de Telegram les podràs rebre directament al teu mòbil."], "href": "https://docs.google.com/forms/d/14jqOqy82IjtfojgNpTOAkocefpM38_n19DPEqhtAsI8/viewform", "button": "Telegram"},
-      {"image": "63-telegram-masterclass.jpg", "title": "MasterClass de Mindfulness", "paragraphs": ["Periòdicament pengem MasterClass de Mindfulness on ens endinsem en algun tema cabdal de l'Atenció Plena com ara l'amor compassiu, l'atenció al cos, l'equanimitat, el perdó, etc.", "Amb elles ampliaràs el camp d'exploració de les teves experiències obrint l'atenció a aspectes, de vegades, ocults a la consciència."], "href": "https://docs.google.com/forms/d/14jqOqy82IjtfojgNpTOAkocefpM38_n19DPEqhtAsI8/viewform", "button": "Telegram"},
-      {"image": "26-articles.jpg", "title": "Articles de psicologia", "paragraphs": ["Articles que et permetran conèixer amb major profunditat la psicoteràpia humanista que practiquem a l'Espiral.", "Per endinsar-se en els secrets d'un procés psicoterapèutic, així com aprofundir en temes claus de la salut psicoemocional."], "href": "https://docs.google.com/forms/d/14jqOqy82IjtfojgNpTOAkocefpM38_n19DPEqhtAsI8/viewform", "button": "Telegram"},
-      {"image": "64-articles-mindfulness.jpg", "title": "Articles de Mindfulness", "paragraphs": ["Articles que et permetran conèixer amb major profunditat el Mindfulness i com aplicar-lo a la teva vida per a una salut mental i emocional més plena.", "Aquests articles et permetran aprofundir en la teva pràctica meditativa i encarar els exercicis amb major seguretat i precisió."], "href": "https://docs.google.com/forms/d/14jqOqy82IjtfojgNpTOAkocefpM38_n19DPEqhtAsI8/viewform", "button": "Telegram"}
+      {"image": "62-telegram-practiques.jpg", "title": "Pràctiques de Mindfulness guiades", "paragraphs": ["Gravacions de pràctiques de Mindfulness per practicar des de casa o allà on siguis."], "href": "https://docs.google.com/forms/d/14jqOqy82IjtfojgNpTOAkocefpM38_n19DPEqhtAsI8/viewform", "button": "Telegram"},
+      {"image": "63-telegram-masterclass.jpg", "title": "MasterClass de Mindfulness", "paragraphs": ["Sessions sobre temes de l'Atenció Plena com l'amor compassiu, l'atenció al cos, l'equanimitat o el perdó."], "href": "https://docs.google.com/forms/d/14jqOqy82IjtfojgNpTOAkocefpM38_n19DPEqhtAsI8/viewform", "button": "Telegram"},
+      {"image": "26-articles.jpg", "title": "Articles de psicologia", "paragraphs": ["Per conèixer millor la psicoteràpia humanista que fem a L'Espiral i temes clau de la salut emocional."], "href": "https://docs.google.com/forms/d/14jqOqy82IjtfojgNpTOAkocefpM38_n19DPEqhtAsI8/viewform", "button": "Telegram"},
+      {"image": "64-articles-mindfulness.jpg", "title": "Articles de Mindfulness", "paragraphs": ["Per aprofundir en la pràctica i portar el Mindfulness a la vida de cada dia."], "href": "https://docs.google.com/forms/d/14jqOqy82IjtfojgNpTOAkocefpM38_n19DPEqhtAsI8/viewform", "button": "Telegram"}
     ]}
   ]
 }
