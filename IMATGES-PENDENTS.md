@@ -5,12 +5,6 @@ a `src/img/fotos/` amb el nom de la primera columna i torna a generar la web (`p
 
 | Fitxer | On surt | A la web antiga |
 |---|---|---|
-| `15-contacte.jpg` | /contacte-2/ |  |
-| `16-telegram.jpg` | /, /canal-de-telegram/ |  |
-| `17-youtube.jpg` | /, /canal-de-youtube/ |  |
-| `18-psicoleg-vic.jpg` | /psicoleg-vic/ |  |
-| `19-habitar-el-ser.jpg` | /mindfulness-el-poder-de-habitar-el-ser/ |  |
-| `20-ioga-psique.jpg` | /mindfulness-ioga-i-psique/ |  |
 | `21-curs-introductori.jpg` | / |  |
 | `22-ea-sostenir-la-vida.jpg` | / |  |
 | `23-ea-mon-preocupa.jpg` | / |  |
