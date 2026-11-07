@@ -7,7 +7,8 @@
       Canvia només el valor de "image", sense tocar el format dels fitxers.
   python3 tools/posa-imatges.py FITXER [FITXER...]
       Prepara les imatges que arriben del Drive: les reconeix pel número del davant (01-…, 23-…),
-      les passa a JPG, les redueix i les desa a src/img/fotos/<nom>.jpg.
+      les passa a JPG, les retalla pel centre a la forma del lloc si cal (Flow només fa 16:9 i 9:16),
+      les redueix i les desa a src/img/fotos/<nom>.jpg.
 
 Després: python3 build.py
 """
@@ -74,6 +75,28 @@ def width_for(name):
     return 1400              # targetes i imatges de dins
 
 
+def ratio_for(name):
+    n = int(name.split("-", 1)[0])
+    if n <= 26 or n >= 62:
+        return 16 / 9        # capçaleres i targetes
+    if 33 <= n <= 35:
+        return 3 / 4         # verticals de la Mentoria
+    return 4 / 3             # imatges de dins de les pàgines
+
+
+def crop_to(im, r):
+    """Retalla pel centre si la imatge no té la forma del lloc (p. ex. Flow només fa 16:9 i 9:16)."""
+    if abs(im.width / im.height - r) / r <= 0.02:
+        return im
+    if im.width / im.height > r:
+        w = round(im.height * r)
+        x = (im.width - w) // 2
+        return im.crop((x, 0, x + w, im.height))
+    h = round(im.width / r)
+    y = (im.height - h) // 2
+    return im.crop((0, y, im.width, y + h))
+
+
 def add_files(files):
     from PIL import Image, ImageOps
     FOTOS.mkdir(parents=True, exist_ok=True)
@@ -85,6 +108,10 @@ def add_files(files):
             continue
         name = BY_NUM[m.group(1)]
         im = ImageOps.exif_transpose(Image.open(src)).convert("RGB")
+        orig = im.size
+        im = crop_to(im, ratio_for(name))
+        if im.size != orig:
+            print(f"  {src.name}: retallada de {orig[0]}×{orig[1]} a {im.width}×{im.height} (forma del lloc)")
         w = width_for(name)
         if im.width > w:
             im = im.resize((w, round(im.height * w / im.width)), Image.LANCZOS)
