@@ -5,8 +5,6 @@ a `src/img/fotos/` amb el nom de la primera columna i torna a generar la web (`p
 
 | Fitxer | On surt | A la web antiga |
 |---|---|---|
-| `27-psicoterapia-escolta.jpg` | /psicoleg-vic/, /psicoterapia-per-a-adults-a-vic-i-on-line/ |  |
-| `28-psicoterapia-claredat.jpg` | /psicoleg-vic/, /psicoterapia-per-a-adults-a-vic-i-on-line/ |  |
 | `29-psicoterapia-cami.jpg` | /psicoterapia-per-a-adults-a-vic-i-on-line/ |  |
 | `30-parella-mans.jpg` | /terapia-de-parella-a-vic-osona-i-on-line/ |  |
 | `31-parella-cami.jpg` | /terapia-de-parella-a-vic-osona-i-on-line/ |  |
