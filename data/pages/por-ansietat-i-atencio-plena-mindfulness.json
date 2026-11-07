@@ -35,7 +35,7 @@
       {"icon": "calendar-dots", "title": "Quan comença el curs?", "paragraphs": ["Quan tu vulguis.", "Només cal que et registris a la plataforma dels cursos (Thinkific) amb el correu o amb el teu compte de Google, Apple, Facebook o LinkedIn."], "list": ["22 sessions, online i al teu ritme."], "text": "**Idioma:** català"},
       {"icon": "users", "title": "Impartit per", "lead": "Aleix Boronat", "text": "Director i cofundador de L'Espiral. Terapeuta humanista i mentor de Mindfulness."}
     ]},
-    {"type": "text", "band": "soft", "id": "contes", "title": "17 contes gratuïts inspirats en aquest curs", "image": "2024/08/Hara-i-la-por-17-contes-per-acompanyar-la-por-i-lansietat-amb-Mindfulness-1-e1725014812183.png", "lead": false, "paragraphs": [
+    {"type": "text", "band": "soft", "id": "contes", "title": "17 contes gratuïts inspirats en aquest curs", "image": "hara-i-la-por-portada.jpg", "ratio": "34", "alt": "Portada del recull de contes «Hara i la por»", "lead": false, "paragraphs": [
       "Acompanya la Hara en el seu viatge amb la por i l'ansietat: com aprèn, amb l'Atenció Plena, a mantenir-se present quan apareix la por i a trobar recursos de seguretat, força i connexió.",
       "Els contes s'inspiren en el material gravat del curs."
     ], "buttons": [{"text": "Descarrega els contes (PDF)", "href": "https://gestaltmindfulness.lespiral.cat/wp-content/uploads/2024/08/Hara-i-la-por-17-contes-per-acompanyar-la-por-i-lansietat-amb-Mindfulness-www.atencioplena.cat_.pdf"}, {"text": "Inscripció gratuïta", "href": "https://espiral-elara-social.thinkific.com/enroll/3843531"}]},

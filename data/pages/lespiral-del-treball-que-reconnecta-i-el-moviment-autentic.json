@@ -67,7 +67,7 @@
     {"type": "text", "band": "white", "title": "Esperança Activa", "image": "58-esperanca-activa.jpg", "reverse": true, "lead": false, "paragraphs": [
       "L'**Esperança Activa** no és confiar que tot anirà bé, sinó reconèixer què és important per a nosaltres i **participar en allò que volem cuidar o transformar**, encara que no en puguem controlar el resultat."
     ]},
-    {"type": "text", "html": true, "title": "Vols fer un tastet d'Esperança Activa?", "image": "2026/09/Elara-Social.png", "lead": false, "band": "soft", "paragraphs": [
+    {"type": "text", "html": true, "title": "Vols fer un tastet d'Esperança Activa?", "image": "elara-7-passes-esperanca-activa.jpg", "ratio": "169", "alt": "7 passes cap a l'Esperança Activa, de L'Espiral i Elara Social", "lead": false, "band": "soft", "paragraphs": [
       "Si vols conèixer el Treball que Reconnecta d'una manera senzilla, pots començar per les <a href=\"https://elarasocial.com/7-passes-cap-a-lesperanca-activa/\" rel=\"noopener\"><strong>7 passes cap a l'Esperança Activa</strong></a>: recorreguts <strong>breus, online i gratuïts</strong> sobre el malestar personal, la salut mental comunitària, l'acció climàtica i els reptes socials, creats amb <strong>Elara Social</strong>."
     ], "buttons": [{"text": "Explora l'Esperança Activa", "href": "https://elarasocial.com/7-passes-cap-a-lesperanca-activa/"}]},
     {"type": "cards", "title": "L'Espiral del Treball que Reconnecta i Moviment Autèntic", "cols": 2, "items": [
