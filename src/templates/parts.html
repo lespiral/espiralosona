@@ -70,6 +70,25 @@
 {%- endmacro %}
 
 {# Una secció de pàgina. Tipus: text, cards, list, faq, note, cta, actions, contact, maps, help, quote, steps, video, team (vegeu el README). #}
+{# Llista d'articles (data/articles/), del més nou al més antic #}
+{% macro article_cards(list, root) -%}
+<ul class="posts">
+  {% for a in list %}
+  <li class="post reveal">
+    <a class="post__link" href="{{ root }}{{ a.slug }}/">
+      {% if a.image %}<span class="post__img">{{ img(a.image, '', '169') }}</span>{% endif %}
+      <span class="post__body">
+        <time class="post__date" datetime="{{ a.date }}">{{ a.date_text }}</time>
+        <span class="post__title">{{ a.title }}</span>
+        <span class="post__summary">{{ a.summary }}</span>
+        <span class="post__more">Llegeix l'article {{ icon('arrow') }}</span>
+      </span>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
+{%- endmacro %}
+
 {% macro section(s, root) -%}
 {% set band = s.band or 'white' %}
 {% set wide = s.type in ('cards', 'maps', 'help', 'video', 'team', 'steps') or (s.type == 'text' and s.image) or (s.type == 'list' and band == 'dark') %}
@@ -157,6 +176,8 @@
         {% for p in s.paragraphs or [] %}<p>{{ p }}</p>{% endfor %}
         {% if s.buttons %}<p class="actions">{% for b in s.buttons %}{{ button(b, root, 'btn--light' if loop.first else 'btn--ghost-light') }}{% endfor %}</p>{% endif %}
       </div>
+    {% elif s.type == 'articles' %}
+      {% if articles %}{{ article_cards(articles, root) }}{% else %}<p class="band__intro">Aviat hi trobaràs els primers articles.</p>{% endif %}
     {% elif s.type == 'video' %}
       <ul class="videos">
         {% for v in s["items"] %}{% set yid = v.youtube|ytid %}

@@ -55,6 +55,7 @@
       {"slug": "terapia-de-parella-a-vic-osona-i-on-line", "title": "Teràpia de parella"},
       {"slug": "mentoria-en-mindfulness", "title": "Mindfulness"},
       {"slug": "sobre-nosaltres", "title": "Sobre nosaltres"},
+      {"slug": "articles", "title": "Articles"},
       {"slug": "contacte-2", "title": "Contacte"}
     ],
     "legal": [
@@ -131,7 +132,7 @@
         {"image": "25-ea-vida-desborda.jpg", "alt": "Quan la vida et desborda", "badge": "Curs gratuït online", "title": "Quan la vida et desborda", "text": "Per a moments difícils (ansietat, dols, separacions, cansament emocional): aturar-se, posar paraules al que preocupa i trobar un primer pas possible.", "href": "https://espiral-elara-social.thinkific.com/products/courses/Quan-la-vida-et-desborda-ansietat-malestar-emocional-7-passes-cap-esperanca-activa"}
       ]},
       {"type": "cards", "band": "stone", "title": "Recursos", "ratio": "32", "items": [
-        {"image": "26-articles.jpg", "title": "Articles", "text": "Articles de L'Espiral sobre psicologia i psicoteràpia.", "href": "https://lespiral.cat/articulos/"},
+        {"image": "26-articles.jpg", "title": "Articles", "text": "Articles de L'Espiral sobre psicologia i psicoteràpia.", "href": "articles"},
         {"image": "16-telegram.jpg", "title": "Meditacions guiades", "text": "Àudios de meditacions i exercicis de Mindfulness al nostre canal de Telegram, per escoltar-los quan els necessitis.", "href": "canal-de-telegram"},
         {"image": "17-youtube.jpg", "title": "Canal de YouTube", "text": "Meditacions guiades i sessions teòriques i pràctiques per conèixer-te millor.", "href": "canal-de-youtube"}
       ]},

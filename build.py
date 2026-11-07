@@ -7,6 +7,8 @@ El mateix sistema que elarasocial.com (lespiral/elarasocial): dades en JSON, pla
 
 - data/site.json: el nom, l'adreça pública, el menú, el contacte, els centres (mapes), el peu i la pàgina d'inici.
 - data/pages/<adreça>.json: una pàgina per fitxer (vegeu el README).
+- data/articles/<adreça>.json: un article per fitxer → /<adreça>/ ("title", "date", "author", "image", "body").
+  Un article amb una data futura no surt fins aquell dia (quan es torni a generar la web).
 - Les imatges: a les dades s'escriu el camí de la imatge a la web de WordPress (p. ex. "2026/08/foto.jpg").
   Si el fitxer és a src/img/fotos/ (amb el mateix nom, foto.jpg), surt la imatge; si no, surt un requadre
   marcat «Imatge pendent» i el fitxer s'apunta a IMATGES-PENDENTS.md.
@@ -29,7 +31,7 @@ ICONS = json.loads((SRC / "icons.json").read_text(encoding="utf-8"))
 
 # Tipus de secció que saben pintar les plantilles (src/templates/parts.html, macro «section»)
 SECTION_TYPES = {"text", "cards", "list", "faq", "note", "cta", "actions", "contact", "maps", "help",
-                 "quote", "steps", "video", "team"}
+                 "quote", "steps", "video", "team", "articles"}
 
 errors = []
 pending_imgs = {}     # fitxer → {"orig": ..., "pages": set()}
@@ -148,6 +150,44 @@ for f in sorted((DATA / "pages").glob("*.json")):
     pages.append(p)
 slugs = {p["slug"] for p in pages}
 
+# Articles: data/articles/<adreça>.json → /<adreça>/. "body": paràgrafs (text) i {"h2": ...}, {"h3": ...} o {"note": ...}.
+# Amb "html": true, els paràgrafs poden portar enllaços. Els que tenen una data futura encara no es publiquen.
+MESOS = ["gener", "febrer", "març", "abril", "maig", "juny", "juliol", "agost", "setembre", "octubre", "novembre", "desembre"]
+
+
+def data_llarga(iso):
+    y, m, d = (int(x) for x in iso.split("-"))
+    mes = MESOS[m - 1]
+    return f"{d} {'d’' if mes[0] in 'ao' else 'de '}{mes} de {y}"
+
+
+TODAY = time.strftime("%Y-%m-%d")
+articles, n_future = [], 0
+for f in sorted((DATA / "articles").glob("*.json")) if (DATA / "articles").exists() else []:
+    try:
+        a = json.loads(f.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as e:
+        errors.append(f"{f.relative_to(ROOT)}: el JSON no és correcte ({e})")
+        continue
+    a["slug"] = f.stem
+    if a["slug"] in slugs:
+        errors.append(f"{f.relative_to(ROOT)}: ja hi ha una pàgina amb l'adreça /{a['slug']}/")
+    if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", a.get("date", "")):
+        errors.append(f"{f.relative_to(ROOT)}: \"date\" ha de ser AAAA-MM-DD")
+        continue
+    if a["date"] > TODAY:
+        n_future += 1
+        continue
+    a["date_text"] = data_llarga(a["date"])
+    texts = [b for b in a["body"] if isinstance(b, str)]
+    plain = re.sub(r"<[^>]+>|\*\*", "", texts[0])
+    a["summary"] = a.get("summary") or (plain if len(plain) <= 230 else plain[:230].rsplit(" ", 1)[0] + "…")
+    a["words"] = sum(len(re.sub(r"<[^>]+>", "", b).split()) for b in texts)
+    conv = (lambda x: Markup(x)) if a.get("html") else bold
+    a["body"] = [conv(b) if isinstance(b, str) else {k: conv(v) for k, v in b.items()} for b in a["body"]]
+    articles.append(a)
+articles.sort(key=lambda a: a["date"], reverse=True)
+
 # El menú només pot portar a pàgines que existeixen (o a l'inici, "")
 for n in site.get("nav", []):
     for item in [n] + n.get("children", []):
@@ -175,7 +215,7 @@ def youtube_id(u):
 env = Environment(loader=FileSystemLoader(SRC / "templates"), autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
 env.filters["cap"] = cap
 env.filters["ytid"] = youtube_id
-env.globals.update(icon=icon, pic=pic, site=site, noindex=NOINDEX, version=str(int(time.time())),
+env.globals.update(icon=icon, pic=pic, site=site, noindex=NOINDEX, version=str(int(time.time())), articles=articles,
                    logo=(IMG / "logo-espiral.png").exists(), favicon=(IMG / "favicon-48.png").exists())
 
 PAGES = []
@@ -203,6 +243,10 @@ pending = render("home.html", "", "", section="", h=home, page_title=home.get("s
 for p in pages:
     pending += render("page.html", p["slug"], p["slug"], section=p.get("menu") or p["slug"], page_title=p.get("seo_title") or p["title"],
                       page_description=p.get("description") or p.get("lead"), page=p).count("[PENDENT]")
+art_section = next((p["slug"] for p in pages if any(s.get("type") == "articles" for s in p["sections"])), "")
+for a in articles:
+    pending += render("article.html", a["slug"], a["slug"], section=art_section, page_title=a["title"],
+                      page_description=a.get("description") or a["summary"], article=a, articles_slug=art_section).count("[PENDENT]")
 render("404.html", "404.html", page_title="Pàgina no trobada", root=BASE)
 
 # Adreces antigues de WordPress que ja no són una pàgina: porten a la nova.
@@ -215,7 +259,7 @@ REDIRECT = """<!doctype html>
 n_redirects = 0
 for old, to in (site.get("redirects") or {}).items():
     old = old.strip("/")
-    if old in slugs:
+    if old in slugs or old in {a["slug"] for a in articles}:
         errors.append(f"data/site.json (redirects): /{old}/ és una pàgina de la web; no pot portar a una altra")
         continue
     if not to.startswith("http"):
@@ -258,5 +302,5 @@ for name, p in sorted(pending_imgs.items()):
     lines.append(f"| `{name}` | {', '.join(sorted(p['pages']))} | {p['orig']} |")
 (ROOT / "IMATGES-PENDENTS.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
-print(f"Fet: {len(pages) + 1} pàgines; {n_redirects} adreces antigues redirigides; {len(pending_imgs)} imatges pendents; "
+print(f"Fet: {len(pages) + 1} pàgines; {len(articles)} articles publicats ({n_future} programats); {n_redirects} adreces antigues redirigides; {len(pending_imgs)} imatges pendents; "
       f"{pending} marques [PENDENT]. adreça={SITE_URL} cercadors={'no' if NOINDEX else 'sí'}")

@@ -1,0 +1,12 @@
+{
+  "seo_title": "Articles de psicoteràpia i Mindfulness",
+  "kicker": "L'Espiral d'Osona",
+  "title": "Articles",
+  "lead": "Textos sobre psicoteràpia, Mindfulness i salut emocional.",
+  "image": "26-articles.jpg",
+  "description": "Articles de L'Espiral d'Osona, a Vic, sobre psicoteràpia, Teràpia Gestalt, Mindfulness i salut emocional.",
+  "sections": [
+    {"type": "help", "band": "soft"},
+    {"type": "articles", "band": "soft", "id": "articles"}
+  ]
+}
