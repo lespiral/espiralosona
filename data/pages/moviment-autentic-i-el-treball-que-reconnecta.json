@@ -4,7 +4,7 @@
   "title": "El Treball que Reconnecta i Moviment Autèntic",
   "lead": "Un espai per escoltar el cos, reconnectar amb allò que ens importa i explorar la nostra experiència a través del moviment.",
   "image": "08-moviment-autentic.jpg",
-  "buttons": [{"text": "Demanar més informació", "href": "contacte-2"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}],
+  "buttons": [{"text": "Avisa'm de la propera edició", "href": "mailto:lespiral.osona@gmail.com?subject=Avisa%27m%20de%20la%20propera%20edici%C3%B3%3A%20El%20Treball%20que%20Reconnecta%20i%20Moviment%20Aut%C3%A8ntic"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}],
   "description": "Taller presencial a Vic que posa en diàleg el Treball que Reconnecta i el Moviment Autèntic: un espai per escoltar el cos i explorar l'experiència a través del moviment.",
   "sections": [
     {"type": "help", "band": "soft"},
@@ -52,11 +52,11 @@
       {"h": "Preparació corporal", "paragraphs": ["Propostes senzilles de consciència corporal i moviment."]},
       {"h": "Moviment i testimoni", "paragraphs": ["Moure's des de l'impuls intern, amb la presència d'un testimoni."]},
       {"h": "Cercle de paraula", "paragraphs": ["Un espai per compartir el que cadascú vulgui de l'experiència."]}
-    ], "buttons": [{"text": "Demanar més informació", "href": "contacte-2"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
+    ], "buttons": [{"text": "Avisa'm de la propera edició", "href": "mailto:lespiral.osona@gmail.com?subject=Avisa%27m%20de%20la%20propera%20edici%C3%B3%3A%20El%20Treball%20que%20Reconnecta%20i%20Moviment%20Aut%C3%A8ntic"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
     {"type": "cards", "cols": 2, "items": [
-      {"icon": "calendar-dots", "title": "Detalls pràctics", "list": ["**Data:** diumenge 8 de novembre", "**Horari:** de 18 h a 20.30–21 h", "**Durada:** 2,5–3 h", "**Format:** taller presencial", "**Grup:** places limitades", "**Experiència prèvia:** no és necessària", "**Roba:** còmoda i que permeti moure't lliurement", "**On?** Ronda de Francesc Camprodon, 25, 1r 1a. 08500 Vic", "**Preu:** 35 euros"]},
+      {"icon": "calendar-dots", "title": "Detalls pràctics", "list": ["**Properes dates:** aviat oferirem nous dies i horaris. Si vols que t'avisem de la propera edició, escriu-nos.", "**Durada:** 2,5–3 h", "**Format:** taller presencial", "**Grup:** places limitades", "**Experiència prèvia:** no és necessària", "**Roba:** còmoda i que permeti moure't lliurement", "**On?** Ronda de Francesc Camprodon, 25, 1r 1a. 08500 Vic", "**Preu:** 35 euros"]},
       {"icon": "users", "title": "Impartit per", "lead": "Aleix Boronat", "paragraphs": ["Terapeuta humanista, professor de Ioga i Mindfulness, facilitador del Treball que Reconnecta i practicant de la Disciplina del Moviment Autèntic amb la Betina Waissman.", "La proposta integra l'experiència en treball corporal, Mindfulness i psicoteràpia humanista amb el Treball que Reconnecta i la pràctica del Moviment Autèntic.", "**Aquest taller no forma part de la Discipline of Authentic Movement de Janet Adler ni pretén oferir-ne una formació. El Moviment Autèntic constitueix una de les fonts i pràctiques que inspiren la proposta.**"]}
-    ], "buttons": [{"text": "Demanar més informació", "href": "contacte-2"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
+    ], "buttons": [{"text": "Avisa'm de la propera edició", "href": "mailto:lespiral.osona@gmail.com?subject=Avisa%27m%20de%20la%20propera%20edici%C3%B3%3A%20El%20Treball%20que%20Reconnecta%20i%20Moviment%20Aut%C3%A8ntic"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
     {"type": "text", "html": true, "title": "Què és el Treball que Reconnecta?", "image": "57-tqr.jpg", "lead": false, "paragraphs": [
       "El <strong>Treball que Reconnecta</strong>, creat per <a href=\"https://www.joannamacy.net/main\" rel=\"noopener\"><strong>Joanna Macy</strong></a>, és una proposta vivencial per afrontar el malestar davant les crisis personals, socials i ecològiques sense quedar atrapats en la impotència. La seva Espiral passa per tres moviments:"
     ], "list": [
