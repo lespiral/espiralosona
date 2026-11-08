@@ -4,7 +4,7 @@
   "title": "Gestiona el soroll mental",
   "lead": "Un taller per aprendre a fer un pas enrere quan la ment no para i observar els pensaments sense deixar-te arrossegar.",
   "image": "06-soroll-mental.jpg",
-  "buttons": [{"text": "Formulari d'inscripció", "href": "https://forms.gle/8NvAebo2uQLQgSyp7"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}],
+  "buttons": [{"text": "Avisa'm de la propera edició", "href": "mailto:lespiral.osona@gmail.com?subject=Avisa%27m%20de%20la%20propera%20edici%C3%B3%3A%20Gestiona%20el%20soroll%20mental"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}],
   "description": "Taller pràctic de Mindfulness a Vic per gestionar l'excés de soroll mental, observar els pensaments amb compassió i aprendre a estar en la incertesa.",
   "sections": [
     {"type": "help", "band": "soft"},
@@ -29,11 +29,11 @@
       "**Menys por:** calmar el «cervell de supervivència» i distingir les alertes útils del soroll.",
       "**Deixar anar:** fer una pausa, acceptar la incertesa i no enganxar-te a la preocupació següent.",
       "**Descans:** trobar espais de silenci interior que poden ajudar a reduir l'estrès i l'ansietat."
-    ], "buttons": [{"text": "Formulari d'inscripció", "href": "https://forms.gle/8NvAebo2uQLQgSyp7"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
+    ], "buttons": [{"text": "Avisa'm de la propera edició", "href": "mailto:lespiral.osona@gmail.com?subject=Avisa%27m%20de%20la%20propera%20edici%C3%B3%3A%20Gestiona%20el%20soroll%20mental"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
     {"type": "cards", "cols": 2, "items": [
-      {"icon": "calendar-dots", "title": "Detalls pràctics", "list": ["**Durada:** 3 hores, de teoria i pràctica.", "**Data:** dissabte 31 d'octubre", "**Horari:** de 10 h a 13 h", "**Format:** en directe, presencial a Vic o online.", "**On?** Ronda de Francesc Camprodon, 25, 1r 1a. 08500 Vic, o des de casa.", "**Preu:** 35 euros, amb accés a material gravat per continuar practicant després del taller.", "**Idioma:** català"]},
+      {"icon": "calendar-dots", "title": "Detalls pràctics", "list": ["**Durada:** 3 hores, de teoria i pràctica.", "**Properes dates:** aviat oferirem nous dies i horaris. Si vols que t'avisem de la propera edició, escriu-nos.", "**Format:** en directe, presencial a Vic o online.", "**On?** Ronda de Francesc Camprodon, 25, 1r 1a. 08500 Vic, o des de casa.", "**Preu:** 35 euros, amb accés a material gravat per continuar practicant després del taller.", "**Idioma:** català"]},
       {"icon": "users", "title": "Impartit per", "lead": "Aleix Boronat", "text": "Director i cofundador de L'Espiral. Terapeuta humanista i mentor de Mindfulness."}
-    ], "buttons": [{"text": "Formulari d'inscripció", "href": "https://forms.gle/8NvAebo2uQLQgSyp7"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
+    ], "buttons": [{"text": "Avisa'm de la propera edició", "href": "mailto:lespiral.osona@gmail.com?subject=Avisa%27m%20de%20la%20propera%20edici%C3%B3%3A%20Gestiona%20el%20soroll%20mental"}, {"text": "Sobre nosaltres", "href": "sobre-nosaltres"}]},
     {"type": "maps", "band": "stone", "id": "on-som"}
   ]
 }
