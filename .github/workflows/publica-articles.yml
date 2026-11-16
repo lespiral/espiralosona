@@ -1,0 +1,63 @@
+# Publica els articles programats: cada dia genera la web i, si hi ha un article
+# amb data d'avui (o anterior) que encara no és a docs/, fa commit i push.
+name: Publica articles programats
+
+on:
+  schedule:
+    # 05:10 UTC = 06:10 o 07:10 a Vic. Si no s'executa a l'hora, s'executa el matí següent.
+    - cron: "10 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  publica:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Hi ha algun article per publicar?
+        id: toca
+        run: |
+          python3 - <<'PY'
+          import json, os, pathlib, datetime
+          avui = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=1))).strftime("%Y-%m-%d")
+          falten = []
+          for f in sorted(pathlib.Path("data/articles").glob("*.json")):
+              a = json.loads(f.read_text(encoding="utf-8"))
+              if a.get("date", "9999") <= avui and not pathlib.Path("docs", f.stem, "index.html").exists():
+                  falten.append(f.stem)
+          print("Per publicar:", falten or "cap")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as o:
+              o.write("toca=" + ("si" if falten else "no") + "\n")
+          PY
+
+      - name: Instal·la dependències
+        if: steps.toca.outputs.toca == 'si'
+        run: pip install jinja2 markupsafe
+
+      - name: Genera la web
+        if: steps.toca.outputs.toca == 'si'
+        run: python3 build.py
+
+      - name: Commit i push
+        if: steps.toca.outputs.toca == 'si'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Publica els articles programats d'avui"
+          git push
+
+      - name: Demana la publicació a GitHub Pages
+        if: steps.toca.outputs.toca == 'si'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
