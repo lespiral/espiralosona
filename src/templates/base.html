@@ -15,9 +15,8 @@
   <meta property="og:type" content="website">
   <meta property="og:locale" content="ca_ES">
   {% if favicon %}<link rel="icon" type="image/png" sizes="48x48" href="{{ aroot }}assets/img/favicon-48.png"><link rel="apple-touch-icon" href="{{ aroot }}assets/img/apple-touch-icon.png">{% endif %}
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+  <link rel="preload" href="{{ aroot }}assets/fonts/inter-300-600.woff" as="font" type="font/woff" crossorigin>
+  <link rel="preload" href="{{ aroot }}assets/fonts/playfair-display-400-600.woff" as="font" type="font/woff" crossorigin>
   <link rel="stylesheet" href="{{ aroot }}assets/site.css?v={{ version }}">
 </head>
 <body>
@@ -80,7 +79,7 @@
       </div>
       <div class="footer__col">
         <p class="footer__h">Informació legal</p>
-        <ul>{% for l in site.footer.legal %}<li><a href="{{ l.href }}">{{ l.title }}</a></li>{% endfor %}</ul>
+        <ul>{% for l in site.footer.legal %}<li><a href="{{ l.href if l.href.startswith('http') else root ~ l.href ~ '/' }}">{{ l.title }}</a></li>{% endfor %}</ul>
       </div>
     </div>
     <div class="wrap footer__bottom"><p>{{ site.footer.copyright }}</p></div>

@@ -248,6 +248,14 @@ art_section = next((p["slug"] for p in pages if any(s.get("type") == "articles" 
 for a in articles:
     pending += render("article.html", a["slug"], a["slug"], section=art_section, page_title=a["title"],
                       page_description=a.get("description") or a["summary"], article=a, articles_slug=art_section).count("[PENDENT]")
+# Textos legals (data/legal.json): avís legal, política de privacitat i política de galetes
+_legal = json.loads((DATA / "legal.json").read_text(encoding="utf-8"))
+legal_pending = 0
+for _slug, _p in _legal["pages"].items():
+    _body = _p["html"].replace("{{root}}", "../").replace("{{updated}}", _legal["updated"]).replace("{{school}}", _legal.get("school_privacy_url", ""))
+    legal_pending += _body.count("[Per confirmar")
+    _body = re.sub(r"\[Per confirmar[^\]]*\]", lambda m: f'<span class="legal__pending">{m.group(0)}</span>', _body)
+    render("legal.html", _slug, section="legal", page_title=_p["title"], page_description=_p["desc"], lp={"title": _p["title"], "body": Markup(_body)})
 render("404.html", "404.html", page_title="Pàgina no trobada", root=BASE)
 
 # Adreces antigues de WordPress que ja no són una pàgina: porten a la nova.
@@ -283,6 +291,8 @@ shutil.copy(SRC / "site.css", OUT / "assets" / "site.css")
 shutil.copy(SRC / "site.js", OUT / "assets" / "site.js")
 if IMG.exists():
     shutil.copytree(IMG, OUT / "assets" / "img")
+if (SRC / "fonts").exists():
+    shutil.copytree(SRC / "fonts", OUT / "assets" / "fonts")
 (OUT / ".nojekyll").write_text("")
 if NOINDEX:
     (OUT / "robots.txt").write_text("User-agent: *\nDisallow: /\n")
@@ -304,4 +314,4 @@ for name, p in sorted(pending_imgs.items()):
 (ROOT / "IMATGES-PENDENTS.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 print(f"Fet: {len(pages) + 1} pàgines; {len(articles)} articles publicats ({n_future} programats); {n_redirects} adreces antigues redirigides; {len(pending_imgs)} imatges pendents; "
-      f"{pending} marques [PENDENT]. adreça={SITE_URL} cercadors={'no' if NOINDEX else 'sí'}")
+      f"{pending} marques [PENDENT]; {legal_pending} «Per confirmar» als textos legals. adreça={SITE_URL} cercadors={'no' if NOINDEX else 'sí'}")

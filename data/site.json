@@ -59,9 +59,9 @@
       {"slug": "contacte-2", "title": "Contacte"}
     ],
     "legal": [
-      {"title": "Política de privacitat", "href": "https://lespiral.cat/politica-de-privacidad/"},
-      {"title": "Avís legal", "href": "https://lespiral.cat/aviso-legal/"},
-      {"title": "Política de cookies", "href": "https://lespiral.cat/politica-de-cookies/"}
+      {"title": "Política de privacitat", "href": "politica-de-privacitat"},
+      {"title": "Avís legal", "href": "avis-legal"},
+      {"title": "Política de cookies", "href": "politica-de-galetes"}
     ],
     "copyright": "L'Espiral © 2026"
   },

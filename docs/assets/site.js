@@ -32,6 +32,21 @@
     Array.prototype.forEach.call(els, function (el) { io.observe(el); });
   }
 
+  // Mapes de Google: el mapa no es carrega fins que la persona hi fa clic («Mostra el mapa»)
+  Array.prototype.forEach.call(document.querySelectorAll('[data-map-show]'), function (b) {
+    b.addEventListener('click', function () {
+      var box = b.closest('.map');
+      if (!box) return;
+      var f = document.createElement('iframe');
+      f.title = box.getAttribute('data-map-title') || 'Mapa';
+      f.referrerPolicy = 'no-referrer-when-downgrade';
+      f.src = box.getAttribute('data-map-src');
+      box.textContent = '';
+      box.classList.remove('map--ask');
+      box.appendChild(f);
+    });
+  });
+
   // Vídeos de YouTube: la imatge es canvia pel vídeo en clicar (la pàgina no carrega YouTube fins aleshores)
   Array.prototype.forEach.call(document.querySelectorAll('[data-yt]'), function (a) {
     a.addEventListener('click', function (e) {

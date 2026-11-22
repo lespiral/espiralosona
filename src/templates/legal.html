@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+{# Pàgina legal de data/legal.json: "title" i "body" (HTML) #}
+<article class="article legal">
+  <header class="article__head">
+    <div class="wrap wrap--narrow">
+      <h1>{{ lp.title }}</h1>
+    </div>
+  </header>
+  <div class="article__body wrap wrap--narrow">
+{{ lp.body }}
+  </div>
+</article>
+{% endblock %}

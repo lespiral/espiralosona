@@ -2,6 +2,10 @@
    Direcció visual: la proposta de Gemini (Playfair Display + Inter, aire, targetes amb foto),
    amb els blaus del logo de L'Espiral d'Osona. */
 
+@font-face{font-family:"Inter";font-style:normal;font-weight:300 600;font-display:swap;src:url("fonts/inter-300-600.woff") format("woff")}
+@font-face{font-family:"Playfair Display";font-style:normal;font-weight:400 600;font-display:swap;src:url("fonts/playfair-display-400-600.woff") format("woff")}
+@font-face{font-family:"Playfair Display";font-style:italic;font-weight:400 600;font-display:swap;src:url("fonts/playfair-display-italic-400-600.woff") format("woff")}
+
 :root{
   /* Blaus del logo */
   --c50:#f3f7fc; --c100:#e3edf9; --c200:#c6daf2; --c300:#94bce8; --c400:#5aa9e6; --c500:#3f86d1;
@@ -333,6 +337,20 @@ main{padding-top:var(--topbar)}
 .card--map:hover{transform:none}
 .map{aspect-ratio:4/3;background:var(--stone)}
 .map iframe{width:100%;height:100%;border:0;display:block}
+.map--ask{display:flex;align-items:center;justify-content:center;padding:20px;background:var(--c50)}
+.map__ask{display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;max-width:300px}
+.map__icon{width:38px;height:38px;color:var(--c600)}
+.map__icon .i{width:100%;height:100%}
+.map__btn{display:none}
+.js .map__btn{display:inline-flex}
+.map__link{padding-top:0}
+.map__note{margin:6px 0 0;font-size:13px!important;line-height:1.45;color:var(--muted)}
+.map__note a{color:var(--c700);text-decoration:underline;text-underline-offset:2px}
+/* Pàgines legals (avís legal, privacitat, galetes) */
+.legal .article__body ul{padding-left:1.2em;margin:0 0 1.1em}
+.legal .article__body li{margin-bottom:.4em}
+.legal__date{color:var(--muted);font-size:16px}
+.legal__pending{background:#fff4d6;border-radius:4px;padding:0 .3em;color:#6b4a00}
 .card--map .card__body{padding:20px 22px 22px}
 .card--map .card__title{font-size:19px;margin-bottom:4px}
 .card--map p{font-size:15px;color:var(--muted)}

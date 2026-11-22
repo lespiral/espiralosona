@@ -226,7 +226,15 @@
       <ul class="cards cards--3">
         {% for l in m.places %}
         <li class="card card--map reveal">
-          <div class="map"><iframe title="Mapa: {{ l.title }}" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?q={{ l.map|urlencode }}&amp;t=m&amp;z={{ l.zoom or 15 }}&amp;output=embed&amp;iwloc=near"></iframe></div>
+          {# El mapa de Google no es carrega fins que la persona hi fa clic (src/site.js): abans, només un requadre amb un enllaç a Google Maps. #}
+          <div class="map map--ask" data-map-src="https://maps.google.com/maps?q={{ l.map|urlencode }}&amp;t=m&amp;z={{ l.zoom or 15 }}&amp;output=embed&amp;iwloc=near" data-map-title="Mapa: {{ l.title }}">
+            <div class="map__ask">
+              <span class="map__icon" aria-hidden="true">{{ icon('pin') }}</span>
+              <button type="button" class="btn btn--primary btn--sm map__btn" data-map-show>Mostra el mapa</button>
+              <a class="more map__link" href="https://www.google.com/maps/search/?api=1&amp;query={{ l.map|urlencode }}" rel="noopener" target="_blank">Obre'l a Google Maps {{ icon('arrow') }}</a>
+              <p class="map__note">En mostrar el mapa, el teu navegador es connecta a Google. <a href="{{ root }}politica-de-galetes/">Més informació</a></p>
+            </div>
+          </div>
           <div class="card__body"><h3 class="card__title">{{ l.title }}</h3>{% if l.text %}<p>{{ l.text }}</p>{% endif %}</div>
         </li>
         {% endfor %}
